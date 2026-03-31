@@ -1,0 +1,17 @@
+**Zusammenfassung:**
+
+Die Raumfahrtindustrie erlebt einen Paradigmenwechsel durch die Entwicklung autonomer Orbitalsysteme. Diese Systeme bestehen aus vielen kleinen Satelliten, die gemeinsam Aufgaben erfüllen und sich nach Bedarf reorganisieren können. Im Gegensatz zu klassischen, monolithischen Satelliten bieten Schwarmarchitekturen Redundanz, dynamische Reaktion auf Umwelteinflüsse und adaptive Leistungsfähigkeit.
+
+Die Rolle neuer Antriebe, wie elektrische Triebwerke, ist entscheidend für die Langzeitautonomie dieser Systeme. Sie ermöglichen selbstständiges Ausweichen bei Kollisionswarnungen, feinjustierte Formationflüge und langzeitige Missionen im Mond- und Marsorbit.
+
+Die Herstellung dieser Satelliten basiert auf neuartigen Produktionsmethoden, wie der Digitalisierung und dem 3D-Druck. Der sogenannte digitale Zwilling dokumentiert Lebensdauer, thermische Belastungen und Materialermüdung, was zu präventiven Ausfällen und beschleunigten Reparatur- oder Reproduktionsprozessen führt.
+
+Die Zukunft der Raumfahrt sieht autonome Orbitalsysteme als Teil eines globalen, teilweise selbstverwalteten technischen Ökosystems. Dieser Entwicklungssprung wird sämtliche klassischen Branchen verändern und zu neuen Möglichkeiten in der Raumfahrt, im Ingenieurwesen, der KI-Forschung und dem Maschinenbau führen.
+
+**Relevante Textstellen:**
+
+* "Die Raumfahrt des 21. Jahrhunderts befindet sich an einem Wendepunkt, der die Art und Weise, wie Menschen den Weltraum nutzen, grundlegend verändern wird."
+* "Schwarmarchitekturen, bestehend aus vielen kleinen Satelliten, die gemeinsam Aufgaben erfüllen und sich nach Bedarf reorganisieren können."
+* "Elektroantriebe – Ionentriebwerke, Hall-Effekt-Triebwerke, Feldemissionsantriebe – liefern geringe Schubkräfte, aber über extrem lange Zeiträume."
+* "Der sogenannte digitale Zwilling dokumentiert Lebensdauer, thermische Belastungen, Materialermüdung, Schwingungseigenschaften und sogar Qualität mikroskopischer Oberflächen."
+* "Die Raumfahrt verwandelt sich in ein globales, teilweise selbstverwaltetes technisches Ökosystem."

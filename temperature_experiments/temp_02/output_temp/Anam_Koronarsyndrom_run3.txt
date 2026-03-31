@@ -1,0 +1,46 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Pauline Breitner, geboren am 1. Februar 1963, Größe 1,70 m, Gewicht ca. 67 kg (letzte Messung).
+*   **Hausarzt:** Frau Dr. Scherf (SCH-ERF).
+*   **Hauptbeschwerde:** Plötzliche Brustschmerzen seit gestern Abend, die beim Sitzen vor dem Fernseher auftraten. Früher hatte sie ähnliche Schmerzen nur bei Anstrengung (Treppensteigen, schnelleres Laufen, schweres Tragen).
+*   **Schmerzcharakteristik:** Aktuell Schmerzintensität 6/10 im Ruhezustand, wird bei Bewegung intensiver. Mittiger Brustschmerz, dumpf und drückend, mit Engegefühl. Strahlt nicht aus.
+*   **Begleitsymptome:** Seit ca. 2 Wochen gelegentliche Übelkeit ("Bauchgefühl", kein Erbrechen) und Herzklopfen (Pochen), besonders nachts, was das Einschlafen erschwert. Nachts schwitzt sie manchmal stark (nasses T-Shirt), vermutet Zusammenhang mit Wechseljahren.
+*   **Appetit/Gewicht:** Appetitverlust und Gewichtsverlust (ca. 1 kg) in den letzten 2 Wochen.
+*   **Vorerkrankungen:** Bluthochdruck (seit 10 Jahren, aktuell keine Medikation), Niereninsuffizienz (wird regelmäßig von Hausärztin untersucht).
+*   **Operationen:** Mandelnentfernung (Kindheit), Blinddarm-OP (mit 18 Jahren), beides komplikationslos.
+*   **Impfstatus:** Geimpft, Impfpass nicht dabei, kann aber später mitgebracht werden.
+*   **Menstruation:** Regelmäßig.
+*   **Sonstiges:** Normaler Appetit (außer in letzter Zeit), keine Probleme mit Stuhlgang/Wasserlassen, kein Fieber/Schüttelfrost. Nickelallergie (Hautausschlag, Juckreiz bei braunen Pflastern).
+*   **Sozialanamnese:** Lehrerin, Raucherin (ca. 0,5 Schachtel/Tag, versucht zu reduzieren), gelegentlich Alkohol (Wein/Bier).
+*   **Familienanamnese:** Mutter starb mit 55 an Herzinfarkt, Vater (80) hatte Herzinfarkt und blauen Star, lebt noch. Keine Geschwister. Eine 25-jährige Tochter (gesund, lebt nicht mehr zu Hause). Ehemann vorhanden.
+*   **Psychosozial:** Normaler Stress durch Arbeit, keine spezifische Belastung.
+
+**Arzt:**
+
+*   **Begrüßung und Einleitung:** Stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs (Fragen zur Person, dann Beschwerden), bietet Pausen an.
+*   **Anamneseerhebung:** Stellt gezielte Fragen zu den oben genannten Punkten (persönliche Daten, Hausarzt, Beschwerden, Schmerzcharakteristik, Begleitsymptome, Vorerkrankungen, Medikation, Operationen, Impfstatus, Periode, Appetit/Gewicht, Stuhlgang/Wasserlassen, Fieber, Allergien, Stress, Beruf, Rauchen, Alkoholkonsum, Drogenkonsum, Familienanamnese, Lebenssituation).
+*   **Einschätzung und Planung:**
+    *   Bestätigt, dass die Patientin richtig gehandelt hat, indem sie sich vorgestellt hat.
+    *   Plant sofortige Untersuchungen: EKG, Blutabnahme, "Corona-Angiografie" (vermutlich CT-Angiographie).
+    *   Erklärt kurz den Ablauf der Angiografie (Kontrastmittel, Röntgen).
+    *   Verspricht, die Patientin nach den Untersuchungen zu informieren, nachdem sie mit dem Oberarzt gesprochen hat.
+    *   Bietet Hilfe beim Rauchstopp an.
+    *   Erwähnt, dass Nachtschweiß verschiedene Ursachen haben kann (Bluthochdruck, Wechseljahre) und erst nach Untersuchungen eine Aussage getroffen werden kann.
+
+**Relevante Textstellen:**
+
+*   **Patientenname und Geburtsdatum:** "Ich heiße Pauline Breitner. Frau Breitner, wann sind Sie geboren? Am 1. Februar 1963."
+*   **Hausarzt:** "Frau Breitner, wer ist denn Ihr Hausarzt oder Ihre Hausärztin? Das ist die Frau Dr. Scherf. Können Sie mir das bitte einmal kurzbuchstabieren? Ja, das ist SCH-ERF."
+*   **Hauptbeschwerde:** "Ja, ich habe plötzlich so Brustschmerzen bekommen. Plötzlich gestern beim Sitzen vor dem Fernseher... Und ich merke sie heute immer noch."
+*   **Schmerzcharakteristik:** "Die Schmerzintensität... wo würden Sie Ihre Schmerzen derzeit einschätzen? Dann würde ich sagen, die liegen aktuell so bei 6. Bei einer 6, jetzt im Ruhezustand? Genau. Und wie wird es, wenn Sie sich bewegen, wird es intensiver oder etwas besser? Das wird auf jeden Fall intensiver, ja... Sie haben jetzt gesagt in der Brust. Können Sie mir das einmal zeigen, wo sich der Schmerz in der Brust befindet? Ja, so mittig würde ich sagen... Die fühlen sich eher so einengend an. Ich fühle mich so ein bisschen, ich fühle so ein enge Gefühl in der Brust und wir sind eher dumpf und drückend."
+*   **Begleitsymptome:** "Ich beobachte tatsächlich, dass mir in letzter Zeit oft übel wird... Und auch nachts habe ich so ein Herzklopfen... Und manchmal ist es sogar so, dass ich schon ein nasses T-Shirt habe. Und ich dachte, vielleicht liegt das irgendwie an den Wechseljahren."
+*   **Vorerkrankungen:** "Ja, ich habe leider einen Bluthochdruck... Und ich habe auch eine Niereninsuffizienz."
+*   **Medikation:** "Nehmen Sie Medikamente dagegen ein? Nein, ich nehme aktuell keine Medikamente."
+*   **Operationen:** "Ich wurde schon mal operiert, allerdings als Kind. Mir wurden meine Mandeln entfernt mit Sieben. Ich hatte auch eine Blinddarm-OP mit 18 Jahren."
+*   **Rauchen:** "Ich rauche leider, ja. Sogleich ist da Stress ein bisschen auch. Okay, wie viel rauchen Sie ungefähr? Manchmal ist ein halbes Bäckchen am Tag schon drin. Aber ich versuche in letzter Zeit ein bisschen weniger zu rauchen."
+*   **Familienanamnese:** "Meine Mutter ist leider während ihrer Weihpaarsop verstorben, einen Herzinfarkt... Mein Vater hatte auch einen Herzinfarkt... "
+*   **Arzt - Planung:** "Ich werde gleich sofort mit Ihnen Untersuchungen durchführen. Wir werden ein EKG durchführen... Ich würde auch gerne mal ein bisschen Blut abnehmen und eine Corona-Angiografie mit Ihnen durchführen... Das machen wir gleich. Ich bringe Sie gleich direkt rüber. Und dann fangen wir mit den Untersuchungen an... danach werde ich mich mit dem Oberarzt besprechen und dann noch mal auf Sie zurückkommen, wenn ich eine Diagnose mit ihm geklärt habe."
+*   **Arzt - Angebot:** "Wenn Sie Hilfe oder Unterstützung brauchen, mit dem Rauchen aufzuhören, gebe ich Ihnen gerne nachher noch mal ein paar Flyer mit."
+*   **Arzt - Nachtschweiß:** "Nachtschweiß, das kann mehrere Ursachen haben... Lassen Sie uns das noch mal untersuchen, okay?"

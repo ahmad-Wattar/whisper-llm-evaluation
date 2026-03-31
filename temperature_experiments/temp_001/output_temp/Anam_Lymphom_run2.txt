@@ -1,0 +1,70 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Michael Hemminger, 57 Jahre alt (geboren am 23. Oktober 1963), 1,79 m groß, aktuell 76 kg (hat in den letzten 6 Monaten 7 kg abgenommen).
+*   **Beschwerden:**
+    *   Druckgefühl im linken Ohr seit einigen Tagen.
+    *   Schluckbeschwerden, besonders bei festen Speisen ("richtige Probleme", "kriege es gar nicht runter").
+    *   Seit gestern ein schmerzloser, aber fester und großer Knubbel auf der linken Seite (Halsbereich, unter dem Kiefer).
+    *   Müdigkeit in letzter Zeit, stärker als sonst.
+    *   Nachtschweiß ("stark", muss T-Shirt mehrmals wechseln).
+    *   Häufiges Wasserlassen in der Nacht.
+*   **Vorerkrankungen/Vorgeschichte:**
+    *   Plötzlicher Hörsturz vor 7 Jahren (behandelt mit Infusion, Details unbekannt).
+    *   Bluthochdruck (seit 5-6 Jahren).
+    *   Chronischer Husten (seit 10 Jahren).
+    *   Rückenschmerzen.
+    *   Hüftgelenkentzündung (Geht einmal wöchentlich zur Physiotherapie).
+    *   Pflaster- und Zitrusfrüchteallergie (Haut).
+*   **Sozialanamnese:**
+    *   Verheiratet, hat eine erwachsene Tochter.
+    *   Rentner, ehemaliger Bauarbeiter (Lärmexposition).
+    *   Raucher (seit über 40 Jahren, ca. 1 Packung/Tag).
+    *   Trinkt täglich 1-2 Bier.
+*   **Medikation:**
+    *   Remipril 5 mg (gegen Bluthochdruck, morgens).
+    *   Spiriva (2x täglich, Dosierung ca. 2,5 Mikrogramm).
+    *   Ibuprofen 600 mg (bei Bedarf, selten).
+*   **Familienanamnese:**
+    *   Mutter hatte Brustkrebs.
+    *   Vater starb an Herzversagen.
+
+**Arzt:**
+
+*   **Begrüßung und Entschuldigung:** Entschuldigt sich für die lange Wartezeit und erklärt die hohe Auslastung.
+*   **Anamnese:** Führt ein Anamnesegespräch durch, um wichtige Fragen zu stellen.
+*   **Untersuchungsplan:**
+    *   Körperliche Untersuchung.
+    *   Ultraschall.
+    *   Blutabnahme.
+    *   Eventuell weitere Untersuchungen (Röntgen, CT), abhängig von den ersten Befunden.
+*   **Informationen zum Ablauf:**
+    *   Patient wird wahrscheinlich noch einige Stunden in der Praxis bleiben müssen.
+    *   Entscheidung über weitere Schritte (Stationäre Aufnahme?) hängt von den Untersuchungsergebnissen ab.
+    *   Cafeteria ist geschlossen, Patient kann sich einen Kaffee/Zeitung kaufen, um die Wartezeit zu überbrücken.
+*   **Einschätzung der Beschwerden:** Die Beschwerden könnten verschiedene Ursachen haben (Entzündung, etc.), die untersucht werden müssen. Der Knubbel könnte mit den Schluckbeschwerden zusammenhängen, dies ist aber unklar.
+*   **Hinweis auf mögliche Risikofaktoren:** Erwähnt, dass Lebensgewohnheiten (Rauchen, Alkohol) Risikofaktoren sein können, insbesondere im Zusammenhang mit Lymphknoten (im Hinblick auf den Knubbel).
+*   **Betonung der Wichtigkeit der Fragen:** Erklärt, dass die Fragen zu Lebensgewohnheiten wichtig sind, um Risikofaktoren zu identifizieren.
+
+**Relevante Textstellen:**
+
+*   **Patientenname:** "Hemminger ist mein Name. Michael."
+*   **Alter/Geburtstag:** "57 bin ich. Am 23. Oktober 63."
+*   **Größe/Gewicht:** "Ich bin 1,79 groß. Und Sie sind wiegen Sie zurzeit? Wissen Sie das? Ja, ich hatte Ihnen gesagt, ich habe so stark abgenommen. Jetzt bin ich so bei 76 Kilo. Ich war mal 2,83."
+*   **Beschwerden Ohr:** "Ich habe Druck am linken Ohr seit ein paar Tagen."
+*   **Beschwerden Schlucken:** "Ich habe beim Essen Probleme, beziehungsweise beim Schlucken. Also vor allem, weil wenn ich irgendwas Festes zu mir nehme, wenn ich irgendwas Festeres esse, da habe ich richtig Probleme und ich kriege es gar nicht runter."
+*   **Beschwerden Knubbel:** "Was mir aber richtig Sorgen gemacht hat, ist, ich habe seit gestern so einen Knubbel hier auf der linken Seite und ich habe das Gefühl, dass er auch größer wird."
+*   **Knubbel schmerzlos:** "Der tut nicht weh, aber ist schon so ganz schön fest und groß."
+*   **Müdigkeit/Nachtschweiß:** "Ich bin aber schon etwas müde in letzter Zeit, müder als sonst. [...] Ich schwitze immer so nachts und wache dann mehrmals auf. [...] Ist schon stark. Ich muss schon mein T-Shirt wechseln mehrmals die Nacht oder manchmal schon zwei, dreimal nachts."
+*   **Hörsturz:** "Ich hatte so einen plötzlichen Hörsturz vor sieben Jahren."
+*   **Bluthochdruck:** "Bluthochdruck habe ich seit ein paar Jahren."
+*   **Chronischer Husten:** "Und chronischen Husten. Das habe ich schon seit zehn Jahren."
+*   **Rauchen:** "Ich bin Raucher. Aber wollen Sie mich nicht endlich untersuchen? [...] Ich rauche. Ich bin seit über 40 Jahren schon Raucher. Und ich trinke auch gelegentlich. [...] Ja, eine Packung am Tag."
+*   **Alkohol:** "Ich trinke auch gelegentlich. [...] Ich trinke schon täglich ein, zwei Bier."
+*   **Medikation:** "Remipril heißt das, was ich gegen Bluthochdruck nehme. [...] Spiriva, das nehme ich zweimal täglich."
+*   **Gewichtsverlust:** "Ich merke es schon auch, dass ich in den letzten Monaten ziemlich heftig abgenommen habe, ohne das Gewollt zu haben. [...] Ja, so sieben Kilo im halben Jahr."
+*   **Allergien:** "Ich habe so eine Pflasterallergie und gegen Zitrusfrüchte."
+*   **Arzt stellt sich vor:** "Herr Hemminger, ich bin die Ärztin hier."
+*   **Untersuchungsplan:** "Ich werde jetzt mit Ihnen das Gespräch weiterführen. [...] Danach geht es auch zu den Untersuchungen. Die werde ich auch mit durchführen. [...] Und danach besprechen wir gemeinsam mit unserem Oberarzt zusammen noch die Ergebnisse."
+*   **Wartezeit:** "Dann machen Sie sich vielleicht noch eine Zeitschrift kaufen oder so etwas, dass Sie die Wartezeit überbrücken können."

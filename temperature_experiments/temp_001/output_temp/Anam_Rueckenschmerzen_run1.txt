@@ -1,0 +1,59 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Anne-Marie Meier (mit zwei N, Bindestrich, AY für Meier).
+*   **Geburtsdatum:** 2. Juli 1983 (36 Jahre alt).
+*   **Größe:** 1,67 m.
+*   **Gewicht:** 57,4 kg.
+*   **Hausarzt:** Herr Dr. Müller-Karst.
+*   **Vorfall:** Starke Rückenschmerzen (unterer Rücken) beim Tragen schwerer Kisten beim Umzug, die plötzlich auftraten. Die Schmerzen strahlen in beide Beine aus.
+*   **Schmerzintensität:** 9-10/10 bei Bewegung, stechend.
+*   **Beweglichkeit:** Sehr eingeschränkt ("Es geht kaum, wirklich.").
+*   **Vorerkrankungen:** Keine, außer Blinddarmentfernung (vor 7-8 Jahren) und Weisheitszahnentfernung (mit Entzündung, umgefallen vor Schmerz, aber abgeheilt).
+*   **Medikamente:** Regelmäßig Ibuprofen (genommen vor einer halben Stunde), gelegentlich leichte Beruhigungstabletten (Lesara, Johanneskraut).
+*   **Beruf:** Pharma-Referentin (im Labor, steht viel).
+*   **Körperliches Befinden:** Ansonsten gesund, regelmäßig Sport (Fitnessstudio, Joggen, Spinning).
+*   **Allergien:** Gegen Katzenhaare, Erdnüsse (schwere Reaktion).
+*   **Sozial:** Single, kein Freund.
+*   **Rauchen:** Gelegenheitsraucherin (ca. 5 Zigaretten/Woche).
+*   **Alkohol:** Am Wochenende (Cocktails).
+*   **Drogen:** Keine.
+*   **Familie:** Eltern leben, gesund. Älterer Bruder, gesund. Großmutter hatte Hirnblutung (erholt).
+*   **Reisen:** Über Weihnachten auf den Malediven.
+*   **Aktuelle Situation:** Starke Schmerzen, direkt aus der Notaufnahme gekommen.
+
+**Arzt:**
+
+*   **Name:** Nina Colette (Assistenzärztin).
+*   **Ziel:** Aufnahme des Patienten (Frau Meier) und Anamnese.
+*   **Vorgehen:**
+    *   Begrüßung und Einverständnis einholen.
+    *   Kurze persönliche Fragen (Name, Geburtsdatum, Größe, Gewicht, Hausarzt).
+    *   Detaillierte Fragen zum aktuellen Vorfall (Umzug, Kisten, Schmerzcharakter, Lokalisation, Ausstrahlung, Intensität, Bewegungseinschränkung).
+    *   Fragen zu Vorerkrankungen, Operationen, regelmäßiger Medikation, Beruf, allgemeinem Befinden, Sport, Allergien, Rauchen, Alkoholkonsum, Drogenkonsum, Familienanamnese, Reisen.
+*   **Plan:** Röntgen und MRT durchführen, Rücksprache mit dem Oberarzt halten, um Diagnose zu stellen.
+*   **Hinweis:** Schmerztablette scheint Wirkung zu zeigen.
+
+**Relevante Textstellen:**
+
+*   **Patientenname:** "Anne-Marie Meier." - "Anne mit zwei N, mit Bindestrich, Anne-Marie, also zwei Doppelnamen. Und Meier? Meier mit AY."
+*   **Geburtsdatum/Alter:** "Ich bin 36 und ich bin am 2. Juli 1983 geboren."
+*   **Größe/Gewicht:** "1,67." - "57,4."
+*   **Hausarzt:** "Ja, das ist der Herr Dr. Müller. Müller-Karst mit Bindestrich."
+*   **Vorfall:** "Ja, ich bin heute am Umziehen...schwere Kisten getragen und irgendwie habe ich plötzlich so starke Schmerzen im Rücken bekommen..."
+*   **Schmerzort:** "Im unteren Bereich."
+*   **Schmerzintensität:** "Wenn ich mich bewege 9 bis 10."
+*   **Schmerzcharakter:** "Ja, stechend und sehr stark."
+*   **Schmerzausstrahlung:** "Ja, die strahlen Richtung Beine aus, in beiden Beinen."
+*   **Beweglichkeit:** "Es geht kaum, wirklich."
+*   **Vorerkrankungen:** "Nein, keine Vorerkrankungen."
+*   **Operationen:** "Ja, mir wurde der Blinddarm entfernt...Ach, und die Weisheitszähne wurden mir auch entfernt."
+*   **Medikamente:** "Ich habe vor einer halben Stunde ein Ibuprofen genommen...Nein, sonst nehme ich keine Medikamente...Wobei, ich nehme ab und zu mal leichte Beruhigungstabletten. Ich würde sie gar nicht als Medikamente einstufen, aber Lesara und Johanneskraut..."
+*   **Beruf:** "Ich bin Pharma-Referentin." - "Arbeiten Sie im Büro mehr oder im Labor? Im Labor."
+*   **Allergien:** "Ich habe keine Allergien gegen Medikamente, aber gegen Katzen...Ja, ich habe noch eine Erdnussallergie."
+*   **Rauchen/Alkohol:** "Ich bin so ein Gelegenheitsraucher...Trinken Sie Alkohol? Auch nur am Wochenende."
+*   **Drogen:** "Nein, ich nehme nichts derartiges."
+*   **Familie:** "Nur meine Großmutter hatte eine Hirnblutung." - "Meine Eltern leben noch, ja. Sie sind gesund."
+*   **Reisen:** "Ja, ich war über Weihnachten auf den Malediven."
+*   **Arzt-Plan:** "Und sobald das durch ist, werde ich mit dem Oberarzt Rücksprache halten, damit wir Ihnen sagen können, was bei Ihnen los ist."

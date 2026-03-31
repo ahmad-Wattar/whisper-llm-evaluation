@@ -1,0 +1,3 @@
+nohup: ignoring input
+[NbConvertApp] Converting notebook temp.ipynb to notebook
+[NbConvertApp] Writing 273443 bytes to temp_output.ipynb

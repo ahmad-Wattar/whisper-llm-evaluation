@@ -1,0 +1,139 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Herr Wolfgang Müller, geboren am 11. November 1963 (57 Jahre alt). Gewicht ca. 115-116 kg, Größe 1,87 m.
+*   **Hausarzt:** Frau Dr. Westenberger.
+*   **Hauptbeschwerde:** Seit gestern Abend (ca. 20:00 Uhr) plötzlich einsetzende, sehr starke Bauchschmerzen.
+*   **Schmerzcharakteristik:**
+    *   Lokalisation: Oberer Bauch, eher mittig.
+    *   Ausstrahlung: Gürtelförmig in den Rücken.
+    *   Qualität: Dumpf.
+    *   Intensität: 7-8 von 10.
+    *   Verlauf: Seit gestern Abend verstärkt.
+*   **Begleitsymptome:**
+    *   Erbrechen: Einmal gestern Abend.
+    *   Übelkeit: Jetzt besser, war aber vorhanden.
+    *   Stuhl: Letzte Stuhlgang vor zwei Tagen, ansonsten normal.
+    *   Blähungen: In den letzten Tagen, aber anders als die aktuellen Schmerzen.
+*   **Sonstiges:**
+    *   Kein Fieber.
+    *   Schläft seit ca. 2 Jahren unruhig.
+    *   Keine Veränderung von Appetit oder Gewicht in letzter Zeit.
+    *   Stress durch Kündigung bei der Arbeit und Streit mit der Frau.
+    *   Allergie gegen Pollen und Gräser.
+    *   Raucht ca. 1 Schachtel Zigaretten pro Tag seit 30 Jahren.
+    *   Trinkt täglich 5-6 Bier, manchmal auch Schnaps, besonders in stressigen Zeiten.
+*   **Vorgeschichte:**
+    *   Erhöhter Blutdruck und erhöhte Blutfettwerte seit ca. 8-9 Jahren.
+    *   Blinddarmentfernung als Kind (mit 10 Jahren).
+    *   Herzinfarkt vor zweieinhalb Jahren mit Stentimplantation.
+    *   Nimmt Ramipril (Dosierung unbekannt, abends), ASS100 (abends und morgens, eine Tablette), Ibuprofen 600 (bei Bedarf).
+    *   Vater war Alkoholiker (gestorben mit 56).
+    *   Mutter hatte Herzinfarkt (mit 54, lebt noch).
+    *   Bruder hatte Bauchspeicheldrüsenkrebs (gestorben mit 48).
+    *   Verheiratet, keine Kinder, lebt in einer Wohnung, keine Haustiere.
+
+**Arzt:**
+
+*   **Begrüßung und Einleitung:** Stellt sich als diensthabende Ärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten, Hausarzt, aktuellen Beschwerden (Beginn, Lokalisation, Ausstrahlung, Qualität, Intensität, Begleitsymptome), Vorgeschichte (Vorerkrankungen, Operationen, Medikamente, Familienanamnese, Lebensgewohnheiten).
+*   **Vorläufige Diagnose/Plan:**
+    *   Verdacht auf Bauchspeicheldrüsenentzündung (Pankreatitis).
+    *   Plant weitere Untersuchungen (Ultraschall, Blutabnahme, körperliche Untersuchung, ggf. MRT).
+    *   Plant stationäre Aufnahme zur Beobachtung und Behandlung (Medikamente, Ernährung).
+    *   Empfiehlt sofortigen Verzicht auf Alkohol.
+    *   Bietet Unterstützung bei der Alkoholreduktion an.
+    *   Erwähnt die Möglichkeit von Krebs, schließt diese aber vorläufig aus und betont die Notwendigkeit der Untersuchungen.
+    *   Bittet den Patienten, im Wartezimmer zu warten, während sie den Untersuchungsraum vorbereitet.
+
+**Relevante Textstellen:**
+
+*   **Patient:**
+    *   "Ich bin der Herr Müller." - *Identifikation*
+    *   "Wolfgang Müller, alles klar." - *Vollständiger Name*
+    *   "57 bin ich, am 11. November 1963." - *Alter und Geburtsdatum*
+    *   "ungefähr so um die 115, 116 Kilo." - *Gewicht*
+    *   "So 1,87 steht in meinem Ausweis zumindest." - *Größe*
+    *   "Das ist die Frau Dr. Westenberger." - *Hausarzt*
+    *   "Ich habe sehr starke Bauchschmerzen." - *Hauptbeschwerde*
+    *   "Gestern Abend hat es angefangen, irgendwann gegen 8 Uhr." - *Beginn der Schmerzen*
+    *   "Nee, ich habe gestern Abend gar nichts gegessen." - *Keine Nahrungsaufnahme vor Schmerzbeginn*
+    *   "Ja. Können Sie mir sagen, wo genau die Schmerzen sind oder zeigen? Ja, im oberen Teil vom Bauch. Eher links, rechts oder mittig? Eher mittig." - *Lokalisation*
+    *   "Ja, die strahlen in den Rücken am besten aus. Es ist so wie ein Kreis bildet sich dadurch der Schmerz. Meinen Sie so ein gürtelförmiger Schmerz? Ja." - *Ausstrahlung*
+    *   "Eher ein dumpfer Schmerz." - *Schmerzqualität*
+    *   "7, 8 Punkte würde ich sagen." - *Schmerzintensität*
+    *   "Ja, ich musste erbrechen gestern. Einmal." - *Erbrechen*
+    *   "Es geht jetzt. Es geht so richtig besser. Vom Schmerz her ist es nicht geworden, aber mir ist jetzt gerade nicht mehr übel." - *Übelkeit*
+    *   "Ne, ist mir nicht aufgefallen. Also, ne, der letzte Stuhl war vor zwei Tagen, aber grundsätzlich ist da alles normal." - *Stuhl*
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen." - *Blähungen*
+    *   "Ne, keinen Fieber." - *Kein Fieber*
+    *   "Ja, erhöhten Blutdruck und erhöhte Blutfettwerte auch." - *Vorerkrankungen*
+    *   "Schon seit Jahren. So acht, neun Jahre." - *Dauer der Vorerkrankungen*
+    *   "Ja, mir wurde der Blindendarm entfernt als Kind schon." - *Operationen*
+    *   "Ja, ich nehme Medikamente. Ich muss mal gucken, meine Frau hat mir was aufgeschrieben, was ich nehme. Also, ich nehme Ramipril. ASS100. Manchmal nehme ich auch mal Ibuprofen, wenn ich Kopfschmerzen habe. Ja. Und dann nehme ich noch Nitro, wenn es mir in der Brust sticht." - *Medikamente*
+    *   "Ja, das habe ich vergessen zu sagen. Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen." - *Herzinfarkt*
+    *   "Vor zweieinhalb Jahren." - *Zeitpunkt des Herzinfarkts*
+    *   "Ja, mein Vater war Alkoholiker. Ist auch gestorben. Also relativ jung, auch mit 56. Auch am Alkohol? Ja, schon." - *Familienanamnese (Alkohol)*
+    *   "Und mein Bruder hat Krebs, Bauchspeicheldrüsenkrebs." - *Familienanamnese (Krebs)*
+    *   "Ja, ich rauche, ja. So ein Päckchen pro Tag. Schon 30 Jahre lang." - *Rauchen*
+    *   "Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit." - *Alkohol*
+    *   "Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit." - *Stressfaktoren*
+    *   "Nur eine Pollenallergie gegen Pollen und Gräser auch." - *Allergien*
+    *   "Ich schlafe generell unruhig und wache immer wieder mal auf. Aber das ist schon länger so, nicht in letzter Zeit, sondern geht schon seit, das weiß ich, zwei Jahren ungefähr bestimmt." - *Schlaf*
+    *   "Nein. Nein." - *Keine Veränderung von Appetit oder Gewicht*
+*   **Arzt:**
+    *   "Schönen guten Tag, mein Name ist Nina Colette, ich bin die diensthabende Ärztin hier auf der Station und ich würde jetzt gerne das Aufnahmegespräch mit Ihnen durchführen." - *Begrüßung und Vorstellung*
+    *   "Wenn Sie Fragen haben oder etwas nicht verstehen, würde ich Sie bitten, mir ein Zeichen zu geben. Dann machen wir eine kurze Pause." - *Hinweis zur Interaktion*
+    *   "Wie heißen Sie denn? Ich bin der Herr Müller. Herr Müller. Haben Sie auch einen Vornamen? Ich habe auch einen Vornamen, Wolfgang." - *Namensabfrage*
+    *   "Wie alt sind Sie denn und wann haben Sie Geburtstag, Herr Müller? 57 bin ich, am 11. November 1963." - *Alter und Geburtsdatum*
+    *   "Wissen Sie, wie viel Sie zurzeit wiegen? Ja, ungefähr so um die 115, 116 Kilo. Und wie groß sind Sie? So 1,87 steht in meinem Ausweis zumindest." - *Gewicht und Größe*
+    *   "Gut, bei wem befinden Sie sich denn in hausärztlicher Behandlung, wenn Sie nicht bei uns sind? Das ist die Frau Dr. Westenberger." - *Hausarzt*
+    *   "Herr Müller, mögen Sie mir erzählen, was Sie zu mir führt? Ja, ich habe sehr starke Bauchschmerzen." - *Grund des Besuchs*
+    *   "Seit wann haben Sie die? Gestern Abend hat es angefangen, irgendwann gegen 8 Uhr." - *Beginn der Schmerzen*
+    *   "Haben Sie irgendwas Besonderes gegessen gestern Abend? Nee, ich habe gestern Abend gar nichts gegessen." - *Nahrungsaufnahme vor Schmerzbeginn*
+    *   "Können Sie mir sagen, wo genau die Schmerzen sind oder zeigen? Ja, im oberen Teil vom Bauch. Eher links, rechts oder mittig? Eher mittig." - *Lokalisation*
+    *   "Strahlen die Schmerzen in eine andere Körperregion aus, zum Beispiel auch in den Rücken oder nach unten? Ja, die strahlen in den Rücken am besten aus." - *Ausstrahlung*
+    *   "Hatten Sie solche Schmerzen schon mal? Nein, noch nie." - *Neuheit der Schmerzen*
+    *   "Sind die Schmerzen sehr stark? Schon. Die haben sich verstärkt seit gestern Abend." - *Intensität und Verlauf*
+    *   "Auf einer Schmerzskala von 1 bis 10, wobei 1 leichten und 10 unerträglichen Schmerzen entspricht, wo würden Sie die Schmerzen einstufen? 7, 8 Punkte würde ich sagen." - *Schmerzskala*
+    *   "Und wie würden Sie den Schmerz beschreiben? Ist das ein brennender Schmerz, ein drückender Schmerz, stechend? Eher ein dumpfer Schmerz." - *Schmerzqualität*
+    *   "Ist Ihnen auch übel, Herr Müller? Ja, also jetzt gerade nicht mehr, aber ich musste erbrechen gestern. Aber Sie mussten tatsächlich auch brechen. Wie oft mussten Sie auch bewegen? Einmal." - *Übelkeit und Erbrechen*
+    *   "Ist Ihnen denn auch nach wie vor schlecht oder ist es mit dem Erbrechen besser geworden? Es geht jetzt. Es geht so richtig besser." - *Aktueller Zustand der Übelkeit*
+    *   "Wie sieht es denn aus mit Ihrem Stuhl zur Zeit? Haben Sie damit auch Probleme gerade? Ne, ist mir nicht aufgefallen. Also, ne, der letzte Stuhl war vor zwei Tagen, aber grundsätzlich ist da alles normal." - *Stuhlgang*
+    *   "Wie häufig gehen Sie sonst auf die Toilette? Je nachdem. Also, normalerweise täglich einmal alle zwei Tage." - *Normale Stuhlfrequenz*
+    *   "Sonst irgendwelche Beschwerden noch aufgetreten in der Zeit seit gestern Abend oder auch seit den zwei Tagen? Haben Sie ein wenig Grummeln im Bauch? Müssen Sie öfter mal pupsen oder sowas? Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen." - *Weitere Beschwerden*
+    *   "Ne, keinen Fieber." - *Kein Fieber*
+    *   "Gibt es Vorerkrankungen bei Ihnen, von denen ich wissen sollte, wie zum Beispiel erhöhten Blutdruck oder auch die Zuckerkrankheit? Ja, erhöhten Blutdruck und erhöhte Blutfettwerte auch." - *Vorerkrankungen*
+    *   "Seit wann wissen Sie davon, von dem erhöhten Blutdruck und den erhöhten Blutfettwerten? Schon seit Jahren. So acht, neun Jahre." - *Dauer der Vorerkrankungen*
+    *   "Herr Müller, wurden Sie auch schon einmal operiert? Ja, mir wurde der Blindendarm entfernt als Kind schon." - *Operationen*
+    *   "Gegen den erhöhten Blutdruck oder auch die Blutfettwerte, nehmen Sie dagegen Medikamente ein? Ja, ich nehme Medikamente." - *Medikamente*
+    *   "Haben Sie Probleme mit der Brust? Haben Sie schon mal ein Herzinfarkt? Ja, das habe ich vergessen zu sagen. Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen." - *Herzinfarkt*
+    *   "Wann war denn der Herzinfarkt? Vor zweieinhalb Jahren." - *Zeitpunkt des Herzinfarkts*
+    *   "Sie haben jetzt angegeben, Ramipril. Kennen Sie die Dosierung und können Sie mir sagen, wann Sie die nehmen? Also, ich nehme sie immer abends." - *Medikament Ramipril*
+    *   "Haben Sie Allergien oder Unverträglichkeiten gegen Lebensmittel oder auch Medikamente? Nur eine Pollenallergie gegen Pollen und Gräser auch." - *Allergien*
+    *   "Rauchen Sie? Ich rauche, ja. Wie viele Zigaretten rauchen Sie pro Tag und seit wann? So ein Päckchen pro Tag. Schon 30 Jahre lang." - *Rauchen*
+    *   "Trinken Sie auch Alkohol? Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Wie viel denn auch täglich oder eher am Wochenende? Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit." - *Alkohol*
+    *   "Haben Sie vermehrt Stress in letzter Zeit oder gibt es etwas, was Sie belastet? Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit." - *Stressfaktoren*
+    *   "Haben Sie sonst noch irgendwelche Beschwerden, die damit einhergehen? Kopfschmerzen oder andere Schmerzen oder ähnliches? Fieber? Ne, keinen Fieber." - *Weitere Beschwerden*
+    *   "Gibt es Vorerkrankungen bei Ihnen, von denen ich wissen sollte, wie zum Beispiel erhöhten Blutdruck oder auch die Zuckerkrankheit? Ja, erhöhten Blutdruck und erhöhte Blutfettwerte auch." - *Vorerkrankungen*
+    *   "Herr Müller, werden Sie auch schon einmal operiert? Ja, mir wurde der Blindendarm entfernt als Kind schon." - *Operationen*
+    *   "Gegen den erhöhten Blutdruck oder auch die Blutfettwerte, nehmen Sie dagegen Medikamente ein? Ja, ich nehme Medikamente." - *Medikamente*
+    *   "Haben Sie Probleme mit der Brust? Haben Sie schon mal ein Herzinfarkt? Ja, das habe ich vergessen zu sagen. Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen." - *Herzinfarkt*
+    *   "Wann war denn der Herzinfarkt? Vor zweieinhalb Jahren." - *Zeitpunkt des Herzinfarkts*
+    *   "Und dann haben Sie auch gleich den Stent implantiert bekommen, oder? Ja." - *Stentimplantation*
+    *   "Sie haben jetzt angegeben, Ramipril. Kennen Sie die Dosierung und können Sie mir sagen, wann Sie die nehmen? Also, ich nehme sie immer abends." - *Medikament Ramipril*
+    *   "Und die ASS100, wissen Sie das da? Wann Sie die nehmen? Ja, die gibt mir da alles abends und eine Sache gibt sie mir morgens. Aber was, was ist, muss ich nachfragen." - *Medikament ASS100*
+    *   "Und die Ibuprofen, wenn Sie die einnehmen, sind das 400er, 600er, 800er? Das sind, glaube ich, 600." - *Medikament Ibuprofen*
+    *   "Haben Sie öfter Brustschmerzen oder eher selten, dass Sie das nicht haben? In letzter Zeit eher seltener." - *Brustschmerzen*
+    *   "Herr Müller, sind Sie geimpft? Schon lange nicht mehr." - *Impfstatus*
+    *   "Wie sieht es denn sonst aus? Ist Ihnen in der letzten Zeit aufgefallen, dass Sie vermehrt nachts schwitzen oder auch mal an Schüttelfrost leiden oder ähnlichem? Nee, das nicht." - *Nachtschweiß/Schüttelfrost*
+    *   "Wie sieht es aus mit dem Wasserlassen? Haben Sie damit Probleme? Nee, keine Probleme." - *Wasserlassen*
+    *   "Haben Sie in letzter Zeit Gewicht verloren oder zugenommen? Auch nicht. Mit den Jahren habe ich schon mal zugenommen. Aber in letzter Zeit bin ich immer gleich." - *Gewichtsveränderung*
+    *   "Hat sich Ihr Appetit verändert? Nein." - *Appetit*
+    *   "Wie sieht es denn aus? Haben Sie vermehrt Stress in letzter Zeit oder gibt es etwas, was Sie belastet? Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit." - *Stress*
+    *   "Rauchen Sie? Ich rauche, ja. Wie viele Zigaretten rauchen Sie pro Tag und seit wann? So ein Päckchen pro Tag. Schon 30 Jahre lang." - *Rauchen*
+    *   "Trinken Sie auch Alkohol? Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Wie viel denn auch täglich oder eher am Wochenende? Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit." - *Alkohol*
+    *   "Wenn Sie möchten, können wir dann natürlich nochmal mit unserer Sozialhilfe hier sprechen, dass wir Ihnen da vielleicht nochmal eine Hilfestellung geben. Ja, wenn Sie mir helfen können. Ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte." - *Hilfe bei Alkohol*
+    *   "Die Schmerzen, die Sie beschreiben, die könnten in der Tat auch etwas mit dem Alkoholkonsum zu tun haben. Wichtig ist auf jeden Fall jetzt für die nächsten Tage, um die Schmerzen zu lindern und um da auch eine Besserung zu bewirken, dass Sie den Alkohol erstmal komplett weglassen, bitte." - *Zusammenhang Schmerz/Alkohol, Empfehlung*
+    *   "Falls Ihnen noch etwas einfällt zu den aktuellen

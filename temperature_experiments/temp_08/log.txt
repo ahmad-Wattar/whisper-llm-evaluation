@@ -1,0 +1,152 @@
+nohup: ignoring input
+[NbConvertApp] Converting notebook temp.ipynb to notebook
+Traceback (most recent call last):
+  File "/home/wattaah/embedding/myenv/bin/jupyter-nbconvert", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/jupyter_core/application.py", line 284, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/home/wattaah/embedding/myenv/lib/python3.12/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+import pandas as pd
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+import json
+
+# --- Daten laden ---
+df_in = pd.read_parquet("emb_inputs.parquet")
+df_out = pd.read_parquet("emb_outputs.parquet")
+
+# --- Embedding-Spalten ---
+embedding_cols = [col for col in df_in.columns if col.startswith("embedding_")]
+
+all_results = []
+
+for emb_col in embedding_cols:
+    print(f"Berechne: {emb_col}")
+
+    df_in_valid = df_in[df_in[emb_col].notna()]
+    df_out_valid = df_out[df_out[emb_col].notna()]
+
+    for audio_id in df_in_valid["audio_id"].unique():
+        ref = df_in_valid[df_in_valid["audio_id"] == audio_id]
+        others = df_out_valid[df_out_valid["audio_id"] == audio_id]
+
+        if ref.empty or others.empty:
+            continue
+
+        ref_emb = np.array(ref.iloc[0][emb_col], dtype=np.float32).reshape(1, -1)
+
+        for _, row in others.iterrows():
+            out_emb = np.array(row[emb_col], dtype=np.float32).reshape(1, -1)
+            sim = cosine_similarity(ref_emb, out_emb)[0, 0]
+
+            # 👉 einzelne Werte speichern
+            all_results.append({
+                "embedding_model": emb_col,
+                "audio_id": audio_id,
+                "run_id": str(row["run_id"]),
+                "similarity": float(sim)
+            })
+
+
+# =========================
+# 🧮 Mean pro Modell
+# =========================
+model_mean = (
+    res_df.groupby("embedding_model")["similarity"]
+    .mean()
+    .sort_values(ascending=False)
+)
+
+print("\n🏆 Mean pro Embedding-Modell:")
+print(model_mean)
+
+
+# =========================
+# ✅ Einzelwerte als JSONL speichern (eine Zeile pro Eintrag)
+# =========================
+jsonl_path = "cosine_detailed.jsonl"
+with open(jsonl_path, "w", encoding="utf-8") as f:
+    for rec in all_results:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+
+print(f"✅ Einzelwerte gespeichert: {jsonl_path}")
+
+------------------
+
+----- stdout -----
+Berechne: embedding_Llama-3.1_8B-Instruct
+Berechne: embedding_Jina_v3
+Berechne: embedding_German_Semantic_V3b
+Berechne: embedding_bge_m3
+Berechne: embedding_gte_multilingual_base
+------------------
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mNameError[0m                                 Traceback (most recent call last)
+Cell [0;32mIn[18], line 47[0m
+[1;32m     35[0m             all_results[38;5;241m.[39mappend({
+[1;32m     36[0m                 [38;5;124m"[39m[38;5;124membedding_model[39m[38;5;124m"[39m: emb_col,
+[1;32m     37[0m                 [38;5;124m"[39m[38;5;124maudio_id[39m[38;5;124m"[39m: audio_id,
+[1;32m     38[0m                 [38;5;124m"[39m[38;5;124mrun_id[39m[38;5;124m"[39m: [38;5;28mstr[39m(row[[38;5;124m"[39m[38;5;124mrun_id[39m[38;5;124m"[39m]),
+[1;32m     39[0m                 [38;5;124m"[39m[38;5;124msimilarity[39m[38;5;124m"[39m: [38;5;28mfloat[39m(sim)
+[1;32m     40[0m             })
+[1;32m     43[0m [38;5;66;03m# =========================[39;00m
+[1;32m     44[0m [38;5;66;03m# 🧮 Mean pro Modell[39;00m
+[1;32m     45[0m [38;5;66;03m# =========================[39;00m
+[1;32m     46[0m model_mean [38;5;241m=[39m (
+[0;32m---> 47[0m     [43mres_df[49m[38;5;241m.[39mgroupby([38;5;124m"[39m[38;5;124membedding_model[39m[38;5;124m"[39m)[[38;5;124m"[39m[38;5;124msimilarity[39m[38;5;124m"[39m]
+[1;32m     48[0m     [38;5;241m.[39mmean()
+[1;32m     49[0m     [38;5;241m.[39msort_values(ascending[38;5;241m=[39m[38;5;28;01mFalse[39;00m)
+[1;32m     50[0m )
+[1;32m     52[0m [38;5;28mprint[39m([38;5;124m"[39m[38;5;130;01m\n[39;00m[38;5;124m🏆 Mean pro Embedding-Modell:[39m[38;5;124m"[39m)
+[1;32m     53[0m [38;5;28mprint[39m(model_mean)
+
+[0;31mNameError[0m: name 'res_df' is not defined
+

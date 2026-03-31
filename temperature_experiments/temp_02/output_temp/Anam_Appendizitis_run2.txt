@@ -1,0 +1,66 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Julia Neumann, geboren am 26. August 1988 (32 Jahre alt), Größe 1,67 m, Gewicht 60 kg. Hausärztin ist Frau Dr. König.
+*   **Hauptbeschwerde:** Seit gestern starke, ziehende Schmerzen im Bauch, um den Nabel herum, die nach rechts unten ausstrahlen. Die Schmerzen haben sich verschlimmert.
+*   **Begleitsymptome:** Seit Beginn der Schmerzen zweimaliges Erbrechen (Essensreste), Übelkeit, Fieber gemessen (38,7°C gestern Abend). Keine vermehrte Häufigkeit des Stuhlgangs oder Wasserlassens, keine Brustspannung.
+*   **Vorerkrankungen:** Eileiterschwangerschaft vor einem Jahr (medikamentös behandelt), Aspirinallergie, seit 2 Jahren Krätze (behandelt mit Topamax 50mg morgens), gelegentlich Sumatriptan bei starken Kopfschmerzen.
+*   **Operationen:** Entfernung eines Muttermals (ambulant), Entfernung von zwei Weisheitszähnen (einmal mit heftiger Entzündung).
+*   **Medikamente:** Topamax (50mg morgens), Sumatriptan (gelegentlich).
+*   **Sozialanamnese:** Verheiratet/verpartnert (nicht verheiratet, lebt mit Freund zusammen), wohnt in einer Wohnung, arbeitet als Bankkauffrau.
+*   **Lebensgewohnheiten:** Raucht ca. 5-6 Zigaretten/Tag seit 10 Jahren, trinkt gelegentlich Alkohol (2 Bier/Woche), raucht gelegentlich Marihuana (2-3x/Jahr).
+*   **Familienanamnese:** Vater hat Diabetes (Typ 1/2 nicht spezifiziert, Insulinpflichtig), Mutter hat seit kurzem MS.
+*   **Sonstiges:** Regelmäßige Periode (Pille mit Unterbrechungen, seit 10 Jahren), kein aktueller Kinderwunsch, geimpft (Grundimmunisierung + Auffrischung Anfang des Jahres), keine bekannten Allergien außer Aspirin. Stress auf Arbeit/privat hält sich in Grenzen.
+*   **Bedenken:** Sorgt sich aufgrund der Schmerzen und der Vorgeschichte mit der Eileiterschwangerschaft.
+
+**Arzt:**
+
+*   **Begrüßung und Anamnese:** Führt das Aufnahmegespräch mit Julia Neumann durch, stellt Fragen zu Person, Beschwerden, Vorerkrankungen, Medikamenten, Allergien, Lebensgewohnheiten und Familienanamnese.
+*   **Einschätzung der Beschwerden:** Hört sich die Beschreibung der Schmerzen an (Lokalisation, Ausstrahlung, Charakter, Stärke, Begleitsymptome).
+*   **Diagnostischer Verdacht:** Äußert den Verdacht auf eine Blinddarmentzündung (Appendizitis).
+*   **Geplante Untersuchungen:** Körperliche Untersuchung (Abtasten des Bauches), Ultraschall des Bauches, Blutabnahme.
+*   **Mögliche Behandlung:** Erwähnt die Möglichkeit einer Blinddarmentfernung (Appendektomie) als Standardeingriff, entweder offen oder laparoskopisch (minimalinvasiv mit kleinen Einschnitten). Betont, dass dies erst nach Auswertung der Befunde entschieden wird.
+*   **Beruhigung:** Versichert, dass die Untersuchung stattfinden wird und die Diagnosefindung im Vordergrund steht.
+
+**Relevante Textstellen:**
+
+*   **Patient (Persönliche Daten):**
+    *   "Neumann ist mein Name, Julia mit Vornamen."
+    *   "Neumann mit Doppel-N? Ja, genau."
+    *   "Am 26. August 1988."
+    *   "Ja. Wunderbar. Wissen Sie, wie groß Sie sind, Frau Neumann? Ja, 1,67 m groß."
+    *   "Kennen Sie Ihr aktuelles Gewicht? 60 kg."
+    *   "Das ist die Frau Dr. König."
+*   **Patient (Hauptbeschwerde):**
+    *   "Ich habe seit gestern sehr starke Schmerzen im Bauch und mache mir da große Sorgen."
+    *   "Das hat gestern Abend angefangen und ist bis heute nicht besser geworden, eher schlimmer."
+    *   "Ja, in der Mitte des Bauches, so um die Nabel herum."
+    *   "Ja, und die strahlen vom Nabel nach unten ein bisschen. Wo unten? Gerade runter oder links, rechts? Rechts, auf die rechte Seite."
+    *   "Ich würde eher ziehend sagen."
+    *   "Ja, schon bei sieben."
+*   **Patient (Begleitsymptome):**
+    *   "Ja, also normalerweise nicht, aber jetzt muss ich mich schon zweimal übergeben."
+    *   "Ich habe Fieber gemessen und hatte tatsächlich auch Fieber gestern Abend 38,7 Grad."
+*   **Patient (Vorerkrankungen):**
+    *   "Ich hatte da ein bisschen gegoogelt und da ich auch vor einem Jahr eine Eilleiterschwangerschaft hatte, bereitet es mir jetzt schon große Sorgen, dass es wieder das Gleiche sein könnte."
+    *   "Medikamentös."
+    *   "Ich nehme Medikamente ein und zwei Topamax nehme ich täglich."
+    *   "Sumatriton, wenn es ganz schlimm wird."
+    *   "Ich habe eine Kräne leider seit ein paar Jahren."
+*   **Patient (Sozialanamnese/Lebensgewohnheiten):**
+    *   "Ich bin Bankkauffrau."
+    *   "Ja, ich rauche schon seit einigen Jahren."
+    *   "Fünf, sechs Zigaretten pro Tag."
+    *   "Ja, gelegentlich mal zwei Bier in der Woche."
+    *   "Gelegentlich zwei, dreimal im Jahr rauche ich Marihuana."
+    *   "Mein Papa hat Diabetes."
+    *   "Nein, meine Mutter hat MS diagnostiziert bekommen."
+    *   "Ich nehme ja die Pille und dadurch habe ich da keine Probleme."
+    *   "Ich kann zum Glück alles essen und trinken. Allerdings habe ich eine Aspirinallergie."
+*   **Patient (Bedenken):**
+    *   "Wäre es vielleicht wichtiger gewesen, dass ich zuerst zu meinem Frauenarzt gehe?"
+*   **Arzt (Diagnose/Plan):**
+    *   "Aktuell habe ich einen Verdacht, dass es vielleicht eine Entzündung in Ihrem Blinddarm sein könnte."
+    *   "Wir werden Sie jetzt gleich untersuchen. Die Untersuchungen, die wir durchführen werden, ist zum einen erstmal natürlich eine körperliche Untersuchung. Ich werde also Ihren Bauch mal abtasten und ich würde auch gerne einen Ultraschall machen von Ihrem Bauch. Und natürlich werde ich Ihnen auch Blut abnehmen und dann schauen wir mal, was die Befunde uns mitteilen und ob es überhaupt noch nötig ist, weitere Untersuchungsmaßnahmen einzuleiten oder ob wir damit schon die Diagnose stellen können."
+    *   "Es könnte im schlimmsten Fall sein, dass wir Sie einmal kurz unter das Messer legen. Das ist aber auch ein kleiner Eingriff, eine Blinddarmentfernung. Lapparoskopisch nennt sich das. Dabei werden wir drei kleine Einschnitte machen in Ihrer Bauchdecke und dadurch dann mit Hilfe von kleinen Instrumenten den Blinddarm entfernen, sodass Sie auch keine große Narbe haben, sondern nur ganz kleine Merkmale, die man noch sehen kann."

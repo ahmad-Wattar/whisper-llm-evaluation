@@ -1,0 +1,417 @@
+audio_id,model_name,run_id,delta_score_single
+Anam_Rueckenschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02753974603953536
+Anam_Rueckenschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.027877565507459633
+Anam_Rueckenschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.0275965330806786
+Anam_Rueckenschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.027414833687520342
+Anam_Rueckenschmerzen,MedGemma 27B Instruct,P1_01_02,0.024085366384291675
+Anam_Rueckenschmerzen,MedGemma 27B Instruct,P1_01_01,0.02465596249997715
+Anam_Rueckenschmerzen,MedGemma 27B Instruct,P1_01_04,0.024297811137347844
+Anam_Rueckenschmerzen,MedGemma 27B Instruct,P1_01_03,0.025275664516136186
+Anam_Rueckenschmerzen,Meta Llama 3.1 8B Instruct,P1_01_01,0.02887969909384497
+Anam_Rueckenschmerzen,Meta Llama 3.1 8B Instruct,P1_01_03,0.026911899800914584
+Anam_Rueckenschmerzen,Meta Llama 3.1 8B Instruct,P1_01_02,0.03128514698516927
+Anam_Rueckenschmerzen,Meta Llama 3.1 8B Instruct,P1_01_04,0.03038182202035491
+Anam_Rueckenschmerzen,OpenAI GPT OSS 120B,P1_01_01,0.02538187951708495
+Anam_Rueckenschmerzen,OpenAI GPT OSS 120B,P1_01_02,0.020974472991162868
+Anam_Rueckenschmerzen,OpenAI GPT OSS 120B,P1_01_03,0.025410833387733547
+Anam_Rueckenschmerzen,OpenAI GPT OSS 120B,P1_01_04,0.023232786629786777
+Anam_Fahrradunfall_01,MedGemma 27B Instruct,P1_01_01,0.019897989762188432
+Anam_Fahrradunfall_01,MedGemma 27B Instruct,P1_01_02,0.02143051108874245
+Anam_Fahrradunfall_01,MedGemma 27B Instruct,P1_01_04,0.02074908108444315
+Anam_Fahrradunfall_01,MedGemma 27B Instruct,P1_01_03,0.022087341035591686
+Anam_Fahrradunfall_01,Meta Llama 3.1 8B Instruct,P1_01_01,0.023569540728892432
+Anam_Fahrradunfall_01,Meta Llama 3.1 8B Instruct,P1_01_03,0.023518219384765626
+Anam_Fahrradunfall_01,Meta Llama 3.1 8B Instruct,P1_01_02,0.023079293535337084
+Anam_Fahrradunfall_01,Meta Llama 3.1 8B Instruct,P1_01_04,0.02381925749469947
+Anam_Fahrradunfall_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.024382993357592166
+Anam_Fahrradunfall_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.023513355065509722
+Anam_Fahrradunfall_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.025226701831684975
+Anam_Fahrradunfall_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.023921999240322178
+Anam_Fahrradunfall_01,OpenAI GPT OSS 120B,P1_01_01,0.019018047888383502
+Anam_Fahrradunfall_01,OpenAI GPT OSS 120B,P1_01_02,0.015969025019967775
+Anam_Fahrradunfall_01,OpenAI GPT OSS 120B,P1_01_04,0.02037509043468787
+Anam_Fahrradunfall_01,OpenAI GPT OSS 120B,P1_01_03,0.01836351508639754
+Anam_Fremdanamnese_Saeugling,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.022932735529155594
+Anam_Fremdanamnese_Saeugling,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02238299956429394
+Anam_Fremdanamnese_Saeugling,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02249395314551118
+Anam_Fremdanamnese_Saeugling,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02214021796995862
+Anam_Fremdanamnese_Saeugling,OpenAI GPT OSS 120B,P1_01_02,0.021513190176073938
+Anam_Fremdanamnese_Saeugling,OpenAI GPT OSS 120B,P1_01_04,0.02077868691010572
+Anam_Fremdanamnese_Saeugling,OpenAI GPT OSS 120B,P1_01_03,0.021593099736587715
+Anam_Fremdanamnese_Saeugling,OpenAI GPT OSS 120B,P1_01_01,0.02195709302892346
+Anam_Fremdanamnese_Saeugling,MedGemma 27B Instruct,P1_01_04,0.01926130918756318
+Anam_Fremdanamnese_Saeugling,MedGemma 27B Instruct,P1_01_03,0.0190829290154532
+Anam_Fremdanamnese_Saeugling,MedGemma 27B Instruct,P1_01_02,0.01934590749996143
+Anam_Fremdanamnese_Saeugling,MedGemma 27B Instruct,P1_01_01,0.01721248100950503
+Anam_Fremdanamnese_Saeugling,Meta Llama 3.1 8B Instruct,P1_01_04,0.022924421670184266
+Anam_Fremdanamnese_Saeugling,Meta Llama 3.1 8B Instruct,P1_01_03,0.02310990288272608
+Anam_Fremdanamnese_Saeugling,Meta Llama 3.1 8B Instruct,P1_01_02,0.021555525594080725
+Anam_Fremdanamnese_Saeugling,Meta Llama 3.1 8B Instruct,P1_01_01,0.021850926667440203
+Anam_Oesophaguskarzinom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.020084438740904327
+Anam_Oesophaguskarzinom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.020515921996662124
+Anam_Oesophaguskarzinom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.019990955467817418
+Anam_Oesophaguskarzinom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.019826433197456375
+Anam_Oesophaguskarzinom,OpenAI GPT OSS 120B,P1_01_04,0.018502611507804703
+Anam_Oesophaguskarzinom,OpenAI GPT OSS 120B,P1_01_03,0.018316975203597166
+Anam_Oesophaguskarzinom,OpenAI GPT OSS 120B,P1_01_02,0.0182524701735203
+Anam_Oesophaguskarzinom,OpenAI GPT OSS 120B,P1_01_01,0.01813778636138399
+Anam_Oesophaguskarzinom,MedGemma 27B Instruct,P1_01_04,0.01757476567338346
+Anam_Oesophaguskarzinom,MedGemma 27B Instruct,P1_01_03,0.01933241213107192
+Anam_Oesophaguskarzinom,MedGemma 27B Instruct,P1_01_02,0.018601984451914643
+Anam_Oesophaguskarzinom,MedGemma 27B Instruct,P1_01_01,0.01827004610090432
+Anam_Oesophaguskarzinom,Meta Llama 3.1 8B Instruct,P1_01_01,0.019952041235738398
+Anam_Oesophaguskarzinom,Meta Llama 3.1 8B Instruct,P1_01_02,0.019812630032705295
+Anam_Oesophaguskarzinom,Meta Llama 3.1 8B Instruct,P1_01_03,0.020664252743690763
+Anam_Oesophaguskarzinom,Meta Llama 3.1 8B Instruct,P1_01_04,0.020298872696906306
+Anam_Venenthrombose_TVT,Meta Llama 3.1 8B Instruct,P1_01_01,0.023203464242371442
+Anam_Venenthrombose_TVT,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.023711563876353904
+Anam_Venenthrombose_TVT,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02375545649178593
+Anam_Venenthrombose_TVT,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023949856833498772
+Anam_Venenthrombose_TVT,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02351571845552686
+Anam_Venenthrombose_TVT,OpenAI GPT OSS 120B,P1_01_02,0.02188779893891473
+Anam_Venenthrombose_TVT,OpenAI GPT OSS 120B,P1_01_04,0.02321613857563247
+Anam_Venenthrombose_TVT,OpenAI GPT OSS 120B,P1_01_03,0.019776479683113492
+Anam_Venenthrombose_TVT,OpenAI GPT OSS 120B,P1_01_01,0.0220191315981698
+Anam_Venenthrombose_TVT,MedGemma 27B Instruct,P1_01_04,0.018548007813309342
+Anam_Venenthrombose_TVT,MedGemma 27B Instruct,P1_01_03,0.01928940261878288
+Anam_Venenthrombose_TVT,MedGemma 27B Instruct,P1_01_02,0.022215544044232163
+Anam_Venenthrombose_TVT,MedGemma 27B Instruct,P1_01_01,0.022516175244451812
+Anam_Venenthrombose_TVT,Meta Llama 3.1 8B Instruct,P1_01_04,0.023399976712240377
+Anam_Venenthrombose_TVT,Meta Llama 3.1 8B Instruct,P1_01_03,0.02354231498211264
+Anam_Venenthrombose_TVT,Meta Llama 3.1 8B Instruct,P1_01_02,0.022547307311944022
+Anam_Traumaanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.024694167789876462
+Anam_Traumaanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.024440593101782995
+Anam_Traumaanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.0245060357542966
+Anam_Traumaanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02461243793049846
+Anam_Traumaanamnese,OpenAI GPT OSS 120B,P1_01_04,0.02129348377016965
+Anam_Traumaanamnese,OpenAI GPT OSS 120B,P1_01_03,0.024143909773376857
+Anam_Traumaanamnese,OpenAI GPT OSS 120B,P1_01_02,0.02112824601337855
+Anam_Traumaanamnese,OpenAI GPT OSS 120B,P1_01_01,0.019662579967978943
+Anam_Traumaanamnese,MedGemma 27B Instruct,P1_01_01,0.023286519737490987
+Anam_Traumaanamnese,MedGemma 27B Instruct,P1_01_02,0.020123505412984886
+Anam_Traumaanamnese,MedGemma 27B Instruct,P1_01_03,0.023473112687878755
+Anam_Traumaanamnese,MedGemma 27B Instruct,P1_01_04,0.023023849599156754
+Anam_Traumaanamnese,Meta Llama 3.1 8B Instruct,P1_01_01,0.025985283833602647
+Anam_Traumaanamnese,Meta Llama 3.1 8B Instruct,P1_01_04,0.02536889517829386
+Anam_Traumaanamnese,Meta Llama 3.1 8B Instruct,P1_01_03,0.025394555987586883
+Anam_Traumaanamnese,Meta Llama 3.1 8B Instruct,P1_01_02,0.02535510829268733
+Anam_Lymphom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02499098728804465
+Anam_Lymphom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.024770983726541674
+Anam_Lymphom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02482772941440457
+Anam_Lymphom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.025157931210688253
+Anam_Lymphom,OpenAI GPT OSS 120B,P1_01_01,0.02018878103211877
+Anam_Lymphom,OpenAI GPT OSS 120B,P1_01_02,0.02232151914059303
+Anam_Lymphom,OpenAI GPT OSS 120B,P1_01_03,0.02252240816902931
+Anam_Lymphom,OpenAI GPT OSS 120B,P1_01_04,0.022083322025482872
+Anam_Lymphom,MedGemma 27B Instruct,P1_01_01,0.024109748643733765
+Anam_Lymphom,MedGemma 27B Instruct,P1_01_02,0.022780039707076098
+Anam_Lymphom,MedGemma 27B Instruct,P1_01_03,0.022373737959553695
+Anam_Lymphom,MedGemma 27B Instruct,P1_01_04,0.022147000553278416
+Anam_Lymphom,Meta Llama 3.1 8B Instruct,P1_01_01,0.02386590802420313
+Anam_Lymphom,Meta Llama 3.1 8B Instruct,P1_01_02,0.02470096262714554
+Anam_Lymphom,Meta Llama 3.1 8B Instruct,P1_01_03,0.02397294055567481
+Anam_Lymphom,Meta Llama 3.1 8B Instruct,P1_01_04,0.02550198434886944
+Anam_Fremdanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.025649704282315416
+Anam_Fremdanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.025826456749153872
+Anam_Fremdanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.026168457418014865
+Anam_Fremdanamnese,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.025860582665644765
+Anam_Fremdanamnese,OpenAI GPT OSS 120B,P1_01_04,0.018709867769154002
+Anam_Fremdanamnese,OpenAI GPT OSS 120B,P1_01_03,0.02031635773088357
+Anam_Fremdanamnese,OpenAI GPT OSS 120B,P1_01_02,0.02274049034627756
+Anam_Fremdanamnese,OpenAI GPT OSS 120B,P1_01_01,0.022566695182587842
+Anam_Fremdanamnese,MedGemma 27B Instruct,P1_01_04,0.02348532512927492
+Anam_Fremdanamnese,MedGemma 27B Instruct,P1_01_03,0.021444508690684184
+Anam_Fremdanamnese,MedGemma 27B Instruct,P1_01_02,0.02268724578114222
+Anam_Fremdanamnese,MedGemma 27B Instruct,P1_01_01,0.02295521877791874
+Anam_Fremdanamnese,Meta Llama 3.1 8B Instruct,P1_01_01,0.005907300015208213
+Anam_Fremdanamnese,Meta Llama 3.1 8B Instruct,P1_01_02,0.024280626712466256
+Anam_Fremdanamnese,Meta Llama 3.1 8B Instruct,P1_01_04,0.022448161621238496
+Anam_Fremdanamnese,Meta Llama 3.1 8B Instruct,P1_01_03,0.023405316720282492
+Anam_Appendizitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.024085573862543265
+Anam_Appendizitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02436790970926239
+Anam_Appendizitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02376534091093998
+Anam_Appendizitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02434659326444806
+Anam_Appendizitis,OpenAI GPT OSS 120B,P1_01_04,0.022189829867766398
+Anam_Appendizitis,OpenAI GPT OSS 120B,P1_01_03,0.02192686721372505
+Anam_Appendizitis,OpenAI GPT OSS 120B,P1_01_02,0.02193904711543647
+Anam_Appendizitis,OpenAI GPT OSS 120B,P1_01_01,0.020619325875479756
+Anam_Appendizitis,MedGemma 27B Instruct,P1_01_04,0.017037197634222352
+Anam_Appendizitis,MedGemma 27B Instruct,P1_01_03,0.020512903095793355
+Anam_Appendizitis,MedGemma 27B Instruct,P1_01_02,0.02119431856075085
+Anam_Appendizitis,MedGemma 27B Instruct,P1_01_01,0.020510419115685328
+Anam_Appendizitis,Meta Llama 3.1 8B Instruct,P1_01_02,0.024085010414257098
+Anam_Appendizitis,Meta Llama 3.1 8B Instruct,P1_01_03,0.023222477608000332
+Anam_Appendizitis,Meta Llama 3.1 8B Instruct,P1_01_04,0.024530554403586587
+Anam_Appendizitis,Meta Llama 3.1 8B Instruct,P1_01_01,0.022806468161800583
+Anam_sexueller_Missbrauch,OpenAI GPT OSS 120B,P1_01_04,0.024807184679813202
+Anam_sexueller_Missbrauch,OpenAI GPT OSS 120B,P1_01_03,0.02703320569875699
+Anam_sexueller_Missbrauch,OpenAI GPT OSS 120B,P1_01_02,0.024452591252427727
+Anam_sexueller_Missbrauch,OpenAI GPT OSS 120B,P1_01_01,0.026080151276314432
+Anam_sexueller_Missbrauch,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.032738071621498215
+Anam_sexueller_Missbrauch,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.032534875316225155
+Anam_sexueller_Missbrauch,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.03232509555966748
+Anam_sexueller_Missbrauch,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.032553701306395906
+Anam_sexueller_Missbrauch,MedGemma 27B Instruct,P1_01_02,0.027691378479636514
+Anam_sexueller_Missbrauch,MedGemma 27B Instruct,P1_01_04,0.023875992264096993
+Anam_sexueller_Missbrauch,MedGemma 27B Instruct,P1_01_03,0.027890514172454375
+Anam_sexueller_Missbrauch,MedGemma 27B Instruct,P1_01_01,0.026081628963694703
+Anam_sexueller_Missbrauch,Meta Llama 3.1 8B Instruct,P1_01_02,0.03319305353926889
+Anam_sexueller_Missbrauch,Meta Llama 3.1 8B Instruct,P1_01_03,0.03319184313433725
+Anam_sexueller_Missbrauch,Meta Llama 3.1 8B Instruct,P1_01_01,0.033696345233674804
+Anam_sexueller_Missbrauch,Meta Llama 3.1 8B Instruct,P1_01_04,0.03207249867656618
+Anam_Thorakale Schmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.026344103259238347
+Anam_Thorakale Schmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02644315866455599
+Anam_Thorakale Schmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02611413666392304
+Anam_Thorakale Schmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.026044710310322874
+Anam_Thorakale Schmerzen,OpenAI GPT OSS 120B,P1_01_04,0.01719785309790095
+Anam_Thorakale Schmerzen,OpenAI GPT OSS 120B,P1_01_03,0.023578122328733506
+Anam_Thorakale Schmerzen,OpenAI GPT OSS 120B,P1_01_02,0.018630440880694404
+Anam_Thorakale Schmerzen,OpenAI GPT OSS 120B,P1_01_01,0.02309715874398907
+Anam_Thorakale Schmerzen,MedGemma 27B Instruct,P1_01_04,0.020576510537198296
+Anam_Thorakale Schmerzen,MedGemma 27B Instruct,P1_01_01,0.02290649468485115
+Anam_Thorakale Schmerzen,MedGemma 27B Instruct,P1_01_03,0.022875078627668015
+Anam_Thorakale Schmerzen,MedGemma 27B Instruct,P1_01_02,0.020810987565558194
+Anam_Thorakale Schmerzen,Meta Llama 3.1 8B Instruct,P1_01_04,0.026460559845781162
+Anam_Thorakale Schmerzen,Meta Llama 3.1 8B Instruct,P1_01_03,0.026576643104834572
+Anam_Thorakale Schmerzen,Meta Llama 3.1 8B Instruct,P1_01_02,0.026903667722165948
+Anam_Thorakale Schmerzen,Meta Llama 3.1 8B Instruct,P1_01_01,0.02726467036744727
+Anam_Pyelonephritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02608245879462548
+Anam_Pyelonephritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.025470933670824047
+Anam_Pyelonephritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.025467225183505048
+Anam_Pyelonephritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.026135194961101886
+Anam_Pyelonephritis,OpenAI GPT OSS 120B,P1_01_04,0.02202268404433334
+Anam_Pyelonephritis,OpenAI GPT OSS 120B,P1_01_03,0.022331197820116746
+Anam_Pyelonephritis,OpenAI GPT OSS 120B,P1_01_02,0.02276578987858646
+Anam_Pyelonephritis,OpenAI GPT OSS 120B,P1_01_01,0.022646784951478934
+Anam_Pyelonephritis,MedGemma 27B Instruct,P1_01_04,0.02107594207170227
+Anam_Pyelonephritis,MedGemma 27B Instruct,P1_01_02,0.020184497441142472
+Anam_Pyelonephritis,MedGemma 27B Instruct,P1_01_03,0.021621964910293653
+Anam_Pyelonephritis,MedGemma 27B Instruct,P1_01_01,0.02374593491629339
+Anam_Pyelonephritis,Meta Llama 3.1 8B Instruct,P1_01_02,0.02571355151402146
+Anam_Pyelonephritis,Meta Llama 3.1 8B Instruct,P1_01_04,0.02652616606674346
+Anam_Pyelonephritis,Meta Llama 3.1 8B Instruct,P1_01_03,0.02633341513568729
+Anam_Pyelonephritis,Meta Llama 3.1 8B Instruct,P1_01_01,0.02667464976314001
+Anam_Pneumonie_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.022879987642319882
+Anam_Pneumonie_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023424236849115106
+Anam_Pneumonie_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02265141296992758
+Anam_Pneumonie_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.022901078021850346
+Anam_Pneumonie_01,OpenAI GPT OSS 120B,P1_01_04,0.021630941298160882
+Anam_Pneumonie_01,OpenAI GPT OSS 120B,P1_01_03,0.021707815140534704
+Anam_Pneumonie_01,OpenAI GPT OSS 120B,P1_01_02,0.021123410834938707
+Anam_Pneumonie_01,OpenAI GPT OSS 120B,P1_01_01,0.02108840573281921
+Anam_Pneumonie_01,MedGemma 27B Instruct,P1_01_04,0.02002571699639809
+Anam_Pneumonie_01,MedGemma 27B Instruct,P1_01_03,0.015046723861385487
+Anam_Pneumonie_01,MedGemma 27B Instruct,P1_01_02,0.02296204568236692
+Anam_Pneumonie_01,MedGemma 27B Instruct,P1_01_01,0.019757301440767722
+Anam_Pneumonie_01,Meta Llama 3.1 8B Instruct,P1_01_01,0.022604458248456107
+Anam_Pneumonie_01,Meta Llama 3.1 8B Instruct,P1_01_04,0.022194109677000088
+Anam_Pneumonie_01,Meta Llama 3.1 8B Instruct,P1_01_03,0.022572103574207057
+Anam_Pneumonie_01,Meta Llama 3.1 8B Instruct,P1_01_02,0.022225081801190337
+Anam_Hyperthyreose,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02345960998369146
+Anam_Hyperthyreose,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023668886977107142
+Anam_Hyperthyreose,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.023697888447531658
+Anam_Hyperthyreose,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02354394831799358
+Anam_Hyperthyreose,OpenAI GPT OSS 120B,P1_01_04,0.021512964057757735
+Anam_Hyperthyreose,OpenAI GPT OSS 120B,P1_01_03,0.019893450352872485
+Anam_Hyperthyreose,OpenAI GPT OSS 120B,P1_01_02,0.02087521347551759
+Anam_Hyperthyreose,OpenAI GPT OSS 120B,P1_01_01,0.020171078433392702
+Anam_Hyperthyreose,MedGemma 27B Instruct,P1_01_01,0.021609748595357654
+Anam_Hyperthyreose,MedGemma 27B Instruct,P1_01_04,0.020608517291838394
+Anam_Hyperthyreose,MedGemma 27B Instruct,P1_01_03,0.020996555334549107
+Anam_Hyperthyreose,MedGemma 27B Instruct,P1_01_02,0.02057533616333994
+Anam_Hyperthyreose,Meta Llama 3.1 8B Instruct,P1_01_01,0.0033324135713532206
+Anam_Hyperthyreose,Meta Llama 3.1 8B Instruct,P1_01_03,0.023739309675777632
+Anam_Hyperthyreose,Meta Llama 3.1 8B Instruct,P1_01_04,0.02379363779405814
+Anam_Hyperthyreose,Meta Llama 3.1 8B Instruct,P1_01_02,0.024057631575649482
+Anam_Bauchschmerzen,Meta Llama 3.1 8B Instruct,P1_01_01,0.023503042194499238
+Anam_Bauchschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.022914599792952677
+Anam_Bauchschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023008122597510772
+Anam_Bauchschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.023522028034402197
+Anam_Bauchschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.022551542253423054
+Anam_Bauchschmerzen,OpenAI GPT OSS 120B,P1_01_03,0.01568665394815567
+Anam_Bauchschmerzen,OpenAI GPT OSS 120B,P1_01_04,0.0205145842625118
+Anam_Bauchschmerzen,OpenAI GPT OSS 120B,P1_01_02,0.016772788007686338
+Anam_Bauchschmerzen,OpenAI GPT OSS 120B,P1_01_01,0.01749430555489197
+Anam_Bauchschmerzen,MedGemma 27B Instruct,P1_01_04,0.019508441770456908
+Anam_Bauchschmerzen,MedGemma 27B Instruct,P1_01_03,0.019751437814372764
+Anam_Bauchschmerzen,MedGemma 27B Instruct,P1_01_02,0.019060152608591768
+Anam_Bauchschmerzen,MedGemma 27B Instruct,P1_01_01,0.019083637247806463
+Anam_Bauchschmerzen,Meta Llama 3.1 8B Instruct,P1_01_04,0.023708354279161382
+Anam_Bauchschmerzen,Meta Llama 3.1 8B Instruct,P1_01_02,0.023595069095517774
+Anam_Bauchschmerzen,Meta Llama 3.1 8B Instruct,P1_01_03,0.023640300897324464
+Anam_Beinschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023676631176222696
+Anam_Beinschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02359609253212583
+Anam_Beinschmerzen,MedGemma 27B Instruct,P1_01_01,0.020791237992996137
+Anam_Beinschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.023437525324543823
+Anam_Beinschmerzen,MedGemma 27B Instruct,P1_01_03,0.018608310920123942
+Anam_Beinschmerzen,MedGemma 27B Instruct,P1_01_02,0.020481895684025465
+Anam_Beinschmerzen,MedGemma 27B Instruct,P1_01_04,0.020371232260894656
+Anam_Beinschmerzen,Meta Llama 3.1 8B Instruct,P1_01_02,0.021560268810039637
+Anam_Beinschmerzen,Meta Llama 3.1 8B Instruct,P1_01_01,0.02252080690375449
+Anam_Beinschmerzen,Meta Llama 3.1 8B Instruct,P1_01_03,0.02313785203849059
+Anam_Beinschmerzen,Meta Llama 3.1 8B Instruct,P1_01_04,0.02329428115938398
+Anam_Beinschmerzen,OpenAI GPT OSS 120B,P1_01_02,0.021689616390527314
+Anam_Beinschmerzen,OpenAI GPT OSS 120B,P1_01_01,0.02041604809826063
+Anam_Beinschmerzen,OpenAI GPT OSS 120B,P1_01_04,0.01942733716220546
+Anam_Beinschmerzen,OpenAI GPT OSS 120B,P1_01_03,0.01968503695326497
+Anam_Beinschmerzen,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02381912837534454
+Anam_Covid-19_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.03119907363738993
+Anam_Covid-19_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02903808193485498
+Anam_Covid-19_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.03922573493975067
+Anam_Covid-19_01,MedGemma 27B Instruct,P1_01_02,0.024840776616796015
+Anam_Covid-19_01,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.03973310004718648
+Anam_Covid-19_01,MedGemma 27B Instruct,P1_01_01,0.023128582617764477
+Anam_Covid-19_01,MedGemma 27B Instruct,P1_01_04,0.02443326350379527
+Anam_Covid-19_01,MedGemma 27B Instruct,P1_01_03,0.02257739288143045
+Anam_Covid-19_01,Meta Llama 3.1 8B Instruct,P1_01_02,0.03520225151345788
+Anam_Covid-19_01,Meta Llama 3.1 8B Instruct,P1_01_01,0.03532232112254435
+Anam_Covid-19_01,Meta Llama 3.1 8B Instruct,P1_01_03,0.03942657014094909
+Anam_Covid-19_01,Meta Llama 3.1 8B Instruct,P1_01_04,0.02216865506362607
+Anam_Covid-19_01,OpenAI GPT OSS 120B,P1_01_02,0.02610194425711837
+Anam_Covid-19_01,OpenAI GPT OSS 120B,P1_01_01,0.01934243434742362
+Anam_Covid-19_01,OpenAI GPT OSS 120B,P1_01_03,0.020316367124186815
+Anam_Covid-19_01,OpenAI GPT OSS 120B,P1_01_04,0.021956813119376674
+Anam_Gastroenteritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.023923448804183185
+Anam_Gastroenteritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02383277297349923
+Anam_Gastroenteritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.024121480386150897
+Anam_Gastroenteritis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02428769146316558
+Anam_Gastroenteritis,MedGemma 27B Instruct,P1_01_02,0.02001037597922813
+Anam_Gastroenteritis,MedGemma 27B Instruct,P1_01_01,0.017284670930762976
+Anam_Gastroenteritis,MedGemma 27B Instruct,P1_01_03,0.019365955739476363
+Anam_Gastroenteritis,Meta Llama 3.1 8B Instruct,P1_01_01,0.022843719841259606
+Anam_Gastroenteritis,MedGemma 27B Instruct,P1_01_04,0.020037869485353573
+Anam_Gastroenteritis,Meta Llama 3.1 8B Instruct,P1_01_02,0.023773650185144088
+Anam_Gastroenteritis,Meta Llama 3.1 8B Instruct,P1_01_04,0.02412765968083322
+Anam_Gastroenteritis,Meta Llama 3.1 8B Instruct,P1_01_03,0.023207779937396294
+Anam_Gastroenteritis,OpenAI GPT OSS 120B,P1_01_03,0.018390452076027616
+Anam_Gastroenteritis,OpenAI GPT OSS 120B,P1_01_01,0.015857277533233283
+Anam_Gastroenteritis,OpenAI GPT OSS 120B,P1_01_02,0.020783832673653704
+Anam_Gastroenteritis,OpenAI GPT OSS 120B,P1_01_04,0.01889118392962153
+Anam_Koronarsyndrom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.029120263464510507
+Anam_Koronarsyndrom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.02806737473577937
+Anam_Koronarsyndrom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.027693558929881876
+Anam_Koronarsyndrom,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.0295740558556181
+Anam_Koronarsyndrom,MedGemma 27B Instruct,P1_01_02,0.016745216427573487
+Anam_Koronarsyndrom,MedGemma 27B Instruct,P1_01_01,0.02180094324438624
+Anam_Koronarsyndrom,Meta Llama 3.1 8B Instruct,P1_01_01,0.026588543322581207
+Anam_Koronarsyndrom,MedGemma 27B Instruct,P1_01_03,0.016525506844702963
+Anam_Koronarsyndrom,MedGemma 27B Instruct,P1_01_04,0.016836682830841398
+Anam_Koronarsyndrom,Meta Llama 3.1 8B Instruct,P1_01_03,0.0266478790811242
+Anam_Koronarsyndrom,Meta Llama 3.1 8B Instruct,P1_01_02,0.028168877206738833
+Anam_Koronarsyndrom,Meta Llama 3.1 8B Instruct,P1_01_04,0.02751387128962783
+Anam_Koronarsyndrom,OpenAI GPT OSS 120B,P1_01_01,0.02172992878539139
+Anam_Koronarsyndrom,OpenAI GPT OSS 120B,P1_01_02,0.0212144913804749
+Anam_Koronarsyndrom,OpenAI GPT OSS 120B,P1_01_03,0.02342213080407514
+Anam_Koronarsyndrom,OpenAI GPT OSS 120B,P1_01_04,0.020460807513697433
+Anam_Pankreatitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02320642243752127
+Anam_Pankreatitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.023689526394793794
+Anam_Pankreatitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02312886241491867
+Anam_Pankreatitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023653336536648886
+Anam_Pankreatitis,MedGemma 27B Instruct,P1_01_01,0.02247066245855904
+Anam_Pankreatitis,MedGemma 27B Instruct,P1_01_03,0.020548562509031604
+Anam_Pankreatitis,MedGemma 27B Instruct,P1_01_02,0.019789502662895968
+Anam_Pankreatitis,Meta Llama 3.1 8B Instruct,P1_01_01,0.02112304000755434
+Anam_Pankreatitis,MedGemma 27B Instruct,P1_01_04,0.020407174410784008
+Anam_Pankreatitis,Meta Llama 3.1 8B Instruct,P1_01_02,0.02384402962900159
+Anam_Pankreatitis,Meta Llama 3.1 8B Instruct,P1_01_03,0.02345129740319124
+Anam_Pankreatitis,Meta Llama 3.1 8B Instruct,P1_01_04,0.024419039639620953
+Anam_Pankreatitis,OpenAI GPT OSS 120B,P1_01_01,0.0210025797295731
+Anam_Pankreatitis,OpenAI GPT OSS 120B,P1_01_03,0.021445534083620876
+Anam_Pankreatitis,OpenAI GPT OSS 120B,P1_01_04,0.020870498330055418
+Anam_Pankreatitis,OpenAI GPT OSS 120B,P1_01_02,0.01941384470536995
+Anam_Pneumonie_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02231201801628118
+Anam_Pneumonie_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.022139853779586608
+Anam_Pneumonie_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.021809516950165222
+Anam_Pneumonie_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02159251416000108
+Anam_Pneumonie_02,MedGemma 27B Instruct,P1_01_01,0.008016403449438556
+Anam_Pneumonie_02,MedGemma 27B Instruct,P1_01_03,0.013940036516874508
+Anam_Pneumonie_02,MedGemma 27B Instruct,P1_01_02,0.015424112729438938
+Anam_Pneumonie_02,MedGemma 27B Instruct,P1_01_04,0.01497717996079229
+Anam_Pneumonie_02,Meta Llama 3.1 8B Instruct,P1_01_02,0.021748711270024017
+Anam_Pneumonie_02,Meta Llama 3.1 8B Instruct,P1_01_01,0.0217000517130628
+Anam_Pneumonie_02,Meta Llama 3.1 8B Instruct,P1_01_03,0.017724521091491235
+Anam_Pneumonie_02,Meta Llama 3.1 8B Instruct,P1_01_04,0.020233281244327002
+Anam_Pneumonie_02,OpenAI GPT OSS 120B,P1_01_01,0.02043651215238364
+Anam_Pneumonie_02,OpenAI GPT OSS 120B,P1_01_02,0.021367438221852417
+Anam_Pneumonie_02,OpenAI GPT OSS 120B,P1_01_03,0.016050579881147144
+Anam_Pneumonie_02,OpenAI GPT OSS 120B,P1_01_04,0.020919811309525516
+Anam_Fahrradunfall_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.021586932269680722
+Anam_Fahrradunfall_02,Meta Llama 3.1 8B Instruct,P1_01_03,0.017640067673153816
+Anam_Fahrradunfall_02,OpenAI GPT OSS 120B,P1_01_01,0.01701722030407788
+Anam_Fahrradunfall_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.021845000687543865
+Anam_Fahrradunfall_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02091940319977585
+Anam_Fahrradunfall_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.020799879641102033
+Anam_Fahrradunfall_02,MedGemma 27B Instruct,P1_01_01,0.021671539484324494
+Anam_Fahrradunfall_02,MedGemma 27B Instruct,P1_01_02,0.0192147886783145
+Anam_Fahrradunfall_02,MedGemma 27B Instruct,P1_01_03,0.020202006154073616
+Anam_Fahrradunfall_02,MedGemma 27B Instruct,P1_01_04,0.021066563913035786
+Anam_Fahrradunfall_02,OpenAI GPT OSS 120B,P1_01_04,0.01612977012087822
+Anam_Fahrradunfall_02,OpenAI GPT OSS 120B,P1_01_02,0.013947876558752625
+Anam_Fahrradunfall_02,OpenAI GPT OSS 120B,P1_01_03,0.01896129687476261
+Anam_Fahrradunfall_02,Meta Llama 3.1 8B Instruct,P1_01_01,0.0029176516256052003
+Anam_Fahrradunfall_02,Meta Llama 3.1 8B Instruct,P1_01_02,0.011081249880053396
+Anam_Fahrradunfall_02,Meta Llama 3.1 8B Instruct,P1_01_04,0.02137509462866142
+Anam_Covid-19_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.023381027344642903
+Anam_Covid-19_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023459671192814783
+Anam_Covid-19_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.023459671192814783
+Anam_Covid-19_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02315812540265364
+Anam_Covid-19_02,MedGemma 27B Instruct,P1_01_01,0.0196264478109319
+Anam_Covid-19_02,MedGemma 27B Instruct,P1_01_02,0.016806539582871444
+Anam_Covid-19_02,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.01603079697497528
+Anam_Covid-19_02,MedGemma 27B Instruct,P1_01_03,0.016196436786143725
+Anam_Covid-19_02,Meta Llama 3.1 8B Instruct,P1_01_02,0.004900268310660532
+Anam_Covid-19_02,Meta Llama 3.1 8B Instruct,P1_01_01,0.005081210210289539
+Anam_Covid-19_02,Meta Llama 3.1 8B Instruct,P1_01_03,0.02157672655593776
+Anam_Covid-19_02,Meta Llama 3.1 8B Instruct,P1_01_04,0.022905103408520765
+Anam_Covid-19_02,OpenAI GPT OSS 120B,P1_01_01,0.020913126420204372
+Anam_Covid-19_02,OpenAI GPT OSS 120B,P1_01_02,0.019784283780901517
+Anam_Covid-19_02,OpenAI GPT OSS 120B,P1_01_03,0.020353432920532023
+Anam_Covid-19_02,OpenAI GPT OSS 120B,P1_01_04,0.021428012976757733
+Anam_Aengstliche-Patientin,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.022560845505573215
+Anam_Aengstliche-Patientin,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.022892552333467233
+Anam_Aengstliche-Patientin,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.022832969332257126
+Anam_Aengstliche-Patientin,MedGemma 27B Instruct,P1_01_01,0.01874596362849055
+Anam_Aengstliche-Patientin,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02293410447672531
+Anam_Aengstliche-Patientin,MedGemma 27B Instruct,P1_01_04,0.005714983581490408
+Anam_Aengstliche-Patientin,MedGemma 27B Instruct,P1_01_02,0.01742945079212915
+Anam_Aengstliche-Patientin,MedGemma 27B Instruct,P1_01_03,0.013710012887947055
+Anam_Aengstliche-Patientin,Meta Llama 3.1 8B Instruct,P1_01_02,0.022369115570222673
+Anam_Aengstliche-Patientin,Meta Llama 3.1 8B Instruct,P1_01_01,0.022173318471069216
+Anam_Aengstliche-Patientin,Meta Llama 3.1 8B Instruct,P1_01_04,0.022647286884599733
+Anam_Aengstliche-Patientin,Meta Llama 3.1 8B Instruct,P1_01_03,0.022190092959021905
+Anam_Aengstliche-Patientin,OpenAI GPT OSS 120B,P1_01_01,0.019347920163157298
+Anam_Aengstliche-Patientin,OpenAI GPT OSS 120B,P1_01_03,0.01787265806570998
+Anam_Aengstliche-Patientin,OpenAI GPT OSS 120B,P1_01_02,0.02067672381419075
+Anam_Aengstliche-Patientin,OpenAI GPT OSS 120B,P1_01_04,0.019051014503589196
+Anam_Cephalgie,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.02276998547395579
+Anam_Cephalgie,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.022615914765512866
+Anam_Cephalgie,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.02275757077016812
+Anam_Cephalgie,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.023037125422909224
+Anam_Cephalgie,MedGemma 27B Instruct,P1_01_03,0.018892298661565023
+Anam_Cephalgie,MedGemma 27B Instruct,P1_01_02,0.019246155410089307
+Anam_Cephalgie,MedGemma 27B Instruct,P1_01_04,0.01976516771721359
+Anam_Cephalgie,Meta Llama 3.1 8B Instruct,P1_01_01,0.022853834755104028
+Anam_Cephalgie,MedGemma 27B Instruct,P1_01_01,0.017350122554680564
+Anam_Cephalgie,Meta Llama 3.1 8B Instruct,P1_01_03,0.02296687951431385
+Anam_Cephalgie,Meta Llama 3.1 8B Instruct,P1_01_02,0.02269013892095485
+Anam_Cephalgie,Meta Llama 3.1 8B Instruct,P1_01_04,0.022741649612830518
+Anam_Cephalgie,OpenAI GPT OSS 120B,P1_01_02,0.019592757618659504
+Anam_Cephalgie,OpenAI GPT OSS 120B,P1_01_01,0.016655632333850125
+Anam_Cephalgie,OpenAI GPT OSS 120B,P1_01_04,0.019833995405440695
+Anam_Cephalgie,OpenAI GPT OSS 120B,P1_01_03,0.019915715694097082
+Anam_Cholezystitis,MedGemma 27B Instruct,P1_01_03,0.012912713267817155
+Anam_Cholezystitis,Meta Llama 3.1 8B Instruct,P1_01_01,0.026411870291357588
+Anam_Cholezystitis,OpenAI GPT OSS 120B,P1_01_04,0.01603751898544226
+Anam_Cholezystitis,Meta Llama 3.1 8B Instruct,P1_01_02,0.02808074557675373
+Anam_Cholezystitis,OpenAI GPT OSS 120B,P1_01_03,0.020128710161172073
+Anam_Cholezystitis,OpenAI GPT OSS 120B,P1_01_02,0.020244038494654625
+Anam_Cholezystitis,OpenAI GPT OSS 120B,P1_01_01,0.016260342938088434
+Anam_Cholezystitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_01,0.0254443593268035
+Anam_Cholezystitis,Meta Llama 3.1 8B Instruct,P1_01_04,0.025289508268885683
+Anam_Cholezystitis,Meta Llama 3.1 8B Instruct,P1_01_03,0.024419588532212995
+Anam_Cholezystitis,MedGemma 27B Instruct,P1_01_04,0.020851785480613564
+Anam_Cholezystitis,MedGemma 27B Instruct,P1_01_02,0.018720984729345323
+Anam_Cholezystitis,MedGemma 27B Instruct,P1_01_01,0.012218259901440688
+Anam_Cholezystitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_04,0.026258076958430635
+Anam_Cholezystitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_03,0.02589948828568043
+Anam_Cholezystitis,Llama 3.1 SauerkrautLM 70B Instruct,P1_01_02,0.025669252741268737

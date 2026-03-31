@@ -1,0 +1,15 @@
+{
+    "experiment_id": 1684,
+    "audio_id": "Anam_Bauchschmerzen",
+    "model_name": "Meta Llama 3.1 8B Instruct",
+    "run_id": "P1_01_01",
+    "type": "output",
+    "tags": [
+        "AI",
+        "LLM",
+        "STT",
+        "Summary",
+        "Meta Llama 3.1 8B Instruct"
+    ],
+    "text": "LLM Output Starts here:\n\n\n### Patient:\nFrau Milberg, Anke, ist 45 Jahre alt und wurde am 7.12.1974 geboren. Sie ist Bürokauffrau und wohnt zusammen mit ihrem Ehemann und ihren zwei Kindern. Sie hat eine chronische Darmerkrankung (Colitis Ulcerosa) seit 10 Jahren und leidet auch an Zuckerkrankheit und Unterfunktion der Schilddrüse. Sie nimmt L-Tyroxin 75 und Insulin ein und hat eine Insulinpumpe. Sie hat auch eine Nüsseallergie und ist gegen Mitronidazol allergisch. Ihre Eltern haben auch chronische Krankheiten, ihr Vater hat erhöhten Blutdruck und eine Herzkrankheit, und ihre Mutter hat Zuckerkrankheit und eine chronische Darmerkrankheit. Sie hat zwei Schwestern, eine von denen hat auch eine chronische Darmerkrankheit. Sie ist gesund, aber hat manchmal Müdigkeit und fühlt sich antriebslos.\n\n\n### Arzt:\nHerr Krilov, Assistenzarzt, ist besorgt über die Schmerzen von Frau Milberg und denkt an eine Entzündung der Gallenblase. Er möchte eine körperliche Untersuchung durchführen, Blut abnehmen und einen Ultraschall vom Bauch machen, um die genaue Diagnose zu stellen. Er empfiehlt, dass Frau Milberg im Krankenhaus bleibt, um die Schmerzen zu überwachen und die weitere Behandlung zu planen.\n\n\n**Relevante Textstellen:**\n\n\n- \"Ich bin am 7.12.1974 geboren und das heißt, ich bin 45 Jahre alt.\" (Patient)\n- \"Ich bin eine Bürokauffrau.\" (Patient)\n- \"Ich habe eine chronische Darmerkrankung (Colitis Ulcerosa) seit 10 Jahren.\" (Patient)\n- \"Ich denke, Sie haben eine Entzündung der Gallenblase.\" (Arzt)\n- \"Wir müssen eine körperliche Untersuchung durchführen, Blut abnehmen und einen Ultraschall vom Bauch machen, um die genaue Diagnose zu stellen.\" (Arzt)\n- \"Ich empfehle, dass Sie im Krankenhaus bleiben, um die Schmerzen zu überwachen und die weitere Behandlung zu planen.\" (Arzt)"
+}

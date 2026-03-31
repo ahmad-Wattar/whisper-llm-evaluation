@@ -1,0 +1,80 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Herr Wolfgang Müller, geboren am 11. November 1963 (57 Jahre alt). Gewicht ca. 115-116 kg, Größe 1,87 m.
+*   **Hausarzt:** Frau Dr. Westenberger.
+*   **Hauptbeschwerde:** Seit gestern Abend (ca. 20:00 Uhr) plötzlich einsetzende, sehr starke Bauchschmerzen.
+*   **Schmerzcharakteristik:**
+    *   Lokalisation: Oberer Bauch, eher mittig.
+    *   Ausstrahlung: Gürtelförmig in den Rücken.
+    *   Qualität: Dumpf.
+    *   Intensität: 7-8 von 10.
+    *   Verlauf: Seit gestern Abend verstärkt.
+*   **Begleitsymptome:**
+    *   Erbrechen: Einmal gestern Abend.
+    *   Übelkeit: Jetzt besser, war aber vorhanden.
+    *   Stuhl: Letzte Stuhlgang vor zwei Tagen, ansonsten normal.
+    *   Blähungen: Seit einigen Tagen, aber anders als die aktuellen Schmerzen.
+*   **Sonstiges:**
+    *   Kein Fieber.
+    *   Schläft seit ca. 2 Jahren unruhig.
+    *   Keine Veränderung von Appetit oder Gewicht in letzter Zeit.
+    *   Stress durch Kündigung bei der Arbeit und Streit mit der Frau.
+    *   Allergie gegen Pollen und Gräser.
+    *   Raucht ca. 1 Schachtel Zigaretten pro Tag seit 30 Jahren.
+    *   Trinkt täglich 5-6 Bier, manchmal auch Schnaps, besonders in Stresszeiten.
+*   **Vorgeschichte:**
+    *   Erhöhter Blutdruck und erhöhte Blutfettwerte seit ca. 8-9 Jahren.
+    *   Blinddarmentfernung als Kind (mit 10 Jahren).
+    *   Herzinfarkt vor zweieinhalb Jahren mit Stentimplantation.
+    *   Nimmt Ramipril (Dosierung unbekannt, abends), ASS100 (abends und morgens, eine Tablette), Ibuprofen 600 (bei Bedarf).
+    *   Familie: Vater Alkoholiker (gestorben mit 56), Mutter hatte Herzinfarkt (mit 54, lebt noch), Bruder hatte Bauchspeicheldrüsenkrebs (gestorben mit 48).
+
+**Arzt:**
+
+*   **Begrüßung und Erklärung:** Stellt sich als diensthabende Ärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten, Hausarzt, aktuellen Beschwerden (Beginn, Lokalisation, Ausstrahlung, Qualität, Intensität, Begleitsymptome), Vorgeschichte (Vorerkrankungen, Operationen, Medikamente, Allergien, Rauchen, Alkohol, Familie).
+*   **Vorläufige Diagnose/Plan:** Vermutet eine Entzündung der Bauchspeicheldrüse (Pankreatitis) aufgrund der Beschwerden. Plant weitere Untersuchungen (Ultraschall, Blutabnahme, körperliche Untersuchung, ggf. MRT). Möchte den Patienten zur Beobachtung einige Tage im Krankenhaus behalten. Empfiehlt, den Alkohol erstmal komplett wegzulassen. Bietet später einen Ernährungsplan und weitere Medikamente an. Erwähnt die Möglichkeit eines Zusammenhangs zwischen den Schmerzen und dem Alkoholkonsum. Bietet Unterstützung bei der Alkoholreduktion an.
+*   **Abschluss:** Bittet den Patienten, im Wartezimmer Platz zu nehmen, während sie den Untersuchungsraum vorbereitet.
+
+**Relevante Textstellen:**
+
+*   **Patient (Persönliche Daten):**
+    *   "mein Name ist Nina Colette, ich bin die diensthabende Ärztin hier auf der Station"
+    *   "Wie heißen Sie denn? Ich bin der Herr Müller. Herr Müller. Haben Sie auch einen Vornamen? Ich habe auch einen Vornamen, Wolfgang."
+    *   "Wie alt sind Sie denn und wann haben Sie Geburtstag, Herr Müller? 57 bin ich, am 11. November 1963."
+    *   "Wissen Sie, wie viel Sie zurzeit wiegen? Ja, ungefähr so um die 115, 116 Kilo. Und wie groß sind Sie? So 1,87 steht in meinem Ausweis zumindest."
+    *   "bei wem befinden Sie sich denn in hausärztlicher Behandlung, wenn Sie nicht bei uns sind? Das ist die Frau Dr. Westenberger."
+*   **Patient (Hauptbeschwerde):**
+    *   "Ja, ich habe sehr starke Bauchschmerzen."
+    *   "Seit wann haben Sie die? Gestern Abend hat es angefangen, irgendwann gegen 8 Uhr. Und geht bis heute weiter."
+    *   "Können Sie mir sagen, wo genau die Schmerzen sind oder zeigen? Ja, im oberen Teil vom Bauch. Eher links, rechts oder mittig? Eher mittig."
+    *   "Strahlen die Schmerzen in eine andere Körperregion aus, zum Beispiel auch in den Rücken oder nach unten? Ja, die strahlen in den Rücken am besten aus. Es ist so wie ein Kreis bildet sich dadurch der Schmerz. Meinen Sie so ein gürtelförmiger Schmerz? Ja."
+    *   "Sind die Schmerzen sehr stark? Schon. Die haben sich verstärkt seit gestern Abend."
+    *   "Auf einer Schmerzskala von 1 bis 10, wobei 1 leichten und 10 unerträglichen Schmerzen entspricht, wo würden Sie die Schmerzen einstufen? 7, 8 Punkte würde ich sagen."
+    *   "Und wie würden Sie den Schmerz beschreiben? Ist das ein brennender Schmerz, ein drückender Schmerz, stechend? Eher ein dumpfer Schmerz."
+*   **Patient (Begleitsymptome):**
+    *   "Ist Ihnen auch übel, Herr Müller? Ja, also jetzt gerade nicht mehr, aber ich musste erbrechen gestern. Aber Sie mussten tatsächlich auch brechen. Wie oft mussten Sie auch bewegen? Einmal."
+    *   "Ist Ihnen denn auch nach wie vor schlecht oder ist es mit dem Erbrechen besser geworden? Es geht jetzt. Es geht so richtig besser. Vom Schmerz her ist es nicht geworden, aber mir ist jetzt gerade nicht mehr übel."
+    *   "Wie sieht es denn aus mit Ihrem Stuhl zur Zeit? Haben Sie damit auch Probleme gerade? Ne, ist mir nicht aufgefallen. Also, ne, der letzte Stuhl war vor zwei Tagen, aber grundsätzlich ist da alles normal."
+    *   "Haben Sie tatsächlich Blähungen im Bauch in den letzten Tagen. Aber sonst nichts und es war anders."
+*   **Patient (Vorgeschichte/Sonstiges):**
+    *   "erhöhten Blutdruck und erhöhte Blutfettwerte auch. Seit wann wissen Sie davon, von dem erhöhten Blutdruck und den erhöhten Blutfettwerten? Schon seit Jahren. So acht, neun Jahre."
+    *   "mir wurde der Blindendarm entfernt als Kind schon. Da war ich zehn."
+    *   "Ich nehme Ramipril... ASS100... Manchmal nehme ich auch mal Ibuprofen... Und dann nehme ich noch Nitro, wenn es mir in der Brust sticht."
+    *   "Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen. Wann war denn der Herzinfarkt? Vor zweieinhalb Jahren."
+    *   "Ich rauche, ja. Wie viele Zigaretten rauchen Sie pro Tag und seit wann? So ein Päckchen pro Tag. Schon 30 Jahre lang."
+    *   "Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Wie viel denn auch täglich oder eher am Wochenende? Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit."
+    *   "Mein Vater war Alkoholiker... Ist auch gestorben... mit 56... Auch am Alkohol? Ja, schon."
+    *   "Meine Mutter hatte aber auch schon einen Herzinfarkt... ein oder mehrere? Ein."
+    *   "mein Bruder hat Krebs, Bauchspeicheldrüsenkrebs... gestorben mit 48."
+    *   "Ich schlafe generell unruhig und wache immer wieder mal auf... geht schon seit, das weiß ich, zwei Jahren ungefähr bestimmt."
+    *   "Stress durch Kündigung bei der Arbeit und Streit mit der Frau."
+*   **Arzt (Diagnose/Plan):**
+    *   "Ich möchte Sie in der Tat gerne ein paar Tage zur Beobachtung hier behalten. Das liegt daran, dass ich das Gefühl habe, dass Sie eine Entzündung der Bauchspeicheldrüse haben."
+    *   "Wir werden Ihnen ein paar Medikamente geben, auch auf Ihre Ernährung natürlich achten."
+    *   "Wichtig ist auf jeden Fall jetzt für die nächsten Tage, um die Schmerzen zu lindern und um da auch eine Besserung zu bewirken, dass Sie den Alkohol erstmal komplett weglassen, bitte."
+    *   "Wir werden gleich einen Ultraschall machen und Ihnen auch Blut abnehmen und Sie auch körperlich untersuchen, einmal abtasten. Gegebenenfalls werden wir auch noch einen MRT machen."
+    *   "um das natürlich auch zu vermeiden mit dem Krebs, ist es schon wichtig, dass wir da jetzt direkt reagieren."
+    *   "Wenn Sie möchten, können wir dann natürlich nochmal mit unserer Sozialhilfe hier sprechen, dass wir Ihnen da vielleicht nochmal eine Hilfestellung geben."

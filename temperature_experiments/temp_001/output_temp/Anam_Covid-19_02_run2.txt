@@ -1,0 +1,53 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK).
+*   **Hauptbeschwerden:** Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche.
+*   **Symptombeginn und Verlauf:**
+    *   Fieber seit vorgestern Abend, begann mit 37,6°C, stieg auf 39,1°C an, trotz Norufen und Aspirin C nicht senkbar. ("Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter.")
+    *   Halsschmerzen vor 4-5 Tagen, begannen mit heißem Kratzen, dann Schmerzen und Engegefühl. ("es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals.")
+    *   Husten seitdem, trockener Husten, kein Auswurf, permanenter Hustenreiz, keine Hustenanfälle. ("Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus. [...] immer so ein bisschen. Also keine richtigen Hustenanfälle, aber ein permanenter Hustenreiz.")
+    *   Schwäche und Schlappheit. ("Ich fühle mich richtig schwach.")
+    *   Schüttelfrost ("Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt.")
+    *   Gelenkschmerzen ("Und ansonsten Gelenkschmerzen.")
+    *   Geschmacksverlust und Appetitlosigkeit ("Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit.")
+    *   Schlafstörungen, Schwierigkeiten morgens aufzustehen ("Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen.")
+*   **Vorerkrankungen:** Entfernung der Gallenblase vor 8 Jahren (wegen Gallensteine). Fructoseintoleranz.
+*   **Medikamente:** Ab und zu Voltaren (Schulterschmerzen), Tabletten gegen Fructoseintoleranz (Name nicht genannt), Aspirin C, Norofen.
+*   **Soziales:** Geschieden, wohnt bei den Eltern (Mutter dement), Unterstützung durch eine Haushaltshilfe/Pflegekraft.
+*   **Sonstiges:** Raucht nicht, trinkt keinen Alkohol (wegen Fructoseintoleranz). Richter beim Landesarbeitsgericht. Keine Drogen. Keine bekannten Allergien. Stress mit den Eltern.
+*   **Impfstatus:** Nicht aktuell geimpft. ("Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert.")
+
+**Arzt:**
+
+*   **Begrüßung und Einleitung:** Begrüßt Herrn Fest, stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Gesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten (Name, Geburtsdatum, Größe, Gewicht, Hausarzt), aktuellen Beschwerden, Symptomen (Fieber, Halsschmerzen, Husten, Schwäche, Schüttelfrost, Gelenkschmerzen, Geschmacksverlust, Appetitlosigkeit, Schlafstörungen), Vorerkrankungen, Medikamenteneinnahme, Impfstatus, Lebensgewohnheiten (Rauchen, Alkohol, Drogen), Allergien, psychischer Zustand, sozialer Situation (Familie, Wohnsituation), Kontakt zu infizierten Personen, Aufenthalte in Menschenmengen.
+*   **Diagnostische Maßnahmen:** Plant einen Abstrich (Rachen und Nase) zum Testen auf COVID-19. Erklärt den Ablauf des Abstrichs (Schutzkleidung der Kollegen, Tiefe des Abstrichs, mögliches Nasenbluten).
+*   **Weitere Schritte:**
+    *   Laborprobe wird sofort ins Labor geschickt.
+    *   Ergebnis wird per Post in 2-3 Tagen zugeschickt.
+    *   Patient soll die Wartezeit zur Genesung nutzen, Kontakte vermeiden und ggf. Unterstützung annehmen.
+    *   Bei negativem Ergebnis läuft alles wie bisher weiter.
+    *   Bei positivem Ergebnis soll sich der Patient melden, um das weitere Vorgehen (Quarantäne) zu besprechen.
+*   **Zusätzliche Angebote:** Bietet einen Flyer des Sozialdienstes an, da der Patient Stress mit der pflegebedürftigen Mutter hat.
+*   **Abschluss:** Verabschiedet sich und erklärt, dass die Kollegen gleich für den Abstrich kommen.
+
+**Relevante Textstellen:**
+
+*   "Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK)."
+*   "Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche."
+*   "Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+*   "es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals."
+*   "Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus. [...] immer so ein bisschen. Also keine richtigen Hustenanfälle, aber ein permanenter Hustenreiz."
+*   "Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt."
+*   "Und ansonsten Gelenkschmerzen."
+*   "Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+*   "Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen."
+*   "Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+*   "Ich nehme ab und zu Voltaren, weil ich oft Schmerzen in meiner rechten Schulter habe. [...] Ich habe noch eine Fructoseintoleranz. [...] Tabletten gegen Fructoseintoleranz (Name nicht genannt), Aspirin C, Norofen."
+*   "Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert."
+*   "Wir werden Ihre Probe gleich sofort ins Labor schicken. Die werden wir dann auswerten. Dann können wir Ihnen aus datenschutzrechtlichen Gründen die Befunde per Post nur zukommen lassen. Das heißt, Sie müssen leider zwei bis drei Tage warten."
+*   "Nutzen Sie die Zeit bitte, um sich gut auszukurieren. Vermeiden Sie Kontakte. Versuchen Sie sich vielleicht noch jemanden zu besorgen, der Ihnen Essen vorbeibringen kann oder Sie auch ein bisschen versorgen kann."
+*   "Wenn das Ergebnis positiv ist, würde ich Sie bitten uns noch mal zu kontaktieren. Dann gehen wir das weitere Prozedere gemeinsam durch. Denn dann müssen Sie auf jeden Fall erst mal in Quarantäne bleiben."
+*   "Ich habe ja auch schon mal eine Frau, die sich mit einer Krankheit beschäftigt." (Bezug auf das Angebot des Flyers)

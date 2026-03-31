@@ -1,0 +1,77 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK).
+*   **Hauptbeschwerden:** Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche.
+*   **Symptombeginn und Verlauf:**
+    *   Vor 4-5 Tagen: Halsschmerzen (heißes Kratzen, später Schmerzen, leichtes Engegefühl).
+    *   Danach: Weiter runtergehender Husten (trocken, kein Schleim, kein Hustenanfall, permanenter Reiz).
+    *   Seit 2 Tagen: Fieber (beginnend bei 37,6 °C, gestiegen bis 39,1 °C), Schüttelfrost, Gelenkschmerzen, Appetitlosigkeit, Verlust des Geschmacks.
+    *   Schwäche und Schlappheit seit einigen Tagen.
+    *   Schlafverhalten: Unruhig, Schwierigkeiten morgens aufzustehen (seit ca. 1-2 Wochen).
+*   **Weitere Informationen:**
+    *   Gallenblase entfernt (vor 8 Jahren wegen Gallensteinen).
+    *   Nimmt gelegentlich Voltaren (Schulterschmerzen) und Tabletten gegen Fructoseintoleranz.
+    *   Hat Aspirin C und Norofen gegen Fieber genommen, ohne Erfolg.
+    *   Nicht geimpft (vermutlich als Kind, aber seit Jahren nicht mehr).
+    *   Keine Vorerkrankungen außer der entfernten Gallenblase und Fructoseintoleranz.
+    *   Keine Allergien bekannt.
+    *   Psychisch grundsätzlich gut, Stress durch schwieriges Verhältnis zur Mutter (dement) und Wohnsituation mit Eltern.
+    *   Beruf: Richter am Landesarbeitsgericht.
+    *   Nichtraucher, trinkt keinen Alkohol (wegen Fructoseintoleranz).
+    *   Keine Drogen.
+    *   Kein Kontakt zu bestätigten COVID-19-Fällen bekannt.
+    *   Keine größeren Menschenmengen in letzter Zeit.
+    *   Stuhlgang normal.
+    *   Leichte Atembeschwerden nur bei Anstrengung (Treppensteigen).
+
+**Arzt:**
+
+*   **Begrüßung und Ablauf:** Begrüßt Herrn Fest, stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten, aktuellen Beschwerden, Symptomen, Vorerkrankungen, Medikamenten, Impfstatus, Lebensgewohnheiten (Rauchen, Alkohol, Drogen), Beruf, sozialer Situation und möglicher COVID-19-Exposition.
+*   **Einschätzung und Vorgehen:**
+    *   Bestätigt, dass es gut war, dass Herr Fest gekommen ist.
+    *   Erwähnt, dass die Symptome sowohl auf eine Grippe als auch auf eine COVID-19-Infektion hindeuten könnten.
+    *   Plant einen COVID-19-Abstrich.
+    *   Erklärt den Ablauf des Abstrichs (Schutzkleidung der Kollegen, unangenehm, tief in Nase und Rachen, mögliches Nasenbluten).
+    *   Erklärt das weitere Vorgehen:
+        *   Probe wird ins Labor geschickt.
+        *   Ergebnis per Post in 2-3 Tagen.
+        *   Empfehlung für die Wartezeit: Kontaktvermeidung, Quarantäne zu Hause, Schonung.
+        *   Bei positivem Ergebnis: Kontaktaufnahme zur weiteren Besprechung des Vorgehens.
+        *   Bei negativem Ergebnis: Alles bleibt wie bisher.
+    *   Bietet einen Flyer des Sozialdienstes an (wegen der Demenz der Mutter).
+    *   Erwähnt, dass eine körperliche Untersuchung (Lunge abhören, Bauch abtasten, Blut abnehmen) folgen wird.
+
+**Relevante Textstellen:**
+
+*   "Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK)."
+*   "Mir geht es seit ein paar Tagen gar nicht gut. Seit gestern Abend ganz schlecht. Und ich kam jetzt zu Ihnen, da es ja jetzt Mittwoch Nachmittag ist und mein Hausarzt nicht mehr dort ist. Deswegen kam ich hierhin, weil ich mir wirklich Sorgen gemacht habe. Ich habe richtig Fieber, fühle mich richtig schwach."
+*   "Das Fieber, haben Sie das gemessen? Ich habe das gemessen, ja. Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+*   "Ja, es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals. Und es ging immer weiter runter. Und jetzt muss ich auch oft stark husten."
+*   "Ein trockener Husten. Es kommt noch kein Schleim raus."
+*   "Nein, ich würde nicht sagen, dass ich Atembeschwerden habe. Manchmal, wenn ich die Treppe hochgehe oder mich ein bisschen anstrenge, dann leicht. Aber als atembeschwerdenrichtig würde ich sie nicht bezeichnen."
+*   "Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt."
+*   "Gelenkschmerzen. Ich fühle mich richtig schlapp und schwach."
+*   "Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+*   "Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen."
+*   "Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+*   "Ich nehme nur Medikamente. Ich nehme ab und zu Voltaren... Und da nehme ich ab und zu Tabletten dagegen. Wenn es nur wenn."
+*   "Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert."
+*   "Ich bin Richter. Beim Landesarbeitsgericht."
+*   "Nein. Noch nie geraucht. Auch nicht. Aufgrund meiner Fructoseintoleranz kann ich ja nur bestimmte Sorten von Alkohol trinken. Da kann man sich auch nicht sicher sein. Und deswegen habe ich einfach komplett damit aufgehört."
+*   "Nein. Nein."
+*   "Nicht, dass ich wüsste."
+*   "Mir geht es grundsätzlich psychisch gut. Ich habe oft Stress mit meinen Eltern... Ich wohne jetzt wieder bei meinen Eltern im Haus, weil ich geschieden bin... Meine Mutter ist dement."
+*   "Nein. Ich habe mich an die Vorschriften gehalten."
+*   "Vor fünf Tagen haben die Halsschmerzen angefangen. Erst leicht, dann immer stärker werdend mit einem Kratzen und später sogar einem leichten Engegefühl im Hals. Das ging dann über in Husten. Der Husten ist eher ein trockener Husten. Es kommt also kein Auswurf mit raus. Atembeschwerden haben Sie eher nicht, sondern nur beim Treppensteigen, aber dann auch nur leicht. Sie sprechen davon, dass Sie jetzt seit Tagen schwach sind und eher abgeschlagen. Sie kommen schwerer aus dem Bett und haben ebenfalls seit zwei Tagen Fieber. Das letzte Mal, als Sie Fieber gemessen haben, lag die Temperatur bei 39,1 Grad."
+*   "Appetit ist Ihnen derzeit auch vergangen. Sie haben zudem auch den Geschmack verloren, wenn Sie etwas essen. Sie haben auch Gelenk- und Gliederschmerzen angegeben."
+*   "Schüttelfrost hatten Sie gesagt."
+*   "Wir werden Ihre Probe gleich sofort ins Labor schicken. Die werden wir dann auswerten. Dann können wir Ihnen aus datenschutzrechtlichen Gründen die Befunde per Post nur zukommen lassen. Das heißt, Sie müssen leider zwei bis drei Tage warten."
+*   "Nutzen Sie die Zeit bitte, um sich gut auszukurieren. Vermeiden Sie Kontakte. Versuchen Sie sich vielleicht noch jemanden zu besorgen, der Ihnen Essen vorbeibringen kann oder Sie auch ein bisschen versorgen kann."
+*   "Wenn das Ergebnis positiv ist, würde ich Sie bitten uns noch mal zu kontaktieren. Dann gehen wir das weitere Prozedere gemeinsam durch. Denn dann müssen Sie auf jeden Fall erst mal in Quarantäne bleiben."
+*   "Wenn das Ergebnis negativ ist, dann ist es wunderbar. Dann geht alles so weiter wie bisher."
+*   "Ich werde Sie gleich noch mal etwas intensiver über den Test aufklären... Die Kollegen werden jetzt in Schutzanzügen kommen... der Abstrich selber wird etwas unangenehm werden... müssen wir einen Abstrich aus Ihrem Hals nehmen... müssen wir leider relativ tief mit dem Röhrchen in den Hals und auch in die Nase... Das könnte etwas schmerzhaft werden... bei dem einen oder anderen Patienten kann das sogar zu Nasenbluten führen..."
+*   "Ich werde mich ebenfalls noch mal etwas mehr schützen. Ich würde Ihre Lunge gerne mal abhören und auch mal den Bauch abtasten. Ihnen ebenfalls auch ein bisschen Blut abnehmen."
+*   "Alles in allem hört sich das an wie eine Grippe, die Sie derzeit haben. Aber wie gesagt, aufgrund der aktuellen Situation kann man sich jetzt nicht sicher sein, ob es eine einfache Grippe ist oder ob das eben die Corona-Infektion ist."

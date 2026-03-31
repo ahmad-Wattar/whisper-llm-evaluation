@@ -1,0 +1,40 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Rainer Schröder (mit ei), 53 Jahre alt (geboren am 24. Februar 1967).
+*   **Größe:** 1,78 Meter.
+*   **Gewicht:** 86,4 Kilo (wird täglich gemessen).
+*   **Hausarzt:** Dr. Mailand.
+*   **Hauptbeschwerde:** Starke Schmerzen im linken Bein seit gestern, begleitet von Schwellung, Blaufärbung und Wärmegefühl. Der Schmerz ist dumpf, lokalisiert in der Wade (nicht ausstrahlend) und wird durch Sitzen nicht besser, aber durch Hochlegen des Beins etwas gelindert. Die Schmerzintensität wird mit 5 oder 6 auf einer Skala von 1 bis 10 angegeben.
+*   **Auslöser:** Kein bestimmter Auslöser bekannt. Schmerzen und Symptome traten plötzlich auf.
+*   **Medikamente:** Keine Schmerzmittel eingenommen. Nimmt Blutdrucktabletten (kleine blaue Tabletten, Name unbekannt), Cortison-Salbe gegen Krampfadern (täglich abends) und Diclofenac-Salbe gegen Sehnscheidentzündung (2-3 Mal täglich nach Bedarf) sowie Duco bei Verstopfung (oft).
+*   **Vorerkrankungen:** Krampfadern (an beiden Beinen seit ca. 5 Jahren), Bluthochdruck (seit ca. 2014), Sehnscheidentzündung (festgestellt vor einem Monat).
+*   **Allergien/Unverträglichkeiten:** Laktoseintoleranz (Bauchkrummeln, Durchfall, Schmerzen), Allergie gegen Amoxicillin (Hautausschlag, Juckreiz, Verfärbung).
+*   **Sozialanamnese:** Verheiratet (zweite Ehe), Pflegekind (6 Jahre alt).
+*   **Lebensgewohnheiten:** Raucher (10-12 Zigaretten/Tag seit 20 Jahren), trinkt Wein (ein Glas Rotwein am Abend), keine Drogen. Körperliche Aktivität: Nordic Walking, Wandern, Radfahren (nicht regelmäßig).
+*   **Familiengeschichte:** Vater hatte einen Bauchinfarkt (gestorben mit 70), Mutter lebt, hatte Hüftgelenksentzündung und Blutgerinnungsstörung (Art unbekannt). Einzelkind, keine eigenen Kinder.
+*   **Sonstiges:** Fühlt sich in letzter Zeit etwas müder, führt dies aber auf Stress bei der Arbeit (Versicherungsmakler) zurück. Hat Verstopfungsprobleme.
+
+**Arzt:**
+
+*   **Name:** Nina Colette, diensthabende Ärztin.
+*   **Vorgehensweise:** Führt ein Aufnahmegespräch, stellt Fragen zur Person, aktuellen Beschwerden und Anamnese.
+*   **Diagnostischer Verdacht:** Aufgrund der Schilderung (Schmerzen, Schwellung, Blaufärbung, Wärme im linken Bein) besteht der Verdacht auf einen Verschluss in den Gefäßen des Beins (wahrscheinlich Thrombose).
+*   **Geplante Untersuchungen:** Körperliche Untersuchung, Blutabnahme (Labor), Farbduplexsonographie (Ultraschall zur Beurteilung des Blutflusses).
+*   **Geplante Behandlung/Verlauf:** Wahrscheinliche stationäre Aufnahme zur Beobachtung und Behandlung für ein paar Tage, falls sich der Verdacht bestätigt. Betont, dass eine frühzeitige Behandlung wichtig ist, um Komplikationen zu vermeiden. Erklärt, dass die Situation gefährlich werden kann, wenn sie nicht behandelt wird, aber bei Behandlung eher ungefährlich ist.
+
+**Relevante Textstellen:**
+
+*   **Patientenname und Alter:** "Rainer Schröder ist mein Name... Am 24. Februar 67."
+*   **Größe und Gewicht:** "1,78 Meter... 86,4 Kilo."
+*   **Hausarzt:** "Bei wem sind Sie in hausärztlicher Behandlung? Bei Dr. Mailand."
+*   **Hauptbeschwerde:** "Ja, ich habe Schmerzen, starke Schmerzen im Bein seit gestern... linke, im linken Bein nur... Es ist geschwollen, ja... Es ist geschwollen und es ist irgendwie auch blau... heute habe ich schon so gespürt, es fühlt sich auch irgendwie warm an."
+*   **Schmerzcharakteristik:** "Erst mal noch kurz, welches Bein ist es denn? Links, rechts beide? Das linke, im linken Bein nur... Nur dort, nur in der Waage... Eher dumpf... es ist nicht so, dass ich jetzt nicht laufen kann... irgendwo mittig würde ich sagen. Fünf, sechs... Beim Sitzen tut es eigentlich auch gleich weh. Aber wenn ich die Beine so hoch lege, dann wird es ein bisschen besser."
+*   **Medikamente:** "Nein, noch nicht. Ich war mir gar nicht sicher, was ich nehmen soll... Gegen meinen Bluthochdruck nehme ich, das sind so kleine blaue Tabletten... Cortison-Salbe gegen meine Krampfadern... Diclofenac-Salbe für die Sehnscheidentzündung... Duco."
+*   **Vorerkrankungen:** "Ja, bei mir wurden Krampfadern... Bluthochdruck auch... Sehnscheidentzündung wurde bei mir festgestellt vor einem Monat."
+*   **Allergien:** "Ja, ich habe eine Laktoseintoleranz und eine Allergie gegen Amoxicillin."
+*   **Rauchen/Alkohol:** "Ja, ich rauche... 10, 12 Zigaretten am Tag... Ja, ich trinke Wein vor allem. So ein Glas Rotwein am Abend."
+*   **Arzt-Diagnose:** "Nachdem, was Sie so erzählt haben, hört es sich sehr danach an, als hätten Sie einen Verschluss in Ihren Gefäßen im Bein."
+*   **Arzt-Plan:** "Wir werden Sie einmal körperlich untersuchen... ein bisschen Blut abnehmen, was wir dann ins Labor schicken... eine Farbduplexonographie durchführen... Ich gehe mal davon aus, dass wir Sie schon auch ein paar Tage hier zur Beobachtung behalten... Je schneller wir nämlich mit den nächsten Schritten anfangen, also mit der Behandlung anfangen, desto besser ist das auf jeden Fall."
+*   **Arzt-Risikobewertung:** "Sollte es nicht behandelt werden, dann kann das schon auch gefährlich werden. Deswegen ist das sehr gut, dass Sie auch direkt zu uns ins Krankenhaus gekommen sind."

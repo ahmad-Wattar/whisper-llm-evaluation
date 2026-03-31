@@ -1,0 +1,70 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Herr Wolfgang Müller, geboren am 11. November 1963 (57 Jahre alt). Gewicht ca. 115-116 kg, Größe 1,87 m.
+*   **Hausarzt:** Frau Dr. Westenberger.
+*   **Hauptbeschwerde:** Seit gestern Abend (ca. 20:00 Uhr) plötzlich einsetzende, sehr starke Bauchschmerzen.
+*   **Schmerzcharakteristik:**
+    *   Lokalisation: Oberer Bauch, eher mittig.
+    *   Ausstrahlung: Gürtelförmig in den Rücken.
+    *   Qualität: Dumpf.
+    *   Intensität: 7-8 von 10.
+    *   Verlauf: Seit gestern Abend verstärkt.
+*   **Begleitsymptome:**
+    *   Erbrechen: Einmal gestern Abend.
+    *   Übelkeit: Jetzt besser, war aber vorhanden.
+    *   Stuhl: Letzte Stuhlgang vor zwei Tagen, ansonsten normal.
+    *   Blähungen: In den letzten Tagen, aber anders als die aktuellen Schmerzen.
+*   **Sonstige Angaben:**
+    *   Kein Fieber.
+    *   Keine Kopfschmerzen (außer den üblichen).
+    *   Unruhiger Schlaf seit ca. 2 Jahren.
+    *   Keine Probleme mit Wasserlassen.
+    *   Kein Gewichtsveränderung, kein Appetitveränderung.
+    *   Stress durch Kündigung und Eheprobleme.
+    *   Alkohol: Täglich 5-6 Bier, manchmal Schnaps, seit Jahren, versucht aber schon aufzuhören.
+    *   Raucher: 1 Päckchen Zigaretten pro Tag seit 30 Jahren.
+    *   Pollenallergie (Frühjahr/Herbst).
+    *   Keine Drogen.
+    *   Familie: Vater Alkoholiker (gestorben mit 56), Mutter hatte Herzinfarkt (54, lebt noch), Bruder hatte Bauchspeicheldrüsenkrebs (gestorben mit 48).
+
+**Arzt:**
+
+*   **Begrüßung und Ablauf:** Stellt sich vor, erklärt den Ablauf des Aufnahmegesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten, Hausarzt, aktuellen Beschwerden (Beginn, Lokalisation, Charakter, Ausstrahlung, Intensität, Begleitsymptome), Vorerkrankungen, Operationen, Medikamenten, Allergien, Lebensgewohnheiten (Rauchen, Alkohol, Stress), Familienanamnese.
+*   **Vorläufige Diagnose/Plan:**
+    *   Verdacht auf Entzündung der Bauchspeicheldrüse (Pankreatitis).
+    *   Plan: Aufnahme zur Beobachtung, Medikamente, Ernährungsumstellung, Ultraschall, Blutabnahme, körperliche Untersuchung, ggf. MRT.
+    *   Hinweis auf die Wichtigkeit der Alkoholreduktion/Abstinenz.
+    *   Erwähnung der Möglichkeit von Krebs, betont aber, dass dies nicht die erste Vermutung ist und weitere Untersuchungen nötig sind.
+    *   Anbieten von Unterstützung bei der Alkoholreduktion.
+    *   Bitte, im Wartezimmer zu warten, während der Untersuchungsraum vorbereitet wird.
+
+**Relevante Textstellen:**
+
+*   **Patient (Persönliche Daten):**
+    *   "Wie heißen Sie denn? Ich bin der Herr Müller. Herr Müller. Haben Sie auch einen Vornamen? Ich habe auch einen Vornamen, Wolfgang. Wolfgang Müller, alles klar. Wie alt sind Sie denn und wann haben Sie Geburtstag, Herr Müller? 57 bin ich, am 11. November 1963."
+    *   "Wissen Sie, wie viel Sie zurzeit wiegen? Ja, ungefähr so um die 115, 116 Kilo. Und wie groß sind Sie? So 1,87 steht in meinem Ausweis zumindest."
+*   **Patient (Hauptbeschwerde):**
+    *   "Herr Müller, mögen Sie mir erzählen, was Sie zu mir führt? Ja, ich habe sehr starke Bauchschmerzen. Seit wann haben Sie die? Gestern Abend hat es angefangen, irgendwann gegen 8 Uhr. Und geht bis heute weiter."
+*   **Patient (Schmerzcharakteristik):**
+    *   "Können Sie mir sagen, wo genau die Schmerzen sind oder zeigen? Ja, im oberen Teil vom Bauch. Eher links, rechts oder mittig? Eher mittig. Mittig. Strahlen die Schmerzen in eine andere Körperregion aus, zum Beispiel auch in den Rücken oder nach unten? Ja, die strahlen in den Rücken am besten aus. Es ist so wie ein Kreis bildet sich dadurch der Schmerz. Meinen Sie so ein gürtelförmiger Schmerz? Ja."
+    *   "Auf einer Schmerzskala von 1 bis 10, wobei 1 leichten und 10 unerträglichen Schmerzen entspricht, wo würden Sie die Schmerzen einstufen? 7, 8 Punkte würde ich sagen. Und wie würden Sie den Schmerz beschreiben? Ist das ein brennender Schmerz, ein drückender Schmerz, stechend? Eher ein dumpfer Schmerz."
+*   **Patient (Begleitsymptome):**
+    *   "Haben Sie auch brechen müssen? Einmal. Einmal habe ich mich bewegen. Okay. Ist Ihnen denn auch nach wie vor schlecht oder ist es mit dem Erbrechen besser geworden? Es geht jetzt. Es geht so richtig besser. Vom Schmerz her ist es nicht geworden, aber mir ist jetzt gerade nicht mehr übel."
+    *   "Wie sieht es denn aus mit Ihrem Stuhl zur Zeit? Haben Sie damit auch Probleme gerade? Ne, ist mir nicht aufgefallen. Also, ne, der letzte Stuhl war vor zwei Tagen, aber grundsätzlich ist da alles normal."
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen. Aber sonst nichts und es war anders. Ich habe das jetzt auch gar nicht in Verbindung mit diesen Schmerzen, weil es sich schon anders angefühlt hat."
+*   **Patient (Sonstige Angaben):**
+    *   "Ne, keinen Fieber. Kopfschmerzen habe ich immer mal wieder. Aber es ist mir jetzt nicht aufgefallen, dass ich jetzt stärkere Kopfschmerzen habe dadurch."
+    *   "Ja, ich rauche, ja. Wie viele Zigaretten rauchen Sie pro Tag und seit wann? So ein Päckchen pro Tag. Schon 30 Jahre lang."
+    *   "Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Wie viel denn auch täglich oder eher am Wochenende? Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit."
+    *   "Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit. Und da, ja, das belastet mich schon."
+    *   "Ja, mein Vater war Alkoholiker. Ist auch gestorben. Also relativ jung, auch mit 56. Auch am Alkohol? Ja, schon. Und Ihre Mutter, lebt die noch? Sie lebt noch, sie hatte aber auch schon einen Herzinfarkt. Ja, ein oder mehrere? Ein. Okay. Davon hat sie sich erholt. Und mein Bruder hat Krebs, Bauchspeicheldrüsenkrebs. Und er ist leider auch schon tot."
+*   **Arzt (Diagnose/Plan):**
+    *   "Ich möchte Sie in der Tat gerne ein paar Tage zur Beobachtung hier behalten. Das liegt daran, dass ich das Gefühl habe, dass Sie eine Entzündung der Bauchspeicheldrüse haben."
+    *   "Wir werden Ihnen ein paar Medikamente geben, auch auf Ihre Ernährung natürlich achten. Denn das spielt in diesem Zusammenhang auch eine sehr wichtige Rolle."
+    *   "Und sobald es Ihnen dann besser geht, werden wir Sie natürlich auch wieder entlasten. Allerdings dann auch noch mit einem Ernährungsplan und weiteren Medikamenten."
+    *   "Wichtig ist auf jeden Fall jetzt für die nächsten Tage, um die Schmerzen zu lindern und um da auch eine Besserung zu bewirken, dass Sie den Alkohol erstmal komplett weglassen, bitte."
+    *   "Und um das natürlich auch zu vermeiden mit dem Krebs, ist es schon wichtig, dass wir da jetzt direkt reagieren."
+    *   "Ich bereite sofort den Untersuchungsraum vor und dann treffen wir uns in wenigen Minuten da und fangen mit den Untersuchungen an."

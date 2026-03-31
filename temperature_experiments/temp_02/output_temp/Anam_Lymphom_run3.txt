@@ -1,0 +1,69 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Michael Hemminger, 57 Jahre alt (geboren am 23. Oktober 1963), 1,79 m groß, aktuell 76 kg (hat in den letzten 6 Monaten 7 kg abgenommen).
+*   **Beschwerden:**
+    *   Druck am linken Ohr seit einigen Tagen.
+    *   Schluckbeschwerden, besonders bei festen Speisen ("fühlt sich alles so eng an hier im Hals, als wäre irgendein Fremdkörper da").
+    *   Seit gestern ein schmerzloser, aber fester und großer Knubbel auf der linken Seite (unter dem Kiefer).
+    *   Müdigkeit in letzter Zeit, nächtliches Schwitzen (mehrfach T-Shirt wechseln), häufiges Wasserlassen nachts.
+*   **Vorerkrankungen/Vorgeschichte:**
+    *   Plötzlicher Hörsturz vor 7 Jahren (behandelt mit Infusion, Details unbekannt).
+    *   Bluthochdruck (seit 5-6 Jahren, nimmt Remipril 5mg morgens).
+    *   Chronischer Husten (seit 10 Jahren).
+    *   Rückenschmerzen, Hüftgelenkentzündung (Physiotherapie einmal wöchentlich).
+    *   Pflaster- und Zitrusfrüchteallergie (Haut/Zunge).
+*   **Medikamente:**
+    *   Remipril 5mg (morgens).
+    *   Spiriva (2x täglich, 1 Sprühstoß).
+    *   Ibuprofen 600mg (bei Bedarf, selten).
+*   **Sozialanamnese:**
+    *   Verheiratet, eine erwachsene Tochter.
+    *   Rentner, ehemaliger Bauarbeiter (Lärmexposition).
+    *   Raucher (seit über 40 Jahren, ca. 1 Packung/Tag).
+    *   Trinkt täglich 1-2 Bier.
+*   **Familienanamnese:**
+    *   Mutter hatte Brustkrebs (lebt noch).
+    *   Vater starb an Herzversagen.
+
+**Arzt:**
+
+*   **Begrüßung und Entschuldigung:** Entschuldigt sich für die lange Wartezeit und erklärt die hohe Auslastung.
+*   **Anamnese:** Führt das Anamnesegespräch durch, stellt Fragen zu den Beschwerden (Druck Ohr, Schluckbeschwerden, Knubbel, Müdigkeit, Nachtschweiß, nächtliches Wasserlassen), Vorerkrankungen, Medikamenten, Lebensgewohnheiten (Rauchen, Alkohol), Familienanamnese.
+*   **Erläuterung des weiteren Vorgehens:**
+    *   Wird den Patienten körperlich untersuchen.
+    *   Wird einen Ultraschall durchführen.
+    *   Wird Blut abnehmen.
+    *   Eventuell weitere Untersuchungen (Röntgen, CT).
+    *   Besprechung der Ergebnisse mit dem Oberarzt.
+    *   Entscheidung über stationäre Aufnahme erfolgt später, basierend auf den Befunden.
+    *   Schlägt vor, die Wartezeit zu überbrücken (Kiosk, Zeitschrift).
+*   **Hinweis auf mögliche Ursachen:** Erwähnt, dass die Beschwerden verschiedene Ursachen haben könnten (Entzündung, etc.) und dass ein Krebs nicht ausgeschlossen werden kann, betont aber, dass dies erst durch Untersuchungen geklärt werden kann.
+
+**Relevante Textstellen:**
+
+*   **Patientenname:** "Hemminger ist mein Name. Michael."
+*   **Beschwerden (Ohr):** "Ich habe Druck am linken Ohr seit ein paar Tagen."
+*   **Beschwerden (Schlucken):** "Ich habe beim Essen Probleme, beziehungsweise beim Schlucken. [...] wenn ich irgendwas Festes zu mir nehme, da habe ich richtig Probleme und ich kriege es gar nicht runter."
+*   **Beschwerden (Knubbel):** "Ich habe seit gestern so einen Knubbel hier auf der linken Seite und ich habe das Gefühl, dass er auch größer wird."
+*   **Knubbel (Schmerz):** "Der tut nicht weh, aber ist schon so ganz schön fest und groß."
+*   **Knubbel (Bewegung):** "Ich kann ihn bewegen."
+*   **Knubbel (Schmerz bei Bewegung):** "Nein, da habe ich keine Schmerzen."
+*   **Schluckschmerz:** "Nur beim Schlucken von innen tut es dann weh."
+*   **Hörsturz:** "Ich hatte so einen plötzlichen Hörsturz vor sieben Jahren."
+*   **Bluthochdruck:** "Bluthochdruck habe ich seit ein paar Jahren."
+*   **Chronischer Husten:** "chronischen Husten. Das habe ich schon seit zehn Jahren."
+*   **Medikamente:** "Remipril heißt das, was ich gegen Bluthochdruck nehme." "Spiriva, das nehme ich zweimal täglich." "Ibuprofen. Und wie hoch sind die dosiert? 600er."
+*   **Rauchen:** "Ich bin Raucher. [...] eine Packung am Tag."
+*   **Alkohol:** "Ich trinke auch gelegentlich. [...] täglich ein, zwei Bier."
+*   **Müdigkeit/Nachtschweiß:** "Ich bin aber schon etwas müde in letzter Zeit, müder als sonst. [...] Ich schwitze immer so nachts und wache dann mehrmals auf." "Ist schon stark. Ich muss schon mein T-Shirt wechseln mehrmals die Nacht oder manchmal schon zwei, dreimal nachts."
+*   **Nachtschweiß/Wasserlassen:** "Ich muss auch häufig auf Toilette nachts."
+*   **Gewichtsverlust:** "Ich merke es schon auch, dass ich in den letzten Monaten ziemlich heftig abgenommen habe, ohne das Gewollt zu haben. [...] so sieben Kilo im halben Jahr."
+*   **Familienanamnese (Mutter):** "Meine Mutter hatte Brustkrebs."
+*   **Arzt (Begrüßung):** "Guten Tag, Kulett ist mein Name. [...] Würden Sie mir freundlicherweise einmal Ihren Namen verraten?"
+*   **Arzt (Entschuldigung):** "Das tut mir sehr leid. Das ist natürlich sehr unschön. Ich hoffe, Sie haben etwas Verständnis dafür, dass ziemlich viel los ist bei uns."
+*   **Arzt (Anamnese):** "Ich werde jetzt mit Ihnen das Gespräch weiterführen. Das nennt sich ein Amnesegespräch."
+*   **Arzt (Untersuchung):** "Ich werde Sie jetzt erstmal körperlich untersuchen und würde auch gerne einen Ultraschall machen. Ihnen ein bisschen Blut abnehmen."
+*   **Arzt (Weitere Schritte):** "gegebenenfalls werden wir auch noch ein paar andere Untersuchungen machen. Sie Röntgen oder ein CT oder so etwas." "Sie bleiben jetzt erstmal natürlich noch für die Untersuchungen hier. Bitte planen Sie dafür auch noch ein bisschen Zeit ein."
+*   **Arzt (Mögliche Ursachen):** "Die Beschwerden, die Sie haben, das können einige Erkrankungen sein, die ähnliche Beschwerden haben. Und deswegen werden wir Sie gleich auf jeden Fall gründlich untersuchen, um herauszufinden, ob es ein Krebs ist oder eben nicht."

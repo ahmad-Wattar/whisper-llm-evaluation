@@ -1,0 +1,17 @@
+**Zusammenfassung:**
+
+Die Raumfahrt des 21. Jahrhunderts steht an einem Wendepunkt, der durch die Entstehung autonomer Orbitalsysteme gekennzeichnet ist. Diese Systeme markieren einen Paradigmenwechsel im technischen Denken, weg von zentralisierten Strukturen hin zu vernetzten, resilienten und selbstlernenden Systemen. Autonome Orbitalsysteme bestehen aus vielen kleinen Satelliten, die gemeinsam Aufgaben erfüllen und sich nach Bedarf reorganisieren können. Sie bieten Vorteile wie Redundanz durch Anzahl statt durch Masse, dynamische Reaktion auf Umwelteinflüsse und adaptive Leistungsfähigkeit.
+
+Die Rolle neuer Antriebe, wie elektrische Triebwerke, ist entscheidend für die Langzeitautonomie dieser Systeme. Sie ermöglichen selbstständiges Ausweichen bei Kollisionswarnungen, feinjustierte Formationflüge und langzeitige Missionen im Mond- und Marsorbit. Autonome Bahnregeneration nach Hardwarefehlern ist ebenfalls möglich.
+
+Die Fertigung 4.0 und die Verwendung digitaler Zwillinge spielen eine wichtige Rolle bei der Herstellung moderner Satelliten. Diese Methoden ermöglichen es, Lebensdauer, thermische Belastungen, Materialermüdung und andere Faktoren zu dokumentieren und zu analysieren.
+
+Die Zukunft der Raumfahrt sieht die Entstehung orbitaler Infrastruktur vor, die funktional an terrestrische Netze erinnert. Orbitalstationen, wiederverwendbare Andockmodule, Datenautobahnen im All und robotische Montagestationen werden die Raumfahrt in ein globales, teilweise selbstverwaltetes technisches Ökosystem verwandeln.
+
+**Relevante Textstellen:**
+
+* "Die Raumfahrt des 21. Jahrhunderts befindet sich an einem Wendepunkt, der die Art und Weise, wie Menschen den Weltraum nutzen, grundlegend verändern wird."
+* "Autonome Orbitalsysteme markieren einen Paradigmenwechsel des technischen Denkens: weg von zentralisierten Strukturen, hin zu vernetzten, resilienten und selbstlernenden Systemen."
+* "Die Rolle der neuen Antriebe: Elektrische Triebwerke als Schlüssel zur Langzeitautonomie"
+* "Digitale Zwillinge und Fertigung 4.0: Die Maschinenbau-Revolution hinter der Raumfahrt"
+* "Die kommende Ära orbitaler Infrastruktur"

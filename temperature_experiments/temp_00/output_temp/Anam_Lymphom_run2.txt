@@ -1,0 +1,145 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Michael Hemminger, 57 Jahre alt (geboren am 23. Oktober 1963), 1,79 m groß, aktuell 76 kg (hat in den letzten 6 Monaten 7 kg abgenommen).
+*   **Beschwerden:**
+    *   Druck am linken Ohr seit einigen Tagen.
+    *   Schluckbeschwerden, besonders bei festen Speisen ("fühlt sich alles so eng an hier im Hals, als wäre irgendein Fremdkörper da").
+    *   Seit gestern ein schmerzloser, aber fester und großer Knubbel auf der linken Seite (unter dem Kiefer).
+    *   Müdigkeit in letzter Zeit, nächtliches Schwitzen (mehrfach T-Shirt wechseln), häufiges Wasserlassen nachts.
+*   **Vorerkrankungen/Vorgeschichte:**
+    *   Plötzlicher Hörsturz vor 7 Jahren (behandelt mit Infusion, Details unbekannt).
+    *   Bluthochdruck (seit 5-6 Jahren, nimmt Remipril 5mg morgens).
+    *   Chronischer Husten (seit 10 Jahren).
+    *   Rückenschmerzen, Hüftgelenkentzündung (Physiotherapie einmal wöchentlich).
+    *   Pflaster- und Zitrusfrüchteallergie (Haut/Zunge).
+*   **Medikamente:**
+    *   Remipril 5mg (morgens).
+    *   Spiriva (2x täglich, 1 Sprühstoß).
+    *   Ibuprofen 600mg (bei Bedarf, selten).
+*   **Sozialanamnese:**
+    *   Verheiratet, hat eine erwachsene Tochter.
+    *   Rentner, ehemaliger Bauarbeiter (Lärmexposition).
+    *   Raucher (seit über 40 Jahren, ca. 1 Packung/Tag).
+    *   Trinkt täglich 1-2 Bier.
+*   **Familienanamnese:**
+    *   Mutter hatte Brustkrebs (lebt noch).
+    *   Vater starb an Herzversagen.
+
+**Arzt:**
+
+*   **Begrüßung und Entschuldigung:** Entschuldigt sich für die lange Wartezeit und erklärt die hohe Auslastung.
+*   **Anamnese:** Führt das Anamnesegespräch durch, stellt Fragen zu den Beschwerden (Druck Ohr, Schluckbeschwerden, Knubbel, Müdigkeit, Nachtschweiß, nächtliches Wasserlassen), Vorerkrankungen, Medikamenten, Lebensgewohnheiten (Rauchen, Alkohol), Familienanamnese.
+*   **Erläuterung des weiteren Vorgehens:**
+    *   Wird den Patienten körperlich untersuchen.
+    *   Wird einen Ultraschall durchführen.
+    *   Wird Blut abnehmen.
+    *   Eventuell weitere Untersuchungen (Röntgen, CT).
+    *   Besprechung der Ergebnisse mit dem Oberarzt.
+    *   Entscheidung über stationäre Aufnahme erfolgt später, basierend auf den Befunden.
+    *   Schlägt vor, die Wartezeit zu überbrücken (Kiosk, Zeitschrift).
+*   **Hinweis auf mögliche Ursachen:** Erwähnt, dass die Beschwerden verschiedene Ursachen haben könnten (Entzündung, etc.) und dass ein Krebs nicht ausgeschlossen werden kann, betont aber, dass dies erst durch Untersuchungen geklärt werden kann.
+*   **Betonung der Wichtigkeit der Anamnese:** Erklärt, dass die Fragen zu Lebensgewohnheiten wichtig sind, um Risikofaktoren zu identifizieren, insbesondere im Hinblick auf Lymphknotenerkrankungen.
+
+**Relevante Textstellen:**
+
+*   **Patient (Name, Alter, Größe, Gewicht, Beschwerden):**
+    *   "Hemminger ist mein Name. Michael."
+    *   "57 bin ich."
+    *   "Am 23. Oktober 63."
+    *   "Ich bin 1,79 groß."
+    *   "Jetzt bin ich so bei 76 Kilo. Ich war mal 2,83."
+    *   "Ich habe Druck am linken Ohr seit ein paar Tagen."
+    *   "Ich habe beim Essen Probleme, beziehungsweise beim Schlucken... wenn ich irgendwas Festeres esse, da habe ich richtig Probleme und ich kriege es gar nicht runter."
+    *   "Ich habe seit gestern so einen Knubbel hier auf der linken Seite und ich habe das Gefühl, dass er auch größer wird."
+    *   "Der tut nicht weh, aber ist schon so ganz schön fest und groß."
+    *   "Ich bin aber schon etwas müde in letzter Zeit, müder als sonst... Ich schwitze immer so nachts und wache dann mehrmals auf."
+    *   "Ist schon stark. Ich muss schon mein T-Shirt wechseln mehrmals die Nacht oder manchmal schon zwei, dreimal nachts."
+*   **Patient (Vorerkrankungen, Medikamente, Anamnese):**
+    *   "Ich hatte so einen plötzlichen Hörsturz vor sieben Jahren."
+    *   "Bluthochdruck habe ich seit ein paar Jahren."
+    *   "Chronischen Husten. Das habe ich schon seit zehn Jahren."
+    *   "Ich nehme im Moment... Remipril... 5 Milligramm steht hier... morgens."
+    *   "Spiriva, das nehme ich zweimal täglich."
+    *   "Ich bin Raucher. Aber wollen Sie mich nicht endlich untersuchen?... Eine Packung am Tag."
+    *   "Ich trinke auch gelegentlich... täglich ein, zwei Bier."
+    *   "Meine Mutter hatte Brustkrebs."
+    *   "Mein Vater starb an Herzversagen."
+*   **Arzt (Begrüßung, Vorgehen):**
+    *   "Guten Tag, Kulett ist mein Name. Ich werde jetzt gerne das Aufnahmegespräch mit Ihnen durchführen."
+    *   "Ich bin die Ärztin hier. Ich werde jetzt mit Ihnen das Gespräch weiterführen. Das nennt sich ein Amnesegespräch."
+    *   "Die werde ich auch mit durchführen."
+    *   "Und danach besprechen wir gemeinsam mit unserem Oberarzt zusammen noch die Ergebnisse."
+    *   "Ich werde Sie körperlich untersuchen... einen Ultraschall machen... Blut abnehmen... gegebenenfalls werden wir auch noch ein paar andere Untersuchungen machen... Röntgen oder ein CT."
+    *   "Das entscheidet sich später. Sie bleiben jetzt erstmal natürlich noch für die Untersuchungen hier. Bitte planen Sie dafür auch noch ein bisschen Zeit ein."
+*   **Arzt (Erläuterungen, Fragen):**
+    *   "Es ist einfach viel los, besonders im Moment wegen der aktuellen Situation."
+    *   "Lassen Sie uns doch lieber anfangen, damit wir schnellstmöglich mit Ihrer Untersuchung anfangen können."
+    *   "Können Sie sich denn vorstellen, dass der Knubbel auch etwas mit Ihren Schluckbeschwerden zu tun hat?"
+    *   "Wie wurde das denn damals behandelt? Meine Ärztin hat mir damals eine Infusion gegeben, aber was genau das war, kann ich Ihnen nicht sagen."
+    *   "Haben Sie denn auch Ohrenschmerzen?"
+    *   "Wie ist das denn? Kommt der Arzt jetzt nach Ihnen?"
+    *   "Sie nehmen jetzt meine Daten auf oder wie machen wir das jetzt? Wann kommt der Arzt?"
+    *   "Noch mal zu Ihren Beschwerden. Dieser Knubbel, Sie haben gesagt, der tut nicht weh... tut das weh, wenn Sie den bewegen?"
+    *   "Schränken Sie das irgendwie in Ihrem Hörverstehen ein? Hören Sie dadurch schlechter?"
+    *   "Was hatten Sie denn vor ein paar Jahren?"
+    *   "Wie wurde das denn damals behandelt?"
+    *   "Darf ich Sie fragen, was Sie denn damals gemacht haben, was so einen Hörsturz verursachen könnte? Hatten Sie irgendwie einen lauten Job oder so etwas?"
+    *   "Wie ist das denn? Kommt der Arzt jetzt nach Ihnen?"
+    *   "Gut, Herr Hemminger. Noch mal zu Ihren Beschwerden... Tut dieser Knubbel denn weh?"
+    *   "Können Sie den denn bewegen? ... tut das weh, wenn Sie den bewegen?"
+    *   "Und Sie hatten jetzt auch davon gesprochen, dass Sie so einen Druck auf dem Ohr haben... Schränken Sie das irgendwie in Ihrem Hörverstehen ein? Hören Sie dadurch schlechter?"
+    *   "Was hatten Sie denn vor ein paar Jahren?"
+    *   "Wie wurde das denn damals behandelt?"
+    *   "Darf ich Sie fragen, was Sie denn damals gemacht haben, was so einen Hörsturz verursachen könnte? Hatten Sie irgendwie einen lauten Job oder so etwas?"
+    *   "Gut, darf ich Sie fragen, was Sie denn damals gemacht haben, was so einen Hörsturz verursachen könnte? Hatten Sie irgendwie einen lauten Job oder so etwas?"
+    *   "Gut, Herr Hemminger. Noch mal zu Ihren Beschwerden... Wie ist das denn? Kommt der Arzt jetzt nach Ihnen?"
+    *   "Noch mal kurz auch etwas zu dem Knubbel. Können Sie mir nochmal zeigen, Sie haben jetzt hier gezeigt, das heißt, der sitzt direkt unter dem Kiefer."
+    *   "Ist Ihnen denn sonst noch etwas aufgefallen in letzter Zeit? Haben Sie das Gefühl, dass Sie eher müde sind? Haben Sie Fieber?"
+    *   "Ich habe ehrlich gesagt keinen Fieber gemessen. Ich glaube, ich habe keinen Fieber. Ich bin aber schon etwas müde in letzter Zeit, müder als sonst... Ich schwitze immer so nachts und wache dann mehrmals auf."
+    *   "Wie stark schwitzen Sie denn nachts? Ist es so schlimm, dass Sie sogar Ihre Kleidung wechseln müssen?"
+    *   "Gibt es sonst noch Gründe für die Durchschlafprobleme? ... Sie hatten jetzt Nachtschweiß gesagt?"
+    *   "Wie oft müssen Sie nachts auf die Toilette?"
+    *   "Müssen Sie denn tagsüber auch öfter auf die Toilette oder ist damit alles nach wie vor?"
+    *   "Probleme irgendwie mit dem Stuhlgang, gibt es die?"
+    *   "Ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, Herr Hemminger, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen... Sie hatten mir eben schon von dem Hörsturz erzählt. Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein

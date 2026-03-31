@@ -1,0 +1,32 @@
+[
+  {
+    "embedding_model":"embedding_gte_multilingual_base",
+    "mean_consistency":0.9733018016,
+    "std_consistency_within_audio":0.0119228739,
+    "n_audios":17
+  },
+  {
+    "embedding_model":"embedding_Jina_v3",
+    "mean_consistency":0.9728434631,
+    "std_consistency_within_audio":0.0124169186,
+    "n_audios":17
+  },
+  {
+    "embedding_model":"embedding_German_Semantic_V3b",
+    "mean_consistency":0.9579146909,
+    "std_consistency_within_audio":0.0200147412,
+    "n_audios":17
+  },
+  {
+    "embedding_model":"embedding_bge_m3",
+    "mean_consistency":0.9383321157,
+    "std_consistency_within_audio":0.0211833228,
+    "n_audios":17
+  },
+  {
+    "embedding_model":"embedding_Llama-3.1_8B-Instruct",
+    "mean_consistency":0.7888666473,
+    "std_consistency_within_audio":0.0621665462,
+    "n_audios":17
+  }
+]

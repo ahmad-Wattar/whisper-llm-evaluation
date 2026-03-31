@@ -1,0 +1,191 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Herr Wolfgang Müller, geboren am 11. November 1963 (57 Jahre alt), ca. 115-116 kg schwer, ca. 1,87 m groß.
+*   **Hausarzt:** Frau Dr. Westenberger.
+*   **Hauptbeschwerde:** Seit gestern Abend (ca. 20:00 Uhr) plötzlich einsetzende, sehr starke Bauchschmerzen.
+*   **Schmerzcharakteristik:**
+    *   Lokalisation: Oberer Bauch, eher mittig.
+    *   Ausstrahlung: Gürtelförmig in den Rücken.
+    *   Qualität: Dumpf.
+    *   Intensität: 7-8 von 10.
+*   **Begleitsymptome:**
+    *   Erbrechen (einmalig gestern).
+    *   Übelkeit (jetzt besser).
+    *   Keine Veränderung des Stuhls (letzte Stuhlgang vor 2 Tagen, sonst normal).
+    *   Blähungen in den letzten Tagen (wird aber nicht mit den aktuellen Schmerzen in Verbindung gebracht).
+    *   Kein Fieber.
+*   **Vorerkrankungen:**
+    *   Erhöhter Blutdruck (seit ca. 8-9 Jahren).
+    *   Erhöhte Blutfettwerte (seit ca. 8-9 Jahren).
+    *   Herzinfarkt vor 2,5 Jahren mit Stentimplantation.
+    *   Blinddarmentfernung als Kind (mit 10 Jahren).
+*   **Medikation:**
+    *   Ramipril (Abends, Dosierung unbekannt).
+    *   ASS100 (Abends).
+    *   Ibuprofen 600 (bei Bedarf, z.B. Kopfschmerzen).
+    *   Nitro (bei Bruststechen).
+*   **Sozialanamnese:**
+    *   Verheiratet, lebt in einer Wohnung.
+    *   Keine Kinder.
+    *   Arbeitslos (Kündigung letzten Monat).
+    *   Stress in Ehe.
+    *   Raucht ca. 1 Schachtel Zigaretten pro Tag seit 30 Jahren.
+    *   Trinkt täglich 5-6 Bier und Schnaps (mehr seit der Kündigung).
+    *   Pollenallergie (Frühjahr/Herbst).
+*   **Familienanamnese:**
+    *   Vater: Alkoholiker, gestorben mit 56 Jahren (vermutlich am Alkohol).
+    *   Mutter: Lebt noch, hatte Herzinfarkt (Alter ca. 54).
+    *   Bruder: Gestorben mit 48 Jahren an Bauchspeicheldrüsenkrebs (hatte auch viel getrunken).
+*   **Sonstiges:**
+    *   Schläft seit ca. 2 Jahren unruhig.
+    *   Kein Gewichtszuwachs/abnahme in letzter Zeit.
+    *   Kein Appetitveränderung.
+
+**Arzt:**
+
+*   **Begrüßung und Vorstellung:** Nina Colette, diensthabende Ärztin.
+*   **Anamnese:** Führt das Aufnahmegespräch durch, stellt persönliche Fragen und erkundigt sich nach den aktuellen Beschwerden.
+*   **Diagnoseverdacht:** Vermutet eine Entzündung der Bauchspeicheldrüse (Pankreatitis) aufgrund der Symptome (starke, gürtelförmige Bauchschmerzen, Ausstrahlung in den Rücken, Erbrechen).
+*   **Behandlungsplan:**
+    *   Beobachtung des Patienten für einige Tage im Krankenhaus.
+    *   Medikamentöse Behandlung.
+    *   Ernährungsanpassung.
+    *   Durchführung von Untersuchungen: Ultraschall, Blutabnahme, körperliche Untersuchung (Abtasten), ggf. MRT.
+    *   Ernährungsplan nach Entlassung.
+*   **Beratung:**
+    *   Empfiehlt dem Patienten, den Alkoholkonsum sofort und komplett einzustellen, um die Schmerzen zu lindern und eine Besserung zu bewirken.
+    *   Bietet Unterstützung bei der Alkoholreduktion/Abstinenz an (Sozialhilfe).
+    *   Erwähnt, dass die Schmerzen möglicherweise mit dem hohen Alkoholkonsum zusammenhängen.
+    *   Erklärt, dass Krebs (wie beim Bruder) zwar eine Möglichkeit ist, aber aktuell nicht der Hauptverdacht ist und erst nach den Untersuchungen beurteilt werden kann.
+    *   Weist darauf hin, dass die Bauchspeicheldrüsenentzündung eine ernste Angelegenheit ist, die behandelt werden muss.
+*   **Weitere Schritte:** Bittet den Patienten, im Wartezimmer zu warten, während sie den Untersuchungsraum vorbereitet.
+
+**Relevante Textstellen:**
+
+*   **Patient:**
+    *   "Ich bin der Herr Müller. Herr Müller. Haben Sie auch einen Vornamen? Ich habe auch einen Vornamen, Wolfgang."
+    *   "57 bin ich, am 11. November 1963."
+    *   "Ja, ungefähr so um die 115, 116 Kilo."
+    *   "So 1,87 steht in meinem Ausweis zumindest."
+    *   "Das ist die Frau Dr. Westenberger."
+    *   "Ja, ich habe sehr starke Bauchschmerzen."
+    *   "Gestern Abend hat es angefangen, irgendwann gegen 8 Uhr."
+    *   "Nee, ich habe gestern Abend gar nichts gegessen."
+    *   "Ja. Können Sie mir sagen, wo genau die Schmerzen sind oder zeigen? Ja, im oberen Teil vom Bauch. Eher links, rechts oder mittig? Eher mittig."
+    *   "Ja, die strahlen in den Rücken am besten aus. Es ist so wie ein Kreis bildet sich dadurch der Schmerz. Meinen Sie so ein gürtelförmiger Schmerz? Ja."
+    *   "Nein, noch nie. Noch nie so etwas gehabt."
+    *   "Schon. Die haben sich verstärkt seit gestern Abend. Das ist schon sehr stark."
+    *   "Auf einer Schmerzskala von 1 bis 10, wobei 1 leichten und 10 unerträglichen Schmerzen entspricht, wo würden Sie die Schmerzen einstufen? 7, 8 Punkte würde ich sagen."
+    *   "Eher ein dumpfer Schmerz."
+    *   "Ja, also jetzt gerade nicht mehr, aber ich musste erbrechen gestern. Einmal."
+    *   "Es geht jetzt. Es geht so richtig besser. Vom Schmerz her ist es nicht geworden, aber mir ist jetzt gerade nicht mehr übel."
+    *   "Ne, ist mir nicht aufgefallen. Also, ne, der letzte Stuhl war vor zwei Tagen, aber grundsätzlich ist da alles normal."
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen. Aber sonst nichts und es war anders. Ich habe das jetzt auch gar nicht in Verbindung mit diesen Schmerzen, weil es sich schon anders angefühlt hat."
+    *   "Nein, keinen Fieber."
+    *   "Ja, erhöhten Blutdruck und erhöhte Blutfettwerte auch."
+    *   "Schon seit Jahren. So acht, neun Jahre."
+    *   "Ja, mir wurde der Blindendarm entfernt als Kind schon. Da war ich zehn."
+    *   "Ja, ich nehme Medikamente. Ich muss mal gucken, meine Frau hat mir was aufgeschrieben, was ich nehme. Also, ich nehme Ramipril. ASS100. Manchmal nehme ich auch mal Ibuprofen, wenn ich Kopfschmerzen habe. Und dann nehme ich noch Nitro, wenn es mir in der Brust sticht."
+    *   "Ja, das habe ich vergessen zu sagen. Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen. Vor zweieinhalb Jahren."
+    *   "Also, ich nehme sie immer abends. Die Dosierung kenne ich aber nicht."
+    *   "Ja, die gibt mir da alles abends und eine Sache gibt sie mir morgens. Aber was, was ist, muss ich nachfragen."
+    *   "Das sind, glaube ich, 600."
+    *   "In letzter Zeit eher seltener."
+    *   "Schon lange nicht mehr. Ich weiß gar nicht, was ich da an Impfungen brauche."
+    *   "Nee, das nicht. Aber ich schlafe generell unruhig und wache immer wieder mal auf. Aber das ist schon länger so, nicht in letzter Zeit, sondern geht schon seit, das weiß ich, zwei Jahren ungefähr bestimmt."
+    *   "Nee, keine Probleme."
+    *   "Nein. Nein."
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen."
+    *   "Kopfschmerzen habe ich immer mal wieder. Aber es ist mir jetzt nicht aufgefallen, dass ich jetzt stärkere Kopfschmerzen habe dadurch."
+    *   "Ja, erhöhten Blutdruck und erhöhte Blutfettwerte auch. Schon seit Jahren. So acht, neun Jahre."
+    *   "Ja, mir wurde der Blindendarm entfernt als Kind schon. Da war ich zehn."
+    *   "Ja, ich nehme Ramipril. ASS100. Manchmal nehme ich auch mal Ibuprofen, wenn ich Kopfschmerzen habe. Und dann nehme ich noch Nitro, wenn es mir in der Brust sticht."
+    *   "Ja, das habe ich vergessen zu sagen. Ich hatte einen Herzinfarkt auch und habe damals einen Stent bekommen. Vor zweieinhalb Jahren."
+    *   "Ja, ich nehme Ramipril. ASS100. Manchmal nehme ich auch mal Ibuprofen, wenn ich Kopfschmerzen habe. Und dann nehme ich noch Nitro, wenn es mir in der Brust sticht."
+    *   "Ja, ich rauche, ja. So ein Päckchen pro Tag. Schon 30 Jahre lang."
+    *   "Ja, ich trinke gerne. Ich trinke gerne mal ein paar Bier und Schnaps auch. Ja, schon täglich. Also 5-6 Bier am Tag in letzter Zeit. Vor allem ist es mehr, da ich ja wieder ein bisschen mehr Stress habe, trinke ich auch mehr."
+    *   "Nur eine Pollenallergie gegen Pollen und Gräser auch. Das ist das Einzige. Beides."
+    *   "Ja, mein Vater war Alkoholiker. Ist auch gestorben. Also relativ jung, auch mit 56. Auch am Alkohol? Ja, schon."
+    *   "Sie lebt noch, sie hatte aber auch schon einen Herzinfarkt. Ja, ein oder mehrere? Ein."
+    *   "Und mein Bruder hat Krebs, Bauchspeicheldrüsenkrebs. Und er ist leider auch schon tot. Wie alt war Ihr Bruder denn da? 48."
+    *   "Ja, er hat auch gerne getrunken. Nicht so viel wie mein Vater, aber schon auch."
+    *   "Ja, ich bin verheiratet. Wir haben vermehrt Stress, aber wir leben noch zusammen."
+    *   "Nein, keine Kinder."
+    *   "Wir wohnen in einer Wohnung."
+    *   "Nein, keine Haustiere."
+    *   "Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit. Und da, ja, das belastet mich schon."
+    *   "Ich bin derzeit arbeitslos, ja."
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen. Aber sonst nichts und es war anders. Ich habe das jetzt auch gar nicht in Verbindung mit diesen Schmerzen, weil es sich schon anders angefühlt hat."
+    *   "Kopfschmerzen habe ich immer mal wieder. Aber es ist mir jetzt nicht aufgefallen, dass ich jetzt stärkere Kopfschmerzen habe dadurch."
+    *   "Nee, das nicht. Aber ich schlafe generell unruhig und wache immer wieder mal auf. Aber das ist schon länger so, nicht in letzter Zeit, sondern geht schon seit, das weiß ich, zwei Jahren ungefähr bestimmt."
+    *   "Nee, keine Probleme."
+    *   "Auch nicht. Mit den Jahren habe ich schon mal zugenommen. Aber in letzter Zeit bin ich immer gleich."
+    *   "Nein."
+    *   "Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit. Und da, ja, das belastet mich schon."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich gebe mein Bestes, aber versprechen kann ich es nicht."
+    *   "Nein, keine Drogen."
+    *   "Ja, mein Vater war Alkoholiker. Ist auch gestorben. Also relativ jung, auch mit 56. Auch am Alkohol? Ja, schon."
+    *   "Und Ihre Mutter, lebt die noch? Sie lebt noch, sie hatte aber auch schon einen Herzinfarkt. Ja, ein oder mehrere? Ein."
+    *   "Und mein Bruder hat Krebs, Bauchspeicheldrüsenkrebs. Und er ist leider auch schon tot. Wie alt war Ihr Bruder denn da? 48. Hatte Ihr Bruder auch vermehrt mit Alkohol zu tun? Ja, er hat auch gerne getrunken. Nicht so viel wie mein Vater, aber schon auch."
+    *   "Ja, ich bin verheiratet. Wir haben vermehrt Stress, aber wir leben noch zusammen."
+    *   "Nein, keine Kinder."
+    *   "Wir wohnen in einer Wohnung."
+    *   "Nein, keine Haustiere."
+    *   "Ja, ich habe tatsächlich Blähungen im Bauch in den letzten Tagen. Aber sonst nichts und es war anders. Ich habe das jetzt auch gar nicht in Verbindung mit diesen Schmerzen, weil es sich schon anders angefühlt hat."
+    *   "Kopfschmerzen habe ich immer mal wieder. Aber es ist mir jetzt nicht aufgefallen, dass ich jetzt stärkere Kopfschmerzen habe dadurch."
+    *   "Nee, das nicht. Aber ich schlafe generell unruhig und wache immer wieder mal auf. Aber das ist schon länger so, nicht in letzter Zeit, sondern geht schon seit, das weiß ich, zwei Jahren ungefähr bestimmt."
+    *   "Nee, keine Probleme."
+    *   "Auch nicht. Mit den Jahren habe ich schon mal zugenommen. Aber in letzter Zeit bin ich immer gleich."
+    *   "Nein."
+    *   "Ja, ich habe mit meiner Frau schon oft Stress. Wir streiten uns schon oft. Mir wurde letzten Monat auch gekündigt bei der Arbeit. Und da, ja, das belastet mich schon."
+    *   "Ja, wenn Sie mir helfen können."
+    *   "Ja, ich gebe mein Bestes, aber versprechen kann ich es nicht."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen skeptisch, da ich es ja schon versucht hatte."
+    *   "Ja, ich bin ja ein bisschen

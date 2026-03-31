@@ -1,0 +1,161 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name und Geburtsdatum:** Linda Merkel, geboren am 5. März 1993.
+    *   "Ich bin Linda Merkel und ich bin am 5. März 1993 geboren."
+*   **Hauptbeschwerden:**
+    *   Prellung am linken Oberschenkel seit drei Tagen nach Sturz vom Fahrrad. Die Prellung ist blau, dick und schmerzhaft, besonders nachts und bei Bewegung/Berührung. Sie beeinträchtigt das Gehen und den Schlaf.
+        *   "Ich bin vor drei Tagen vom Fahrrad gefallen und irgendwie wird das alles nicht besser. Ich habe eine riesen Prellung am Oberschenkel... Es ist blau und dick geschwollen... Vor allem in Ruhe. Ich kann auch nicht mehr gut laufen... Bin ich erst mal krank geschrieben... vor allem nachts... tut es einfach höllisch weh... bei jeder Umlagerung, tut es einfach höllisch weh."
+        *   "linken Oberschenkel... links innen... fast die komplette Oberschenkelinnenseite."
+        *   "Ich bin da aufs Fahrrad geknallt, auf die Mittelstange."
+    *   Komische rechte Hand seit drei Tagen nach Sturz. Schmerzen bei Berührung und Bewegung, Kraftverlust, keine Schwellung sichtbar, nur eine schmerzhafte Stelle. Verdacht auf Bruch.
+        *   "meine Hand ist auch irgendwie komisch... Die rechte Hand ist komisch... fühlt sich irgendwie nicht so an, wie sie sich normalerweise anfühlt... Ich kann auch nicht so fest zugreifen... da könnte was gebrochen sein... zugreifen ist nicht möglich... Es ist auch nur genau eine Stelle, wo ich drauf drücke, wo ich sage, das fühlt sich nicht normal an... Schmerzen nur bei Berührung... wenn Sie die Hand wahrscheinlich auf und zu machen, oder? Ja, genau... In Ruhe merke ich eigentlich gar nichts."
+*   **Zusätzliche Informationen:**
+    *   Hautabschürfungen an den Händen.
+    *   Sohn hatte leichte Verletzungen (Knie, Hand).
+    *   Überweisung vom Hausarzt.
+    *   Kein Kopf verletzt (Hände gestützt).
+    *   Schmerzen in der Hand werden mit 3-4 auf einer Skala von 1-10 eingeschätzt, Oberschenkel schlimmer.
+    *   Ibuprofen (600er) hilft nicht gegen die Schmerzen.
+    *   Kühlungen und Hochlagern wenig erfolgreich.
+    *   Kein Fieber, Schüttelfrost, Nachtschweiß.
+    *   Keine Veränderungen in Appetit oder Gewicht (macht Sport).
+    *   Schlafstörungen (Krämpfe, Schmerzen beim Bewegen).
+    *   Keine Vorerkrankungen, keine Operationen, keine stationären Aufenthalte (außer Geburt).
+    *   3 Kinder.
+    *   Nicht schwanger.
+    *   Nimmt Ibuprofen (600er) bei Bedarf, manchmal bei Kopfschmerzen/Verspannungen.
+    *   Keine Allergien gegen Medikamente.
+    *   Reduziert Milchprodukte und Getreide (Blähungen, Hautprobleme).
+    *   Gelegentlich Alkohol, nicht raucht, keine Drogen.
+    *   Familie: Großvater hatte Bluthochdruck (vermutlich), Eltern gesund, Kinder gesund.
+    *   Beruf: Sekretärin.
+    *   Verheiratet.
+    *   Tetanusimpfung aktuell (vor 2-3 Jahren).
+
+**Arzt:**
+
+*   **Begrüßung und Identifikation:** Stellt sich als diensthabende Ärztin Colette vor.
+*   **Anamnese:**
+    *   Erfragt Name und Geburtsdatum.
+    *   Erfragt die Beschwerden (Oberschenkel, Hand).
+    *   Erfragt Details zu den Schmerzen (Art, Lokalisation, Stärke, Auslöser, Begleitsymptome).
+    *   Erfragt den Unfallhergang (Fahrradsturz, Aufprall).
+    *   Erfragt Begleitumstände (Sohn, Überweisung).
+    *   Erfragt allgemeine Symptome (Fieber, Appetit, Gewicht).
+    *   Erfragt Vitaldaten (Gewicht, Größe).
+    *   Erfragt Schlafverhalten.
+    *   Erfragt Vorerkrankungen, Operationen, Krankenhausaufenthalte.
+    *   Erfragt Schwangerschaftsmöglichkeit.
+    *   Erfragt Medikamenteneinnahme (Ibuprofen, andere).
+    *   Erfragt Allergien/Unverträglichkeiten.
+    *   Erfragt Genussmittelkonsum (Rauchen, Alkohol, Drogen).
+    *   Erfragt Familienanamnese.
+    *   Erfragt Beruf, Familienstand.
+    *   Erfragt Tetanusimpfstatus.
+*   **Plan:**
+    *   Körperliche Untersuchung (Oberschenkel, Hand).
+    *   Röntgenaufnahme (Hand, Oberschenkel).
+    *   Eventuell weitere Untersuchungen basierend auf Röntgenbildern.
+    *   Anbieten eines Rollstuhls.
+
+**Relevante Textstellen:**
+
+*   "Colette ist mein Name. Ich bin die diensthabende Ärztin und ab sofort für Sie da."
+*   "Mögen Sie mir schon mal einmal Ihren Namen und Ihr Geburtsdatum verraten?"
+*   "Ich bin Linda Merkel und ich bin am 5. März 1993 geboren."
+*   "Frau Merkel, was kann ich für Sie tun? Wie geht es Ihnen heute?"
+*   "Ich bin vor drei Tagen vom Fahrrad gefallen und irgendwie wird das alles nicht besser. Ich habe eine riesen Prellung am Oberschenkel und meine Hand ist auch irgendwie komisch."
+*   "Prellung am Oberschenkel und welche Hand? Die rechte."
+*   "Was meinen Sie damit? Die fühlt sich irgendwie nicht so an, wie sie sich normalerweise anfühlt. Ich kann auch nicht so fest zugreifen. Ich habe irgendwie das Gefühl, da könnte was gebrochen sein."
+*   "Ist die Hand dann auch geschwollen? Nee, das gar nicht."
+*   "Schmerzen nur bei Berührung und halt, wenn Sie die Hand wahrscheinlich auf und zu machen, oder? Ja, genau."
+*   "Ist das auch der rechte oder der linke Oberschenkel? Nee, das ist links innen."
+*   "Es ist blau und dick geschwollen."
+*   "Ich bin da aufs Fahrrad geknallt, auf die Mittelstange."
+*   "Haben Sie irgendwo Hautabschürfungen oder haben Sie geblutet? Ja, war ein bisschen an den Händen."
+*   "Ich schlafe jetzt auch seit Tagen so schlecht, weil der Oberschenkel einfach so massiv wehtut. Vor allem in Ruhe."
+*   "Okay, das heißt, Sie sind per Überweisung zu uns gekommen? Mhm."
+*   "Dann schauen wir uns das gleich mal an."
+*   "Haben Sie denn sonst noch irgendwo Verletzungen, die Ihnen aufgefallen sind? Mit dem Kopf haben Sie sich..."
+*   "Nun gut, wohin wollten Sie denn eigentlich fahren?"
+*   "Ich habe meinen Sohn abgeholt... und wir hatten es ein bisschen eilig... auf dem Kopfsteinpflaster sind wir dann beide weggerutscht."
+*   "Hat sich denn sonst irgendwas verbessert, verschlechtert? Wahrscheinlich ist alles ein bisschen angeschwollen und blau am Bein, aber sonst noch irgendwas Auffälliges?"
+*   "Wenn Sie jetzt die Hand bewegen, haben Sie da irgendwie mal ein Geräusch gehört, wie so ein Knirschen oder so? Nein."
+*   "Frau Merkel, die Schmerzen, wie würden Sie die denn einstufen? Sind die unerträglich? Sind die sehr stark oder geht es einigermaßen? Wenn wir uns jetzt mal eine Skala vorstellen, eins ist super leicht und zehn ist extrem stark."
+*   "Oberschenkel ist tatsächlich von den Schmerzen her schlimmer, vor allem nachts... das in den Griff zu kriegen... das hat aber nicht wirklich angeschlagen."
+*   "Haben Sie das gekühlt, sich ausgeruht? Ja, gekühlt habe ich es schon, aber vielleicht nicht ganz so konsequent."
+*   "Frau Merkel, hatten Sie in letzter Zeit irgendwelche Symptome wie Fieber, Schüttelfrost oder Nachtschweiß? Nee, gar nicht."
+*   "Mit dem Appetit oder Gewicht, hat sich da irgendwas verändert? Nee, gar nicht."
+*   "Könnten Sie mir dann einmal verraten, wie viel Sie aktuell wiegen? Ich glaube so um die 65 Kilo... Und wie groß sind Sie? 1,75 Meter."
+*   "Wie ist es mit dem Schlafen jetzt die letzten Tage? Wahrscheinlich nicht so gut wegen der Schmerzen, oder? Katastrophe die letzten Tage, ja."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen... außer Ibuprofen hin und wieder..."
+*   "Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts."
+*   "Wie hoch ist das denn dosiert? Wissen Sie das? Sind das 400er oder 600er? Das sind 600er."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Gibt es Allergien oder Unverträglichkeiten? Nee, das war bisher nie der Fall."
+*   "Ja, ich musste in den letzten Jahren einfach manche Lebensmittel reduzieren, weil ich gemerkt habe, dass mir zu viel davon nicht gut tut."
+*   "Wie ist es denn mit den Genussmitteln? Rauchen Sie, trinken Sie ab und zu mal Alkohol? Ja, letzteres ab und zu schon, aber nicht über die Maßen."
+*   "Gibt es irgendeinen Kontakt zu Drogen? Rauchen Sie Cannabis oder konsumieren Sie andere Substanzen? Ich habe mal Haschkekse probiert..."
+*   "Gibt es bei Ihren Familienangehörigen Erkrankungen, von denen ich wissen sollte? Irgendwas wie zum Beispiel Bluthochdruck oder erhöhte Blutfettwerte? Ich glaube, mein Großvater, dem wurde sowas diagnostiziert."
+*   "Sind Ihre Eltern sind gesund? Meine Eltern sind gesund."
+*   "Wie ist es denn mit dem Schlafen jetzt die letzten Tage? Wahrscheinlich nicht so gut wegen der Schmerzen, oder? Katastrophe die letzten Tage, ja. Ich wache ständig auf mit wie so Krämpfen in meinem Oberschenkel. Und bei jeder Verlagerung, also wenn ich nachts mich bewege, bei jeder Umlagerung, tut es einfach höllisch weh."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Einen stationären Aufenthalt im Krankenhaus oder sowas? Nö, nur im Rahmen der Geburten kurz, aber das sonst nicht."
+*   "Wie viele Kinder haben Sie denn? Drei."
+*   "Besteht aktuell die Möglichkeit, dass Sie schwanger sein könnten? Nee."
+*   "Sie hatten jetzt schon gesagt, Sie haben Ibuprofen genommen wegen der aktuellen Beschwerden. Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts."
+*   "Sie hatten jetzt schon gesagt, Sie haben Ibuprofen genommen wegen der aktuellen Beschwerden. Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts. Deswegen bin ich ja so erstaunt, dass mir das Ibuprofen auch nicht hilft."
+*   "Sie hatten jetzt schon gesagt, Sie haben Ibuprofen genommen wegen der aktuellen Beschwerden. Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts. Deswegen bin ich ja so erstaunt, dass mir das Ibuprofen auch nicht hilft. Normalerweise ist das das Schmerzmittel meiner Wahl."
+*   "Wie hoch ist das denn dosiert? Wissen Sie das? Sind das 400er oder 600er? Das sind 600er."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Einen stationären Aufenthalt im Krankenhaus oder sowas? Nö, nur im Rahmen der Geburten kurz, aber das sonst nicht. Aber Ihre Kinder kamen auch alle natürlich zur Welt?"
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Gibt es Allergien oder Unverträglichkeiten? Nee, das war bisher nie der Fall."
+*   "Ja, ich musste in den letzten Jahren einfach manche Lebensmittel reduzieren, weil ich gemerkt habe, dass mir zu viel davon nicht gut tut."
+*   "Wie ist es denn mit den Genussmitteln? Rauchen Sie, trinken Sie ab und zu mal Alkohol? Ja, letzteres ab und zu schon, aber nicht über die Maßen."
+*   "Gibt es irgendeinen Kontakt zu Drogen? Rauchen Sie Cannabis oder konsumieren Sie andere Substanzen? Ich habe mal Haschkekse probiert..."
+*   "Gibt es bei Ihren Familienangehörigen Erkrankungen, von denen ich wissen sollte? Irgendwas wie zum Beispiel Bluthochdruck oder erhöhte Blutfettwerte? Ich glaube, mein Großvater, dem wurde sowas diagnostiziert."
+*   "Sind Ihre Eltern sind gesund? Meine Eltern sind gesund."
+*   "Wie ist es denn mit dem Schlafen jetzt die letzten Tage? Wahrscheinlich nicht so gut wegen der Schmerzen, oder? Katastrophe die letzten Tage, ja. Ich wache ständig auf mit wie so Krämpfen in meinem Oberschenkel. Und bei jeder Verlagerung, also wenn ich nachts mich bewege, bei jeder Umlagerung, tut es einfach höllisch weh."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Einen stationären Aufenthalt im Krankenhaus oder sowas? Nö, nur im Rahmen der Geburten kurz, aber das sonst nicht. Aber Ihre Kinder kamen auch alle natürlich zur Welt?"
+*   "Besteht aktuell die Möglichkeit, dass Sie schwanger sein könnten? Nee."
+*   "Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts."
+*   "Wie hoch ist das denn dosiert? Wissen Sie das? Sind das 400er oder 600er? Das sind 600er."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Gibt es Allergien oder Unverträglichkeiten? Nee, das war bisher nie der Fall."
+*   "Ja, ich musste in den letzten Jahren einfach manche Lebensmittel reduzieren, weil ich gemerkt habe, dass mir zu viel davon nicht gut tut."
+*   "Wie ist es denn mit den Genussmitteln? Rauchen Sie, trinken Sie ab und zu mal Alkohol? Ja, letzteres ab und zu schon, aber nicht über die Maßen."
+*   "Gibt es irgendeinen Kontakt zu Drogen? Rauchen Sie Cannabis oder konsumieren Sie andere Substanzen? Ich habe mal Haschkekse probiert..."
+*   "Gibt es bei Ihren Familienangehörigen Erkrankungen, von denen ich wissen sollte? Irgendwas wie zum Beispiel Bluthochdruck oder erhöhte Blutfettwerte? Ich glaube, mein Großvater, dem wurde sowas diagnostiziert."
+*   "Sind Ihre Eltern sind gesund? Meine Eltern sind gesund."
+*   "Wie ist es denn mit dem Schlafen jetzt die letzten Tage? Wahrscheinlich nicht so gut wegen der Schmerzen, oder? Katastrophe die letzten Tage, ja. Ich wache ständig auf mit wie so Krämpfen in meinem Oberschenkel. Und bei jeder Verlagerung, also wenn ich nachts mich bewege, bei jeder Umlagerung, tut es einfach höllisch weh."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Einen stationären Aufenthalt im Krankenhaus oder sowas? Nö, nur im Rahmen der Geburten kurz, aber das sonst nicht. Aber Ihre Kinder kamen auch alle natürlich zur Welt?"
+*   "Wie viele Kinder haben Sie denn? Drei."
+*   "Besteht aktuell die Möglichkeit, dass Sie schwanger sein könnten? Nee."
+*   "Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts."
+*   "Wie hoch ist das denn dosiert? Wissen Sie das? Sind das 400er oder 600er? Das sind 600er."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Gibt es Allergien oder Unverträglichkeiten? Nee, das war bisher nie der Fall."
+*   "Ja, ich musste in den letzten Jahren einfach manche Lebensmittel reduzieren, weil ich gemerkt habe, dass mir zu viel davon nicht gut tut."
+*   "Wie ist es denn mit den Genussmitteln? Rauchen Sie, trinken Sie ab und zu mal Alkohol? Ja, letzteres ab und zu schon, aber nicht über die Maßen."
+*   "Gibt es irgendeinen Kontakt zu Drogen? Rauchen Sie Cannabis oder konsumieren Sie andere Substanzen? Ich habe mal Haschkekse probiert..."
+*   "Gibt es bei Ihren Familienangehörigen Erkrankungen, von denen ich wissen sollte? Irgendwas wie zum Beispiel Bluthochdruck oder erhöhte Blutfettwerte? Ich glaube, mein Großvater, dem wurde sowas diagnostiziert."
+*   "Sind Ihre Eltern sind gesund? Meine Eltern sind gesund."
+*   "Wie ist es denn mit dem Schlafen jetzt die letzten Tage? Wahrscheinlich nicht so gut wegen der Schmerzen, oder? Katastrophe die letzten Tage, ja. Ich wache ständig auf mit wie so Krämpfen in meinem Oberschenkel. Und bei jeder Verlagerung, also wenn ich nachts mich bewege, bei jeder Umlagerung, tut es einfach höllisch weh."
+*   "Gibt es denn wichtige Vorerkrankungen, von denen ich wissen sollte? Nee, da habe ich auch nichts."
+*   "Sind Sie denn schon mal operiert worden? Nein, auch nicht."
+*   "Einen stationären Aufenthalt im Krankenhaus oder sowas? Nö, nur im Rahmen der Geburten kurz, aber das sonst nicht. Aber Ihre Kinder kamen auch alle natürlich zur Welt?"
+*   "Wie viele Kinder haben Sie denn? Drei."
+*   "Besteht aktuell die Möglichkeit, dass Sie schwanger sein könnten? Nee."
+*   "Nehmen Sie denn sonst ab und zu Medikamente ein? Nehmen Sie vielleicht die Pille? Nee, das habe ich als Jugendliche nicht so gut vertragen. Und nee, außer Ibuprofen hin und wieder, wenn ich mal so Kopfschmerzattacken habe oder sowas, ansonsten eigentlich nichts."
+*   "Wie hoch ist

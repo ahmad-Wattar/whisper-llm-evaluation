@@ -1,0 +1,128 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK).
+*   **Hauptbeschwerden:** Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche.
+*   **Symptombeginn und Verlauf:**
+    *   Vor 4-5 Tagen: Halsschmerzen (heißes Kratzen, später Schmerzen, leichtes Engegefühl).
+    *   Danach: Weiter runtergehender Husten (trocken, kein Schleim, kein Hustenanfall, permanenter Reiz).
+    *   Seit 2 Tagen: Fieber (beginnend bei 37,6 °C, gestiegen bis 39,1 °C), Schüttelfrost, Gelenkschmerzen, Appetitlosigkeit, Verlust des Geschmacks.
+    *   Schwäche und Schlappheit seit einigen Tagen.
+    *   Schlafverhalten: Unruhig, Schwierigkeiten morgens aufzustehen (seit ca. 1-2 Wochen).
+*   **Weitere Informationen:**
+    *   Gallenblase entfernt (vor 8 Jahren wegen Gallensteinen).
+    *   Nimmt gelegentlich Voltaren (Schulterschmerzen) und Tabletten gegen Fructoseintoleranz.
+    *   Hat Aspirin C und Norofen gegen Fieber genommen, ohne Erfolg.
+    *   Nicht geimpft (vermutlich als Kind, aber seit Jahren nicht mehr).
+    *   Keine Vorerkrankungen außer der entfernten Gallenblase und Fructoseintoleranz.
+    *   Keine Allergien bekannt.
+    *   Psychisch gut, Stress durch schwieriges Verhältnis zur Mutter (dement) und Wohnsituation mit Eltern.
+    *   Beruf: Richter am Landesarbeitsgericht.
+    *   Nichtraucher, trinkt keinen Alkohol (wegen Fructoseintoleranz).
+    *   Keine Drogen.
+    *   Kein Kontakt zu bestätigten COVID-19-Fällen bekannt.
+    *   Keine größeren Menschenmengen in letzter Zeit.
+    *   Stuhlgang normal.
+    *   Leichte Atembeschwerden nur bei Anstrengung (Treppensteigen).
+
+**Arzt:**
+
+*   **Begrüßung und Ablauf:** Begrüßt Herrn Fest, stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs (persönliche Fragen, dann Beschwerden).
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten (Name, Geburtsdatum, Größe, Gewicht, Hausarzt), aktuellen Beschwerden (Ursache, Verlauf, Symptome), Vorerkrankungen, Medikamenten, Impfstatus, Lebensgewohnheiten (Rauchen, Alkohol, Drogen), Beruf, sozialer Situation (Stress, Familie), Kontakt zu Infizierten.
+*   **Diagnostische Maßnahmen:**
+    *   Plant einen COVID-19-Abstrich (wegen aktueller Situation und Symptomen).
+    *   Erklärt den Ablauf des Abstrichs (tief in Nase und Rachen, unangenehm, evtl. Nasenbluten).
+    *   Wird Lunge abhören und Bauch abtasten.
+    *   Wird Blut abnehmen.
+    *   Vermutet eine Grippe, schließt COVID-19 nicht aus.
+*   **Informationen zum Test:**
+    *   Probe wird sofort ins Labor geschickt.
+    *   Ergebnis kommt per Post in 2-3 Tagen.
+    *   Empfiehlt Herrn Fest, die Zeit zur Genesung zu nutzen und Kontakte zu vermeiden.
+    *   Bei negativem Ergebnis: Alles wie bisher.
+    *   Bei positivem Ergebnis: Kontaktieren Sie uns, Quarantäne wird notwendig, weiteres Vorgehen wird besprochen.
+*   **Weitere Hinweise:**
+    *   Bietet einen Flyer des Sozialdienstes an (wegen der Demenz der Mutter).
+    *   Ermutigt Herrn Fest, sich über Impfungen zu informieren und mit dem Hausarzt zu sprechen.
+    *   Bittet Herrn Fest, sich für die nächsten 3 Tage zu Hause zu isolieren.
+
+**Relevante Textstellen:**
+
+*   **Patient:**
+    *   "Sebastian Fest. Fest, wie das Fest? Fest mit V. Mit V. V-E-S-T? Genau, richtig."
+    *   "Geboren am 16. November 1961."
+    *   "1,83."
+    *   "Ich denke so um die 93 Kilo."
+    *   "Der Herr Doktor Nickel. Nickel mit CK? Mit CK."
+    *   "Mir geht es seit ein paar Tagen gar nicht gut. Seit gestern Abend ganz schlecht."
+    *   "Ich habe richtig Fieber, fühle mich richtig schwach."
+    *   "Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+    *   "Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt."
+    *   "Ich fühle mich richtig schlapp und schwach."
+    *   "Es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals."
+    *   "Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus."
+    *   "Nein, ich würde nicht sagen, dass ich Atembeschwerden habe. Manchmal, wenn ich die Treppe hochgehe oder mich ein bisschen anstrenge, dann leicht."
+    *   "Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+    *   "Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen."
+    *   "Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Ich nehme nur Medikamente. Ich nehme ab und zu Voltaren, weil ich oft Schmerzen in meiner rechten Schulter habe. Ich habe noch eine Fructoseintoleranz."
+    *   "Ich nehme ab und zu Voltaren [...] Norofen."
+    *   "Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert."
+    *   "Ich bin Richter. Beim Landesarbeitsgericht."
+    *   "Nein. Noch nie geraucht."
+    *   "Auch nicht. Aufgrund meiner Fructoseintoleranz kann ich ja nur bestimmte Sorten von Alkohol trinken."
+    *   "Nein."
+    *   "Nicht, dass ich wüsste."
+    *   "Mir geht es grundsätzlich psychisch gut. Ich habe oft Stress mit meinen Eltern."
+    *   "Ich wohne jetzt wieder bei meinen Eltern im Haus, weil ich geschieden bin. Da sie ja schon älter sind und meine Mutter ist dement."
+    *   "Nein. Ich habe mich an die Vorschriften gehalten."
+*   **Arzt:**
+    *   "Schönen guten Tag, mein Name ist Nina Colette und ich bin als Assistenzärztin hier auf der Station tätig und würde gerne jetzt mit Ihnen das Aufnahmegespräch durchführen."
+    *   "Ich werde Ihnen jetzt ein paar Fragen zu Ihrer Person stellen und dann direkt zu Ihren aktuellen Beschwerden kommen."
+    *   "Wie heißen Sie denn? Sebastian Fest."
+    *   "Herr Fest, wann ist denn Ihr Geburtstag? Am 16. November 1961."
+    *   "Und wie groß sind Sie, Herr Fest? 1,83."
+    *   "Wie viel wiegen Sie? Ich denke so um die 93 Kilo."
+    *   "Und wie heißt Ihr Hausarzt? Der Herr Doktor Nickel. Nickel mit CK? Mit CK."
+    *   "Herr Fest, was führt Sie denn zu uns?"
+    *   "Das Fieber, haben Sie das gemessen? Ich habe das gemessen, ja. Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+    *   "Neben der Schwäche und dem Fieber, haben Sie noch andere Symptome? Ja, es ging eigentlich los mit Halsschmerzen."
+    *   "Husten, haben Sie gesagt? Genau. Was ist das für ein Husten? Ist das eher ein trockener Husten? Oder haben Sie das Gefühl, dass immer etwas Schleim mit hochkommt, wenn Sie husten? Ein trockener Husten. Es kommt noch kein Schleim raus."
+    *   "Haben Sie denn noch Atembeschwerden? Nein, ich würde nicht sagen, dass ich Atembeschwerden habe. Manchmal, wenn ich die Treppe hochgehe oder mich ein bisschen anstrenge, dann leicht."
+    *   "Haben Sie zu dem Fieber vielleicht auch Schüttelfrost? Ich hatte richtig Schüttelfrost, ja."
+    *   "Ist Ihnen sonst noch etwas aufgefallen in letzter Zeit, seitdem Sie krank sind? Haben Sie zu dem Fieber vielleicht auch Schüttelfrost? Ich hatte richtig Schüttelfrost, ja."
+    *   "Wie sieht es denn aus, wenn Sie etwas essen? Ist Ihnen da in letzter Zeit aufgefallen, dass Sie in den letzten Tagen weniger Geschmack wahrnehmen? Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+    *   "Wie sieht denn Ihr Schlafverhalten aus? Können Sie durchschlafen? Können Sie gut schlafen? Wachen Sie nachts auf? Ich schlafe jetzt etwas unruhig in den letzten Tagen."
+    *   "Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Nehmen Sie seitdem Medikamente ein oder generell Medikamente ein? Ich nehme ab und zu Voltaren [...] Norofen."
+    *   "Sind Sie geimpft? Nein, leider nicht."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+    *   "Wie sieht es denn sonst aus? Haben Sie Vorerkrankungen, chronische Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Diabetes oder erhöhten Blutdruck? Ich hatte Probleme mit meiner Gallenbl

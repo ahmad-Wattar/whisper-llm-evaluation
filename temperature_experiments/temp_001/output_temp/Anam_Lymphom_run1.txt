@@ -1,0 +1,93 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Name:** Michael Hemminger, 57 Jahre alt (geboren am 23. Oktober 1963), 1,79 m groß, aktuell 76 kg (hat in den letzten 6 Monaten 7 kg abgenommen).
+*   **Beschwerden:**
+    *   Druckgefühl im linken Ohr seit einigen Tagen.
+    *   Schluckbeschwerden, besonders bei festen Speisen ("richtige Probleme", "kriege es gar nicht runter").
+    *   Seit gestern ein schmerzloser, aber fester und großer Knubbel auf der linken Seite (Halsbereich, unter dem Kiefer).
+    *   Müdigkeit in letzter Zeit, stärker als sonst.
+    *   Nachtschweiß ("stark", muss T-Shirt mehrmals wechseln).
+    *   Häufiges Wasserlassen in der Nacht.
+*   **Vorerkrankungen/Vorgeschichte:**
+    *   Plötzlicher Hörsturz vor 7 Jahren (behandelt mit Infusion, Details unbekannt).
+    *   Bluthochdruck (seit 5-6 Jahren).
+    *   Chronischer Husten (seit 10 Jahren).
+    *   Rückenschmerzen.
+    *   Hüftgelenkentzündung (Geht einmal wöchentlich zur Physiotherapie).
+    *   Pflaster- und Zitrusfrüchteallergie (Haut).
+*   **Sozialanamnese:**
+    *   Verheiratet, hat eine erwachsene Tochter.
+    *   Rentner, ehemaliger Bauarbeiter (Lärmexposition).
+    *   Raucher (seit über 40 Jahren, ca. 1 Packung/Tag).
+    *   Trinkt täglich 1-2 Bier.
+*   **Medikation:**
+    *   Remipril 5 mg (gegen Bluthochdruck, morgens).
+    *   Spiriva (2x täglich, Dosierung ca. 2,5 Mikrogramm).
+    *   Ibuprofen 600 mg (bei Bedarf, selten).
+*   **Familienanamnese:**
+    *   Mutter hatte Brustkrebs.
+    *   Vater starb an Herzversagen.
+*   **Sonstiges:**
+    *   Keine aktuellen Schüttelfroste.
+    *   Keine Hörprobleme aktuell (trotz früherem Hörsturz).
+    *   Keine Unverträglichkeiten gegen Medikamente bekannt.
+    *   Geimpft (letzte Jahre nicht).
+    *   Hausärztin: Frau Dr. Müller.
+
+**Arzt:**
+
+*   **Begrüßung und Entschuldigung:** Entschuldigt sich für die lange Wartezeit, erklärt dies mit hoher Auslastung.
+*   **Vorstellung:** Stellt sich als Ärztin vor und erklärt, dass es sich um ein Anamnesegespräch handelt, gefolgt von Untersuchungen.
+*   **Anamnese:**
+    *   Stellt detaillierte Fragen zu den Beschwerden (Knubbel, Schluckbeschwerden, Ohrendruck, Müdigkeit, Nachtschweiß, nächtliches Wasserlassen).
+    *   Erkundigt sich nach Schmerzen, Bewegungsmöglichkeit des Knubbels, Auswirkungen auf das Hörverstehen.
+    *   Fragt nach möglichen Auslösern des früheren Hörsturzes (beruflicher Lärm).
+    *   Erkundigt sich nach Vorerkrankungen (Bluthochdruck, chronischer Husten), Medikamenteneinnahme, Operationen, Impfstatus, Allergien, Lebensgewohnheiten (Rauchen, Alkohol), Familienanamnese (Krebs).
+*   **Erläuterung des weiteren Vorgehens:**
+    *   Kündigt körperliche Untersuchung, Ultraschall, Blutabnahme und ggf. weitere Untersuchungen (Röntgen, CT) an.
+    *   Erklärt, dass die Entscheidung über eine mögliche Aufnahme erfolgt, nachdem die ersten Befunde vorliegen.
+    *   Schlägt vor, die Wartezeit zu überbrücken (Kiosk, Zeitschrift).
+*   **Hinweis auf mögliche Ursachen:** Erwähnt, dass die Beschwerden verschiedene Ursachen haben könnten, darunter auch Krebs, und betont die Notwendigkeit gründlicher Untersuchungen.
+
+**Relevante Textstellen:**
+
+*   **Patient (Name, Alter, Beschwerden):**
+    *   "Hemminger ist mein Name. Michael."
+    *   "Druck am linken Ohr seit ein paar Tagen."
+    *   "beim Essen Probleme, beziehungsweise beim Schlucken... wenn ich irgendwas Festes zu mir nehme... da habe ich richtig Probleme und ich kriege es gar nicht runter."
+    *   "seit gestern so einen Knubbel hier auf der linken Seite und ich habe das Gefühl, dass er auch größer wird."
+    *   "Ich bin aber schon etwas müde in letzter Zeit, müder als sonst."
+    *   "Ich schwitze immer so nachts und wache dann mehrmals auf."
+    *   "Ich muss schon mein T-Shirt wechseln mehrmals die Nacht oder manchmal schon zwei, dreimal nachts."
+    *   "Ich bin 57 bin ich."
+    *   "Ich bin 1,79 groß."
+    *   "Jetzt bin ich so bei 76 Kilo. Ich war mal 2,83."
+*   **Patient (Vorgeschichte, Lebensgewohnheiten):**
+    *   "Ich hatte so einen plötzlichen Hörsturz vor sieben Jahren."
+    *   "Bluthochdruck habe ich seit ein paar Jahren."
+    *   "chronischen Husten. Das habe ich schon seit zehn Jahren."
+    *   "Ich bin Raucher. Aber wollen Sie mich nicht endlich untersuchen? ... eine Packung am Tag."
+    *   "Ich trinke auch gelegentlich. ... täglich ein, zwei Bier."
+    *   "Ich bin Bauarbeiter, ich bin mittlerweile Rentner."
+*   **Arzt (Begrüßung, Anamnese):**
+    *   "Guten Tag, Kulett ist mein Name. Ich werde jetzt gerne das Aufnahmegespräch mit Ihnen durchführen."
+    *   "Herr Hemminger, was führt Sie denn heute zu uns?"
+    *   "Herr Hemminger, ich bin die Ärztin hier. Ich werde jetzt mit Ihnen das Gespräch weiterführen. Das nennt sich ein Amnesegespräch."
+    *   "Dieser Knubbel, Sie haben gesagt, der tut nicht weh. Können Sie den denn bewegen?"
+    *   "Schränken Sie das irgendwie in Ihrem Hörverstehen ein? Hören Sie dadurch schlechter?"
+    *   "Wie wurde das denn damals behandelt?"
+    *   "Hatten Sie irgendwie einen lauten Job oder so etwas?"
+    *   "Nehmen Sie denn irgendwelche Medikamente ein, gegen den Bluthochdruck oder auch den Husten?"
+    *   "Gut, ich würde gerne noch ein paar Fragen zu Ihrer Vorgeschichte stellen."
+    *   "Gibt es sonst noch Erkrankungen, von denen ich wissen sollte, leiden Sie an erhöhtem Blutdruck oder vielleicht auch der Zuckerkrankheit oder ähnlichem?"
+    *   "Wie sieht es denn ansonsten aus? Sie haben jetzt gesagt, Sie haben keinen Fieber. Haben Sie denn Schüttelfrost?"
+    *   "Hat sich das irgendwie auf Ihren Appetit ausgewirkt oder auch auf Ihr Gewicht vielleicht?"
+    *   "Herr Hemminger, ich würde Ihnen noch gerne ein paar Fragen zu Ihren Lebensgewohnheiten stellen. Sind Sie Raucher?"
+    *   "Gibt es da Vorerkrankungen oder Fälle von Krebs oder ähnlichem bei Ihren Eltern, Großeltern?"
+*   **Arzt (Weiteres Vorgehen):**
+    *   "Lassen Sie uns doch lieber anfangen, damit wir schnellstmöglich mit Ihrer Untersuchung anfangen können."
+    *   "Ich werde Sie jetzt erstmal körperlich untersuchen und würde auch gerne einen Ultraschall machen."
+    *   "Sie bleiben jetzt erstmal natürlich noch für die Untersuchungen hier. Bitte planen Sie dafür auch noch ein bisschen Zeit ein."
+    *   "Die Beschwerden, die Sie haben, die können jetzt für einige Erkrankungen sprechen. Vielleicht haben Sie eine Entzündung, vielleicht ist es auch aus anderen Gründen angeschwollen. Das werden wir jetzt prüfen."

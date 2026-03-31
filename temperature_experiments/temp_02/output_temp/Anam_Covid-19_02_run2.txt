@@ -1,0 +1,57 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK).
+*   **Hauptbeschwerden:** Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche.
+*   **Symptombeginn und Verlauf:**
+    *   Vor 4-5 Tagen: Halsschmerzen (heißes Kratzen, später Schmerzen, leichtes Engegefühl).
+    *   Danach: Weiter runtergehender Husten (trocken, kein Schleim, kein Hustenanfall, permanenter Reiz).
+    *   Seit 2 Tagen: Fieber (beginnend bei 37,6 °C, gestiegen bis 39,1 °C), Schüttelfrost, Gelenkschmerzen, Appetitlosigkeit, Verlust des Geschmacks.
+    *   Schwäche und Schlappheit seit einigen Tagen.
+    *   Schlafverhalten: Unruhig, Schwierigkeiten morgens aufzustehen (seit ca. 1-2 Wochen).
+*   **Weitere Informationen:**
+    *   Gallenblase entfernt (vor 8 Jahren wegen Gallensteinen).
+    *   Nimmt gelegentlich Voltaren (Schulterschmerzen) und Tabletten gegen Fructoseintoleranz.
+    *   Hat Aspirin C und Norofen gegen Fieber genommen, ohne Erfolg.
+    *   Nicht geimpft (vermutlich als Kind, aber seit Jahren nicht mehr).
+    *   Keine Vorerkrankungen außer der entfernten Gallenblase und Fructoseintoleranz.
+    *   Keine Allergien bekannt.
+    *   Psychisch gut, Stress durch schwieriges Verhältnis zur Mutter (dement) und Wohnsituation mit Eltern.
+    *   Beruf: Richter am Landesarbeitsgericht.
+    *   Nichtraucher, trinkt keinen Alkohol (wegen Fructoseintoleranz).
+    *   Keine Drogen.
+    *   Kein Kontakt zu bestätigten COVID-19-Fällen bekannt.
+    *   Keine größeren Menschenmengen in letzter Zeit.
+    *   Stuhlgang normal.
+    *   Leichte Atembeschwerden nur bei Anstrengung (Treppensteigen).
+
+**Arzt:**
+
+*   **Begrüßung und Ablauf:** Begrüßt Herrn Fest, stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Aufnahmegesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten, aktuellen Beschwerden, Symptomen (Fieber, Halsschmerzen, Husten, Schwäche, Appetitlosigkeit, Geschmacksverlust, Schüttelfrost, Gelenkschmerzen, Schlaf), Vorerkrankungen, Medikamenten, Impfstatus, Lebensgewohnheiten (Rauchen, Alkohol, Drogen), Beruf, sozialer Situation (Stress, Familie), Kontakt zu Infizierten, Aufenthalte in Menschenmengen.
+*   **Einschätzung und Plan:**
+    *   Verdacht auf Grippe oder COVID-19.
+    *   Planung eines COVID-19-Tests (Abstrich aus Hals und Nase).
+    *   Erklärung des Testablaufs (unangenehm, tief in Nase/Hals, ggf. Nasenbluten).
+    *   Information über das Vorgehen nach dem Test:
+        *   Ergebnis per Post in 2-3 Tagen.
+        *   Empfehlung, währenddessen zu Hause zu bleiben, Kontakte zu vermeiden und sich schonen.
+        *   Bei positivem Ergebnis: Quarantäne und weitere Besprechung des Vorgehens.
+    *   Anbieten eines Flyers vom Sozialdienst bezüglich Demenzbetreuung.
+    *   Empfehlung, sich über Impfungen zu informieren und mit dem Hausarzt zu sprechen.
+
+**Relevante Textstellen:**
+
+*   **Patientenname und Geburtsdatum:** "Wie heißen Sie denn? Sebastian Fest. Sebastian Fest. Fest, wie das Fest? Fest mit V. Mit V. V-E-S-T? Genau, richtig. Herr Fest, wann ist denn Ihr Geburtstag? Am 16. November 1961."
+*   **Hauptbeschwerden:** "Mir geht es seit ein paar Tagen gar nicht gut. Seit gestern Abend ganz schlecht. Und ich kam jetzt zu Ihnen, da es ja jetzt Mittwoch Nachmittag ist und mein Hausarzt nicht mehr dort ist. Deswegen kam ich hierhin, weil ich mir wirklich Sorgen gemacht habe. Ich habe richtig Fieber, fühle mich richtig schwach."
+*   **Fieberverlauf:** "Das Fieber, haben Sie das gemessen? Ich habe das gemessen, ja. Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+*   **Weitere Symptome:** "Ja, es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals. Und es ging immer weiter runter. Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus. [...] Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt. [...] Und ansonsten Gelenkschmerzen. Ich fühle mich richtig schlapp und schwach. [...] Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+*   **Vorerkrankungen:** "Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt. Und sonst habe ich aber keine Vorerkrankungen."
+*   **Medikamente:** "Ich nehme nur Medikamente. Ich nehme ab und zu Voltaren, weil ich oft Schmerzen in meiner rechten Schulter habe. Ich habe noch eine Fructoseintoleranz. Ja. Und da nehme ich ab und zu Tabletten dagegen."
+*   **Impfstatus:** "Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert."
+*   **Soziale Situation:** "Ich habe oft Stress mit meinen Eltern. [...] Ich wohne jetzt wieder bei meinen Eltern im Haus, weil ich geschieden bin. [...] Meine Mutter ist dement."
+*   **Beruf:** "Ich bin Richter. Sie sind Richter? Ja. Beim Landesarbeitsgericht."
+*   **Arzt - Verdacht und Test:** "Wir werden im Anschluss an das Gespräch direkt einen Abstrich mit Ihnen machen und das Ganze mal testen. Das Ergebnis bekommen Sie dann so in zwei bis drei Tagen per Post zugeschickt und wissen dann ganz genau Bescheid, was ist."
+*   **Arzt - Verhalten nach Test:** "Nutzen Sie die Zeit bitte, um sich gut auszukurieren. Vermeiden Sie Kontakte. Versuchen Sie sich vielleicht noch jemanden zu besorgen, der Ihnen Essen vorbeibringen kann oder Sie auch ein bisschen versorgen kann. Und dann bekommen Sie wie gesagt den Brief zugeschickt mit dem Ergebnis. Wenn das Ergebnis positiv ist, würde ich Sie bitten uns noch mal zu kontaktieren."
+*   **Arzt - Empfehlung:** "Ich muss Ihnen auch sagen, der Abstrich selber wird etwas unangenehm werden. Und zwar müssen wir einen Abstrich aus Ihrem Hals nehmen. Wir müssen leider relativ tief mit dem Röhrchen in den Hals und auch in die Nase. Das könnte etwas schmerzhaft werden."

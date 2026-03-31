@@ -1,0 +1,40 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Julia Neumann, geboren am 26. August 1988 (32 Jahre alt), Größe 1,67 m, Gewicht 60 kg. Hausärztin ist Frau Dr. König.
+*   **Hauptbeschwerde:** Seit gestern starke, ziehende Schmerzen im Bauch, um den Nabel herum, die nach rechts unten ausstrahlen. Die Schmerzen haben sich verschlimmert.
+*   **Begleitsymptome:** Seit Beginn der Schmerzen zweimaliges Erbrechen (Essensreste), Übelkeit, Appetitlosigkeit (seit gestern nichts mehr gegessen), Fieber gemessen (38,7°C gestern Abend). Keine vermehrten Harndrang, kein Spannungsgefühl in den Brüsten.
+*   **Vorerkrankungen:** Eileiterschwangerschaft vor einem Jahr (medikamentös behandelt), Aspirinallergie (Hautausschlag, Luftnot), seit 2 Jahren Kränzchen (nimmt Topamax 50mg morgens und Sumatriton bei Bedarf).
+*   **Medikamente:** Pille (mit Unterbrechungen, seit 10 Jahren), Topamax 50mg (morgens), Sumatriton (bei Bedarf).
+*   **Sozialanamnese:** Raucht ca. 5-6 Zigaretten/Tag seit 10 Jahren, trinkt gelegentlich Alkohol (2 Bier/Woche), raucht gelegentlich Marihuana (2-3x/Jahr). Bankkauffrau bei der Spaderbank. Lebt mit ihrem Freund zusammen (nicht verheiratet).
+*   **Familienanamnese:** Vater hat Diabetes (Typ 1/2 nicht spezifiziert, Insulinpflichtig), Mutter hat seit kurzem MS. Einzelkind.
+*   **Sonstiges:** Hat vor ein paar Tagen die Pille vergessen und hatte seitdem ungeschützten Geschlechtsverkehr. Hat Angst, dass es sich um eine erneute Eileiterschwangerschaft handeln könnte. Misst ihren Blutdruck nicht, hat keine bekannten erhöhten Blutfettwerte.
+*   **Lebensgewohnheiten:** Trinkt ca. 3 Liter Wasser + Tee/Kaffee täglich.
+
+**Arzt:**
+
+*   **Begrüßung und Anamnese:** Führt das Aufnahmegespräch mit Julia Neumann durch, stellt Fragen zu Person, Beschwerden, Vorerkrankungen, Medikamenten, Allergien, Familienanamnese, Lebensgewohnheiten und sozialer Situation.
+*   **Verdachtsdiagnose:** Vermutet eine Blinddarmentzündung (Appendizitis) aufgrund der Schmerzcharakteristik und -lokalisation.
+*   **Geplante Untersuchungen:** Körperliche Untersuchung (Abdomen abtasten), Ultraschall des Bauches, Blutentnahme.
+*   **Mögliche Behandlung:** Im schlimmsten Fall (Bestätigung der Diagnose) laparoskopische Blinddarmentfernung (kleiner Eingriff, kleine Narben).
+*   **Beruhigung:** Erklärt den Eingriff als Standard und nicht schlimm, falls notwendig.
+*   **Nächste Schritte:** Bittet die Patientin, sich auf die Untersuchungsliege zu legen, um mit der körperlichen Untersuchung zu beginnen.
+
+**Relevante Textstellen:**
+
+*   **Patientenname und Geburtsdatum:** "Neumann ist mein Name, Julia mit Vornamen... Am 26. August 1988."
+*   **Hausärztin:** "Das ist die Frau Dr. König."
+*   **Hauptbeschwerde:** "Ich habe seit gestern sehr starke Schmerzen im Bauch und mache mir da große Sorgen... Das hat gestern Abend angefangen und ist bis heute nicht besser geworden, eher schlimmer."
+*   **Schmerzcharakteristik:** "Ja, in der Mitte des Bauches, so um die Nabel herum... die strahlen vom Nabel nach unten ein bisschen... Rechts, auf die rechte Seite... Ich würde eher ziehend sagen... schon bei sieben."
+*   **Begleitsymptome:** "Jetzt muss ich mich schon zweimal übergeben... seit gestern nichts mehr gegessen... hatte tatsächlich auch Fieber gestern Abend 38,7 Grad."
+*   **Eileiterschwangerschaft:** "Ich hatte auch vor einem Jahr eine Eilleiterschwangerschaft... bereitet es mir jetzt schon große Sorgen, dass es wieder das Gleiche sein könnte."
+*   **Medikamente:** "Ich nehme Medikamente ein und zwei Topamax nehme ich täglich... Sumatriton, wenn es ganz schlimm wird."
+*   **Allergie:** "Ich kann zum Glück alles essen und trinken. Allerdings habe ich eine Aspirinallergie..."
+*   **Rauchen/Alkohol:** "Ja, ich rauche schon seit einigen Jahren... fünf, sechs Zigaretten pro Tag... Ja, gelegentlich mal zwei Bier in der Woche..."
+*   **Marihuana:** "...aber auch gelegentlich zwei, dreimal im Jahr rauche ich Marihuana."
+*   **Familienanamnese:** "Mein Papa hat Diabetes... Meine Mutter hat MS diagnostiziert bekommen."
+*   **Verdachtsdiagnose (Arzt):** "Aktuell habe ich einen Verdacht, dass es vielleicht eine Entzündung in Ihrem Blinddarm sein könnte."
+*   **Geplante Untersuchungen (Arzt):** "Wir werden Sie jetzt gleich untersuchen... einen Ultraschall machen von Ihrem Bauch... Blut abnehmen..."
+*   **Mögliche Behandlung (Arzt):** "Es könnte im schlimmsten Fall sein, dass wir Sie einmal kurz unter das Messer legen... eine Blinddarmentfernung... Lapparoskopisch... Dabei werden wir drei kleine Einschnitte machen..."
+*   **Nächste Schritte (Arzt):** "Dann würde ich Sie bitten, einmal rüber zu gehen auf die Untersuchungsliege und dann fange ich jetzt mit der körperlichen Untersuchung an."

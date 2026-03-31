@@ -1,0 +1,57 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg. Hausarzt ist Herr Doktor Nickel (mit CK).
+*   **Hauptbeschwerden:** Seit einigen Tagen krank, seit gestern Abend sehr schlecht. Fieber, Schwäche.
+*   **Symptombeginn und Verlauf:**
+    *   Fieber seit vorgestern Abend, begann mit 37,6°C, stieg auf 39,1°C an, trotz Norufen und Aspirin C nicht senkbar. ("Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter.")
+    *   Halsschmerzen vor 4-5 Tagen, begannen mit heißem Kratzen, dann Schmerzen und Engegefühl. ("es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals.")
+    *   Husten seitdem, trockener Husten, kein Auswurf, permanenter Hustenreiz, keine Hustenanfälle. ("Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus. [...] immer so ein bisschen. Also keine richtigen Hustenanfälle, aber ein permanenter Hustenreiz.")
+    *   Schwäche und Schlappheit. ("Ich fühle mich richtig schwach.")
+    *   Schüttelfrost seit vorgestern Abend. ("Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt.")
+    *   Gelenkschmerzen. ("Und ansonsten Gelenkschmerzen.")
+    *   Geschmacksverlust und Appetitlosigkeit seit einigen Tagen. ("Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit.")
+    *   Unruhiger Schlaf und Schwierigkeiten, morgens aufzustehen, seit etwa einer Woche. ("Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen.")
+*   **Vorerkrankungen:** Entfernung der Gallenblase vor 8 Jahren (wegen Gallensteine). Fructoseintoleranz.
+*   **Medikamente:** Ab und zu Voltaren (Schulterschmerzen), Tabletten gegen Fructoseintoleranz (Name nicht genannt), Aspirin C, Norofen.
+*   **Soziales:** Geschieden, wohnt bei den Eltern (Mutter dement), Vater hat Arthritis.
+*   **Sonstiges:** Nichtraucher, kein Alkohol, keine Drogen. Stress durch schwieriges Verhältnis zur Mutter und deren Demenz.
+*   **Impfstatus:** Nicht aktuell geimpft. ("Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert.")
+
+**Arzt:**
+
+*   **Begrüßung und Einleitung:** Begrüßt Herrn Fest, stellt sich als Assistenzärztin Nina Colette vor, erklärt den Ablauf des Gesprächs.
+*   **Anamnese:** Stellt Fragen zu persönlichen Daten (Name, Geburtsdatum, Größe, Gewicht, Hausarzt).
+*   **Aktuelle Beschwerden:** Erfragt den Grund des Besuchs, Symptome (Fieber, Schwäche, Halsschmerzen, Husten, Schüttelfrost, Gelenkschmerzen, Geschmacksverlust, Appetitlosigkeit, Schlafstörungen, Atembeschwerden).
+*   **Vorerkrankungen und Medikamente:** Erfragt Vorerkrankungen, chronische Erkrankungen, aktuelle Medikamente.
+*   **Sozialanamnese:** Erfragt Rauchen, Alkoholkonsum, Drogenkonsum, Stress, Familienverhältnisse (Eltern, Demenz der Mutter).
+*   **Impfstatus:** Erfragt den Impfstatus.
+*   **Zusammenfassung und weitere Schritte:**
+    *   Fasst die Symptome zusammen (Halsschmerzen seit 5 Tagen, trockener Husten, keine Atembeschwerden außer bei Anstrengung, Schwäche seit Tagen, Fieber seit 2 Tagen bis 39,1°C, Appetitlosigkeit, Geschmacksverlust, Gelenkschmerzen, Schüttelfrost).
+    *   Erklärt, dass die Symptome auf eine Grippe hindeuten könnten, aber aufgrund der aktuellen Situation (vermutlich COVID-19 Pandemie) ein Test notwendig ist.
+    *   Informiert über den Ablauf des Tests (Abstrich aus Hals und Nase, unangenehm, evtl. Nasenbluten), die Notwendigkeit von Schutzkleidung der Kollegen und die Wartezeit von 2-3 Tagen auf das Ergebnis per Post.
+    *   Gibt Verhaltenshinweise für die Wartezeit (Isolation, Kontaktsperre, Schonung).
+    *   Erklärt das weitere Vorgehen bei positivem Testergebnis (Quarantäne, Kontaktaufnahme).
+    *   Bietet einen Flyer des Sozialdienstes an und spricht das Thema Demenz an.
+    *   Erklärt, dass der Abstrich durchgeführt wird, bevor die körperliche Untersuchung erfolgt.
+
+**Relevante Textstellen:**
+
+*   "Sebastian Fest, geboren am 16. November 1961, Größe 1,83 m, Gewicht ca. 93 kg."
+*   "Mir geht es seit ein paar Tagen gar nicht gut. Seit gestern Abend ganz schlecht. Und ich kam jetzt zu Ihnen, da es ja jetzt Mittwoch Nachmittag ist und mein Hausarzt nicht mehr dort ist. Deswegen kam ich hierhin, weil ich mir wirklich Sorgen gemacht habe. Ich habe richtig Fieber, fühle mich richtig schwach."
+*   "Das ging gestern, vorgestern Abend los. Zuerst mit 37,6. Und dann ist es immer weiter gestiegen. Und heute Morgen war es schon 39,1. Und ich krieg es auch nicht runter."
+*   "es ging eigentlich los mit Halsschmerzen. Das war so ungefähr vor vier, fünf Tagen. Da hatte ich zuerst ein heißes Kratzen. Dann tat es auch ganz schön weh. Ich hatte auch so ein leichtes Engegefühl im Hals."
+*   "Und jetzt muss ich auch oft stark husten. [...] Ein trockener Husten. Es kommt noch kein Schleim raus. [...] immer so ein bisschen. Also keine richtigen Hustenanfälle, aber ein permanenter Hustenreiz."
+*   "Ich hatte richtig Schüttelfrost, ja. So ging es einstoßlich auch vorgestern Abend und gestern auch. Mir war es richtig kalt."
+*   "Und ansonsten Gelenkschmerzen. Ich fühle mich richtig schlapp und schwach."
+*   "Ja, tatsächlich. Ich habe schon das Gefühl, dass ich in den letzten Tagen meine Geschmacksnerven etwas verloren habe. Und ich habe auch viel weniger Appetit."
+*   "Ich schlafe jetzt etwas unruhig in den letzten Tagen. Und ich merke auch schon seit über einer Woche, dass ich morgens Schwierigkeiten habe, aus dem Bett zu kommen."
+*   "Ich hatte Probleme mit meiner Gallenblase, sehr häufig. Und die wurde vor acht Jahren entfernt."
+*   "Ich nehme ab und zu Voltaren, weil ich oft Schmerzen in meiner rechten Schulter habe. Ich habe noch eine Fructoseintoleranz."
+*   "Nein, leider nicht. Ich glaube, ich wurde als Kind geimpft. Aber ich habe mich in den letzten Jahren überhaupt nicht darum gekümmert."
+*   "Sie haben jetzt seit ein paar Tagen schon die Beschwerden. Vor fünf Tagen haben die Halsschmerzen angefangen. Erst leicht, dann immer stärker werdend mit einem Kratzen und später sogar einem leichten Engegefühl im Hals. Das ging dann über in Husten. Der Husten ist eher ein trockener Husten. Es kommt also kein Auswurf mit raus. Atembeschwerden haben Sie eher nicht, sondern nur beim Treppensteigen, aber dann auch nur leicht. Sie sprechen davon, dass Sie jetzt seit Tagen schwach sind und eher abgeschlagen. Sie kommen schwerer aus dem Bett und haben ebenfalls seit zwei Tagen Fieber. Das letzte Mal, als Sie Fieber gemessen haben, lag die Temperatur bei 39,1 Grad."
+*   "Appetit ist Ihnen derzeit auch vergangen. Sie haben zudem auch den Geschmack verloren, wenn Sie etwas essen. Sie haben auch Gelenk- und Gliederschmerzen angegeben. Ist das so richtig?"
+*   "Wir werden Ihre Probe gleich sofort ins Labor schicken. Die werden wir dann auswerten. Dann können wir Ihnen aus datenschutzrechtlichen Gründen die Befunde per Post nur zukommen lassen. Das heißt, Sie müssen leider zwei bis drei Tage warten."
+*   "Nutzen Sie die Zeit bitte, um sich gut auszukurieren. Vermeiden Sie Kontakte. Versuchen Sie sich vielleicht noch jemanden zu besorgen, der Ihnen Essen vorbeibringen kann oder Sie auch ein bisschen versorgen kann."
+*   "Wenn das Ergebnis positiv ist, würde ich Sie bitten uns noch mal zu kontaktieren. Dann gehen wir das weitere Prozedere gemeinsam durch. Denn dann müssen Sie auf jeden Fall erst mal in Quarantäne bleiben."

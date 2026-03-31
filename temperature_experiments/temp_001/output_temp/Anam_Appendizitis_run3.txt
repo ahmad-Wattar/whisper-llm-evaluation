@@ -1,0 +1,34 @@
+Okay, hier ist die Zusammenfassung des Transkripts, aufgeteilt in Patient und Arzt, mit den entsprechenden Zitaten:
+
+**Patient:**
+
+*   **Persönliche Daten:** Julia Neumann, geboren am 26. August 1988 (32 Jahre alt), Größe 1,67 m, Gewicht 60 kg. Hausärztin ist Frau Dr. König.
+*   **Hauptbeschwerde:** Seit gestern starke, ziehende Schmerzen im Bauch, um den Nabel herum, die nach rechts unten ausstrahlen. Die Schmerzen haben sich verschlimmert.
+*   **Begleitsymptome:** Seit Beginn der Schmerzen zweimaliges Erbrechen (Essensreste), Übelkeit, Fieber gemessen (38,7 Grad gestern Abend). Keine vermehrte Häufigkeit des Stuhlgangs oder Wasserlassens, keine Brustspannung.
+*   **Vorerkrankungen:** Eileiterschwangerschaft vor einem Jahr (medikamentös behandelt), Krätze seit 2,5 Jahren (nimmt Topamax 50mg morgens und Sumatriton 50mg bei Bedarf).
+*   **Medikamente:** Topamax 50mg (morgens), Sumatriton 50mg (bei Bedarf).
+*   **Operationen:** Entfernung eines Muttermals (ambulant), Entfernung von zwei Weisheitszähnen (einmalige Komplikation mit Entzündung).
+*   **Allergien:** Aspirin (Hautausschlag, Luftnot).
+*   **Sozialanamnese:** Verheiratet/verpartnert (nicht verheiratet, lebt mit Freund zusammen), Wohnung, Bankkauffrau bei der Spaderbank.
+*   **Lebensgewohnheiten:** Raucht ca. 5-6 Zigaretten/Tag seit 10 Jahren, trinkt gelegentlich Alkohol (2 Bier/Woche), gelegentlich (2-3x/Jahr) Marihuana.
+*   **Familienanamnese:** Vater hat Diabetes mellitus Typ 1 (Insulinpflichtig), Mutter hat seit kurzem Multiple Sklerose (MS). Einzelkind.
+*   **Sonstiges:** Pille wird genommen (mit Unterbrechungen seit 10 Jahren), aktuell kein Kinderwunsch. Hatte vor ein paar Tagen Pille vergessen und hatte danach Geschlechtsverkehr. Hat Angst, dass es sich um eine erneute Eileiterschwangerschaft handeln könnte. Hat Wärmflasche benutzt und Tee getrunken, was semi geholfen hat. Schmerzen verstärken sich bei Bewegung und Druck auf die Stelle.
+
+**Arzt:**
+
+*   **Begrüßung und Anamnese:** Begrüßt die Patientin, stellt sich vor (Nina Kulett, diensthabende Ärztin), führt das Aufnahmegespräch.
+*   **Diagnostischer Verdacht:** Vermutet eine Blinddarmentzündung (Appendizitis) als mögliche Ursache der Beschwerden.
+*   **Geplante Untersuchungen:** Körperliche Untersuchung (Abtasten des Bauches), Ultraschall des Bauches, Blutabnahme.
+*   **Mögliche Behandlung:** Im schlimmsten Fall (Bestätigung der Diagnose) laparoskopische Blinddarmentfernung (kleiner Eingriff mit drei kleinen Schnitten).
+*   **Beruhigung/Information:** Erklärt den Ablauf der Untersuchungen und die mögliche Behandlung. Findet es gut, dass die Patientin ins Krankenhaus gekommen ist. Bietet an, die Patientin auf die Untersuchungsliege zu bitten, um mit der körperlichen Untersuchung zu beginnen.
+
+**Relevante Textstellen:**
+
+*   **Patientenname und Geburtsdatum:** "Neumann ist mein Name, Julia mit Vornamen." / "Am 26. August 1988."
+*   **Hauptbeschwerde:** "Ich habe seit gestern sehr starke Schmerzen im Bauch und mache mir da große Sorgen." / "Ja, in der Mitte des Bauches, so um die Nabel herum. Um die Nabel herum, okay. Ja, und die strahlen vom Nabel nach unten ein bisschen. Wo unten? Gerade runter oder links, rechts? Rechts, auf die rechte Seite." / "Ich würde eher ziehend sagen."
+*   **Begleitsymptome:** "Ja, also normalerweise nicht, aber jetzt muss ich mich schon zweimal übergeben." / "Ich habe Fieber gemessen und hatte tatsächlich auch Fieber gestern Abend 38,7 Grad."
+*   **Vorerkrankungen:** "Ich habe vor einem Jahr eine Eileiterschwangerschaft hatte" / "Seit zwei, zweieinhalb Jahren." / "Ich nehme Medikamente ein und zwei Topamax nehme ich täglich." / "Topamax wann? Morgens oder abends? Morgens." / "50 Milligramm." / "Ja, bin ich." / "Sumatriton. Manchmal gibt es leider auch solche Fälle." / "Auch 50 Milligramm."
+*   **Allergie:** "Allerdings habe ich eine Aspirinallergie"
+*   **Diagnostischer Verdacht:** "Aktuell habe ich einen Verdacht, dass es vielleicht eine Entzündung in Ihrem Blinddarm sein könnte."
+*   **Geplante Untersuchungen:** "Wir werden Sie jetzt gleich untersuchen. Die Untersuchungen, die wir durchführen werden, ist zum einen erstmal natürlich eine körperliche Untersuchung. Ich werde also Ihren Bauch mal abtasten und ich würde auch gerne einen Ultraschall machen von Ihrem Bauch. Und natürlich werde ich Ihnen auch Blut abnehmen"
+*   **Mögliche Behandlung:** "Es könnte im schlimmsten Fall sein, dass wir Sie einmal kurz unter das Messer legen. Das ist aber auch ein kleiner Eingriff, eine Blinddarmentfernung. Lapparoskopisch nennt sich das. Dabei werden wir drei kleine Einschnitte machen in Ihrer Bauchdecke und dadurch dann mit Hilfe von kleinen Instrumenten den Blinddarm entfernen"

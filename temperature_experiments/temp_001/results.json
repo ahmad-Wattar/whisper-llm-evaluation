@@ -1,0 +1,1821 @@
+{
+  "summary": [
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "mean_consistency": 0.9795285613026491,
+      "std_consistency_within_audio": 0.013110496543883129,
+      "n_audios": 17
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "mean_consistency": 0.974696654955072,
+      "std_consistency_within_audio": 0.01651170027056116,
+      "n_audios": 17
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "mean_consistency": 0.9537774358176925,
+      "std_consistency_within_audio": 0.02800784035979366,
+      "n_audios": 17
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "mean_consistency": 0.9495835799518912,
+      "std_consistency_within_audio": 0.034821866115528906,
+      "n_audios": 17
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "mean_consistency": 0.8283527604052842,
+      "std_consistency_within_audio": 0.09775599982863926,
+      "n_audios": 17
+    }
+  ],
+  "pairwise": [
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999999976,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999999976,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999976,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.46971980093879284,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.48704563652401023,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9005018313869582,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.7732335024231263,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.7732335024231263,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999996,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9373923446594362,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999999978,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9373923446594362,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.5243917592438544,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.5243917592438544,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999984,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.61933600364468,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.61933600364468,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999976,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999999964,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999999964,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999964,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 0,
+      "cosine_similarity": 0.5589530355812922,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 1,
+      "cosine_similarity": 0.5589530355812922,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999978,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999999986,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999999986,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999986,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9405250388676941,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9405250388676941,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999974,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 0,
+      "cosine_similarity": 0.08523248672519129,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 1,
+      "cosine_similarity": 0.5442459445243767,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 2,
+      "cosine_similarity": 0.19760670346266296,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.928063813408263,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9285019190176045,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999781004006341,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999999987,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999999987,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999987,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 0,
+      "cosine_similarity": 0.9591634681627935,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 1,
+      "cosine_similarity": 0.9591634681627935,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999973,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.5093416326429538,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.5093416326429538,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 0.999999999999998,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 0,
+      "cosine_similarity": 0.9733854479873554,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 1,
+      "cosine_similarity": 0.9786044397043691,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 2,
+      "cosine_similarity": 0.9674920718236184,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 0,
+      "cosine_similarity": 0.57046950715702,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 1,
+      "cosine_similarity": 0.57046950715702,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Llama-3.1_8B-Instruct",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999989,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999818108598,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 1,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999818108598,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9413665637112861,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.929973580451806,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9754773218218866,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9904107863547162,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9904552461073044,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999822719354708,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9757606101747287,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999842129352801,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9758174146713162,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9640983330493194,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9640983330493194,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.9710543199666422,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.9710046039339632,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999810997493501,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999846616608243,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999846616608243,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999998,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9427953582988298,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9427953582988298,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999999,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999803289993991,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999803289993991,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 0,
+      "cosine_similarity": 0.964263332300944,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9644001353409558,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999803370203363,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9933501936979748,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9222873713713722,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 2,
+      "cosine_similarity": 0.9290473791486966,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9615818671383058,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9615818671383058,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 0,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 0,
+      "cosine_similarity": 0.9982430348512584,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 1,
+      "cosine_similarity": 0.9982430348512584,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.9159218387351473,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.9159218387351473,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 0,
+      "cosine_similarity": 0.9966976842723494,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 1,
+      "cosine_similarity": 0.994212229347135,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 2,
+      "cosine_similarity": 0.9917187321582925,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 0,
+      "cosine_similarity": 0.8335647545255478,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 1,
+      "cosine_similarity": 0.8335647545255478,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_Jina_v3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999999,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9447485945386527,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9235537046679045,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9876502605505942,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9819292125171797,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9819292125171797,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9938088821822875,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9938088821822875,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9075046925213407,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9075046925213407,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.9161438849026784,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.9161438849026784,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 0,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 1,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 2,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 0,
+      "cosine_similarity": 0.7224768018555073,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 1,
+      "cosine_similarity": 0.7224768018555073,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 0,
+      "cosine_similarity": 1.000000000000001,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 1,
+      "cosine_similarity": 1.000000000000001,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 2,
+      "cosine_similarity": 1.000000000000001,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9713692601688848,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9713692601688848,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9915406671299754,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 1,
+      "cosine_similarity": 0.8275395242824193,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 2,
+      "cosine_similarity": 0.8268268194757165,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9808113320587074,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9808113320587074,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 0,
+      "cosine_similarity": 0.997624211136303,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 1,
+      "cosine_similarity": 0.997624211136303,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.7488065975341168,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.7488065975341168,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 0,
+      "cosine_similarity": 0.9988541461773246,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 1,
+      "cosine_similarity": 0.9958975602512361,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 2,
+      "cosine_similarity": 0.9955689554199083,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 0,
+      "cosine_similarity": 0.7478162976493478,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 1,
+      "cosine_similarity": 0.7478162976493478,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_German_Semantic_V3b",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999999997,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.873806619884682,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.8006742014176469,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9368142823909095,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9632915518762544,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9632915518762544,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9604964296583671,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9604964296583671,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9002110669509402,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.9002110669509402,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.8826069245848399,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.8826069245848399,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.000000000000001,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9359840162110995,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9359840162110995,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999974079,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999974079,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9394200261409678,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9394200261409678,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 0,
+      "cosine_similarity": 0.955447736113122,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 1,
+      "cosine_similarity": 0.8215586803158148,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 2,
+      "cosine_similarity": 0.8245940942562642,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9554318931314324,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9554318931314324,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000013,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 0,
+      "cosine_similarity": 0.9822302055419319,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 1,
+      "cosine_similarity": 0.9822302055419319,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.8738367198968328,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.8738367198968328,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000013,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 0,
+      "cosine_similarity": 0.9803878567614105,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 1,
+      "cosine_similarity": 0.9745324357650318,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 2,
+      "cosine_similarity": 0.9625115876805131,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 0,
+      "cosine_similarity": 0.8626520320683777,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 1,
+      "cosine_similarity": 0.8626520320683777,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_bge_m3",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Aengstliche-Patientin",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9268976503563197,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9086888386232421,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Appendizitis",
+      "pair_id": 2,
+      "cosine_similarity": 0.9808077496286833,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9819822121689803,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9819822121689803,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Cholezystitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.9784154644258077,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Covid-19_02",
+      "pair_id": 2,
+      "cosine_similarity": 0.9784154644258077,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 0,
+      "cosine_similarity": 0.951438375978916,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 1,
+      "cosine_similarity": 0.951438375978916,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fahrradunfall_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.9782272225821691,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.9782272225821691,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000013,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Fremdanamnese_Saeugling",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000007,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9562812515158496,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9562812515158496,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Gastroenteritis",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000013,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9999999999998955,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9999999999998955,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Koronarsyndrom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000009,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9493373610193525,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9493373610193525,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Lymphom",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000004,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 0,
+      "cosine_similarity": 0.9873531422171924,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 1,
+      "cosine_similarity": 0.9607960752336708,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Oesophaguskarzinom",
+      "pair_id": 2,
+      "cosine_similarity": 0.9692984999803547,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 0,
+      "cosine_similarity": 0.9891461725728382,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 1,
+      "cosine_similarity": 0.9891461725728382,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pankreatitis",
+      "pair_id": 2,
+      "cosine_similarity": 1.000000000000001,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 0,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 1,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Pneumonie_02",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 0,
+      "cosine_similarity": 0.9979575781648606,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 1,
+      "cosine_similarity": 0.9979575761257247,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Rueckenschmerzen",
+      "pair_id": 2,
+      "cosine_similarity": 0.9999999999998896,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 0,
+      "cosine_similarity": 0.949569493279995,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 1,
+      "cosine_similarity": 0.949569493279995,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Traumaanamnese",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000013,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 0,
+      "cosine_similarity": 0.9966498137473727,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 1,
+      "cosine_similarity": 0.9965578062523304,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_Venenthrombose_TVT",
+      "pair_id": 2,
+      "cosine_similarity": 0.9956086817340792,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 0,
+      "cosine_similarity": 0.8842940536418781,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 1,
+      "cosine_similarity": 0.8842940536418781,
+      "n_runs_in_audio": 3
+    },
+    {
+      "embedding_model": "embedding_gte_multilingual_base",
+      "audio_id": "Anam_sexueller Missbrauch",
+      "pair_id": 2,
+      "cosine_similarity": 1.0000000000000002,
+      "n_runs_in_audio": 3
+    }
+  ]
+}
