@@ -34,4 +34,4 @@ Die Analyse basiert auf:
 Alle Parquet-Dateien werden ausgeschlossen, damit das Repo schlank bleibt und GitHub-Dateigrößenlimits nicht überschritten werden.
 Diese Dateien werden separat über **Zenodo** bereitgestellt.
 
-If you use this code, please cite the accompanying paper 
+If you use this code, please cite the accompanying paper.
