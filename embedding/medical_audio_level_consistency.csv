@@ -1,0 +1,521 @@
+domain,embedding_model,model_name,audio_id,consistency
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Aengstliche-Patientin,0.9604752780508446
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Appendizitis,0.9730716864923836
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Bauchschmerzen,0.9551003777609264
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Beinschmerzen,0.9752280707158762
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cephalgie,0.9616794565493136
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cholezystitis,0.9873510640296478
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_01,0.8958557646640243
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_02,0.8915758107228537
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_01,0.892957672470429
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_02,0.9050964605995198
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese,0.9580759797959444
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese_Saeugling,0.8662053037858796
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Gastroenteritis,0.9612081162798942
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Hyperthyreose,0.9654484878074436
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Koronarsyndrom,0.9126324173247126
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Lymphom,0.955385975406264
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Oesophaguskarzinom,0.8800416994125809
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pankreatitis,0.9507094915588776
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_01,0.9713834133253582
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_02,0.9361466893306456
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pyelonephritis,0.9359554244405872
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Rueckenschmerzen,0.9757981438709796
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Thorakale Schmerzen,0.9701290617577976
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Traumaanamnese,0.9472555364654932
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Venenthrombose_TVT,0.9754751275290416
+medical,embedding_Llama-3.1_8B-Instruct,Llama 3.1 SauerkrautLM 70B Instruct,Anam_sexueller_Missbrauch,0.9601669154101572
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Aengstliche-Patientin,0.3332561447557097
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Appendizitis,0.93233066737588
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Bauchschmerzen,0.6114117528482459
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Beinschmerzen,0.5784983085158356
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Cephalgie,0.9605131768786352
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Cholezystitis,0.8220208842627749
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Covid-19_01,0.96848954756379
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Covid-19_02,0.5367911424166024
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Fahrradunfall_01,0.968425084290886
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Fahrradunfall_02,0.5765079556365315
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Fremdanamnese,0.901344495762592
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Fremdanamnese_Saeugling,0.972929415016898
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Gastroenteritis,0.7121671115051796
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Hyperthyreose,0.7860250233905246
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Koronarsyndrom,0.7200939333027222
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Lymphom,0.951894766717306
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Oesophaguskarzinom,0.951601520037034
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Pankreatitis,0.7656049296773316
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Pneumonie_01,0.7425113162925493
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Pneumonie_02,0.4425616913286814
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Pyelonephritis,0.9368726904704524
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Rueckenschmerzen,0.9743360481447916
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Thorakale Schmerzen,0.9593410485629216
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Traumaanamnese,0.8999392262252246
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_Venenthrombose_TVT,0.891156171742301
+medical,embedding_Llama-3.1_8B-Instruct,MedGemma 27B Instruct,Anam_sexueller_Missbrauch,0.9551406108250312
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Aengstliche-Patientin,0.8522211735040806
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Appendizitis,0.9130580390626362
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Bauchschmerzen,0.9495054336673352
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Beinschmerzen,0.9214986016932613
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Cephalgie,0.9694509964233
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Cholezystitis,0.9535797581746248
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Covid-19_01,0.9561817195323302
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Covid-19_02,0.6886008876030633
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_01,0.9339468902684888
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_02,0.7756208949934931
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese,0.926756338395205
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese_Saeugling,0.9584035919080393
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Gastroenteritis,0.8853511215287888
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Hyperthyreose,0.8890720019837448
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Koronarsyndrom,0.9711936127324082
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Lymphom,0.9650180704103044
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Oesophaguskarzinom,0.9531181680855952
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Pankreatitis,0.7450784755025891
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_01,0.9058324124870452
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_02,0.9605545835293372
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Pyelonephritis,0.9193768149542282
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Rueckenschmerzen,0.890371736673055
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Thorakale Schmerzen,0.9725610320767764
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Traumaanamnese,0.9193734431638496
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_Venenthrombose_TVT,0.9619847060286169
+medical,embedding_Llama-3.1_8B-Instruct,Meta Llama 3.1 8B Instruct,Anam_sexueller_Missbrauch,0.9542864412430906
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Aengstliche-Patientin,0.7640126876348553
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Appendizitis,0.920695224353714
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Bauchschmerzen,0.9212814759676125
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Beinschmerzen,0.9273034762364092
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Cephalgie,0.8995624585087031
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Cholezystitis,0.9161013670192024
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Covid-19_01,0.9064295122828196
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Covid-19_02,0.8719120103673395
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Fahrradunfall_01,0.9075480546439916
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Fahrradunfall_02,0.9296654999431514
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Fremdanamnese,0.9545589458150884
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Fremdanamnese_Saeugling,0.9126252566900672
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Gastroenteritis,0.8823564925946191
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Hyperthyreose,0.948089500998522
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Koronarsyndrom,0.9092956975510854
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Lymphom,0.9324831058320212
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Oesophaguskarzinom,0.9275001228524108
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Pankreatitis,0.9064673431186016
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Pneumonie_01,0.9427701074269872
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Pneumonie_02,0.936663688959804
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Pyelonephritis,0.925447695956656
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Rueckenschmerzen,0.8803825926033503
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Thorakale Schmerzen,0.934552978973071
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Traumaanamnese,0.9173544957550598
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_Venenthrombose_TVT,0.8897504966557633
+medical,embedding_Llama-3.1_8B-Instruct,OpenAI GPT OSS 120B,Anam_sexueller_Missbrauch,0.9387628152483308
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Aengstliche-Patientin,0.9560129489656636
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Appendizitis,0.964725573213855
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Bauchschmerzen,0.9869038421375096
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Beinschmerzen,0.954869535257592
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cephalgie,0.9626078961533718
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cholezystitis,0.9809887745774208
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_01,0.9765124516536324
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_02,0.9005792562361025
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_01,0.9537972927627464
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_02,0.9530998034807512
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese,0.9357861112926232
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese_Saeugling,0.9586911053324662
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Gastroenteritis,0.968063859792367
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Hyperthyreose,0.9799194941186964
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Koronarsyndrom,0.9421033890090852
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Lymphom,0.9800780475184226
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Oesophaguskarzinom,0.9718459937652744
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pankreatitis,0.9843376107272328
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_01,0.9542067695167034
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_02,0.9486348562509668
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pyelonephritis,0.9455101365348296
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Rueckenschmerzen,0.98470771934073
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Thorakale Schmerzen,0.9671522140972488
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Traumaanamnese,0.9838224258641124
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Venenthrombose_TVT,0.988526565696298
+medical,embedding_Jina_v3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_sexueller_Missbrauch,0.971469282572508
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Aengstliche-Patientin,0.9347636122855078
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Appendizitis,0.975875296760474
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Bauchschmerzen,0.9760006908224086
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Beinschmerzen,0.978350786690732
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Cephalgie,0.9894616220287936
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Cholezystitis,0.9745195588953056
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Covid-19_01,0.9931097826738632
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Covid-19_02,0.965110207827938
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Fahrradunfall_01,0.9852144112630326
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Fahrradunfall_02,0.980323791983606
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Fremdanamnese,0.9757749229420516
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Fremdanamnese_Saeugling,0.9873567852388456
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Gastroenteritis,0.9598516304292914
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Hyperthyreose,0.9652788965122552
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Koronarsyndrom,0.9857687694310084
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Lymphom,0.9795963127395174
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Oesophaguskarzinom,0.9798266118962392
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Pankreatitis,0.9855198166325976
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Pneumonie_01,0.9458392707468474
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Pneumonie_02,0.9787299214933624
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Pyelonephritis,0.9828743484185338
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Rueckenschmerzen,0.9958739824119128
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Thorakale Schmerzen,0.9893184123852252
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Traumaanamnese,0.9769101458312768
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_Venenthrombose_TVT,0.9764205088303816
+medical,embedding_Jina_v3,MedGemma 27B Instruct,Anam_sexueller_Missbrauch,0.9806252302315328
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Aengstliche-Patientin,0.9370625018463548
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Appendizitis,0.9419519596709326
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Bauchschmerzen,0.9657312629130702
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Beinschmerzen,0.974937846944778
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Cephalgie,0.9738292228860128
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Cholezystitis,0.9362780562442864
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Covid-19_01,0.9610156710218724
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Covid-19_02,0.908274730954936
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_01,0.971214187765186
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_02,0.9064901252964178
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese,0.9372058009032168
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese_Saeugling,0.9404685775530852
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Gastroenteritis,0.96470341798616
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Hyperthyreose,0.8870390439591723
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Koronarsyndrom,0.9726774705511266
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Lymphom,0.9715112990747542
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Oesophaguskarzinom,0.9658878156517766
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Pankreatitis,0.9408247079236076
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_01,0.9375538974669464
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_02,0.9757675875856338
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Pyelonephritis,0.9768726886970956
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Rueckenschmerzen,0.8820615915565124
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Thorakale Schmerzen,0.9811565986146928
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Traumaanamnese,0.9359287548833654
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_Venenthrombose_TVT,0.9459586167798654
+medical,embedding_Jina_v3,Meta Llama 3.1 8B Instruct,Anam_sexueller_Missbrauch,0.9484389059155802
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Aengstliche-Patientin,0.9386666691673848
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Appendizitis,0.9618946149607338
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Bauchschmerzen,0.980931967632118
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Beinschmerzen,0.9784051741695924
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Cephalgie,0.966966382808561
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Cholezystitis,0.977244293366424
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Covid-19_01,0.959115151722162
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Covid-19_02,0.9764164144203352
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Fahrradunfall_01,0.9379766465528412
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Fahrradunfall_02,0.9768158899707672
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Fremdanamnese,0.9540798677416495
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Fremdanamnese_Saeugling,0.9595206526023612
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Gastroenteritis,0.9732503916740828
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Hyperthyreose,0.9514356716130647
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Koronarsyndrom,0.9564731837431074
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Lymphom,0.937267806528834
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Oesophaguskarzinom,0.9478127564887184
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Pankreatitis,0.982175921126924
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Pneumonie_01,0.9728586270538904
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Pneumonie_02,0.9815638631756
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Pyelonephritis,0.9657773308183518
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Rueckenschmerzen,0.9508265432589832
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Thorakale Schmerzen,0.9748158031643678
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Traumaanamnese,0.9599192807672552
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_Venenthrombose_TVT,0.9769745294707448
+medical,embedding_Jina_v3,OpenAI GPT OSS 120B,Anam_sexueller_Missbrauch,0.9700643601733596
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Aengstliche-Patientin,0.9130032340274564
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Appendizitis,0.8924001604152932
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Bauchschmerzen,0.9801373055758564
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Beinschmerzen,0.8774277810359221
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cephalgie,0.945510836511473
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cholezystitis,0.9566285174467076
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_01,0.9242609894850264
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_02,0.859639098020485
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_01,0.8932364527132273
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_02,0.9071744635125816
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese,0.8936533370234484
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese_Saeugling,0.9137514738608798
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Gastroenteritis,0.915966087534994
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Hyperthyreose,0.9537890283638566
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Koronarsyndrom,0.8877102288874235
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Lymphom,0.9179067240058127
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Oesophaguskarzinom,0.9342536831827988
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pankreatitis,0.9560380041160104
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_01,0.9111057991266844
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_02,0.8915209424601204
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pyelonephritis,0.9231704546250038
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Rueckenschmerzen,0.9770232041269048
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Thorakale Schmerzen,0.9557852014038244
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Traumaanamnese,0.9625829015953632
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Venenthrombose_TVT,0.9794369806657104
+medical,BAAI/bge-m3,Llama 3.1 SauerkrautLM 70B Instruct,Anam_sexueller_Missbrauch,0.9338847753549472
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Aengstliche-Patientin,0.8684568350562344
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Appendizitis,0.9283560596488232
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Bauchschmerzen,0.9283876770147972
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Beinschmerzen,0.9051300474638028
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Cephalgie,0.9402141493475648
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Cholezystitis,0.942273906700834
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Covid-19_01,0.9697591673890166
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Covid-19_02,0.8411228901741472
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Fahrradunfall_01,0.9385906290401458
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Fahrradunfall_02,0.8821701827195806
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Fremdanamnese,0.938255652551911
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Fremdanamnese_Saeugling,0.9553897508253958
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Gastroenteritis,0.8930655922039333
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Hyperthyreose,0.9731406458558248
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Koronarsyndrom,0.9617172323657174
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Lymphom,0.9707905604112808
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Oesophaguskarzinom,0.9493424799605306
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Pankreatitis,0.8985749991627398
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Pneumonie_01,0.8498550154812482
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Pneumonie_02,0.9447860222244284
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Pyelonephritis,0.9586633940497984
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Rueckenschmerzen,0.9424841169138728
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Thorakale Schmerzen,0.9671357988701702
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Traumaanamnese,0.9480238264273854
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_Venenthrombose_TVT,0.9210347399603052
+medical,BAAI/bge-m3,MedGemma 27B Instruct,Anam_sexueller_Missbrauch,0.9642688718795788
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Aengstliche-Patientin,0.8640894021403255
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Appendizitis,0.8385399722252487
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Bauchschmerzen,0.9061529246231448
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Beinschmerzen,0.90864660597755
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Cephalgie,0.9143630011930174
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Cholezystitis,0.8912585535433766
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Covid-19_01,0.9013987801966707
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Covid-19_02,0.8485694160258119
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_01,0.9262061775044352
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_02,0.8706930268032079
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese,0.8524550025493078
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese_Saeugling,0.8865725875976151
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Gastroenteritis,0.8928864947247565
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Hyperthyreose,0.8810582748216914
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Koronarsyndrom,0.9024601440489796
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Lymphom,0.9321525092631946
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Oesophaguskarzinom,0.9290400769651134
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Pankreatitis,0.8502927277965048
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_01,0.8896853665067098
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_02,0.9240206045148917
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Pyelonephritis,0.908149043905106
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Rueckenschmerzen,0.8167648617723816
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Thorakale Schmerzen,0.9671383192515164
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Traumaanamnese,0.8934442008057092
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_Venenthrombose_TVT,0.8886096036486487
+medical,BAAI/bge-m3,Meta Llama 3.1 8B Instruct,Anam_sexueller_Missbrauch,0.8859800736896578
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Aengstliche-Patientin,0.914459473379036
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Appendizitis,0.921119237238076
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Bauchschmerzen,0.9389860961248998
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Beinschmerzen,0.9523442014636024
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Cephalgie,0.9066453012835648
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Cholezystitis,0.929221516777059
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Covid-19_01,0.9153818152591344
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Covid-19_02,0.9544292470006804
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Fahrradunfall_01,0.9069531156447876
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Fahrradunfall_02,0.9396210637472828
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Fremdanamnese,0.9249243208255268
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Fremdanamnese_Saeugling,0.9265373345099478
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Gastroenteritis,0.951617099626308
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Hyperthyreose,0.9131159467788644
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Koronarsyndrom,0.923412639925184
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Lymphom,0.913410456298268
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Oesophaguskarzinom,0.9126096585801284
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Pankreatitis,0.9515270230606276
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Pneumonie_01,0.943786446558458
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Pneumonie_02,0.938512689125362
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Pyelonephritis,0.9130236639407272
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Rueckenschmerzen,0.9079276437312463
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Thorakale Schmerzen,0.9355982768471368
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Traumaanamnese,0.9391528102555694
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_Venenthrombose_TVT,0.9327211604695104
+medical,BAAI/bge-m3,OpenAI GPT OSS 120B,Anam_sexueller_Missbrauch,0.935665423242424
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Aengstliche-Patientin,0.9655717243732648
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Appendizitis,0.9696353010224252
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Bauchschmerzen,0.9890751316031048
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Beinschmerzen,0.9687547803242494
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cephalgie,0.9847484376656372
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cholezystitis,0.987078261266427
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_01,0.9776927321975614
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_02,0.930262271914722
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_01,0.964329078686748
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_02,0.9721930573446326
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese,0.9520137349113368
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese_Saeugling,0.9442445473813782
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Gastroenteritis,0.9767742540136418
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Hyperthyreose,0.9759979071206256
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Koronarsyndrom,0.9209412661978884
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Lymphom,0.9878407741187086
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Oesophaguskarzinom,0.9629365953552071
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pankreatitis,0.9862426098798968
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_01,0.9546946735878868
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_02,0.9616478032001212
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pyelonephritis,0.9562450670106658
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Rueckenschmerzen,0.9813222633043552
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Thorakale Schmerzen,0.9815543733216852
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Traumaanamnese,0.9801243485232322
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Venenthrombose_TVT,0.9850431306942692
+medical,Alibaba-NLP/gte-multilingual-base,Llama 3.1 SauerkrautLM 70B Instruct,Anam_sexueller_Missbrauch,0.9712973776063994
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Aengstliche-Patientin,0.9218282581637486
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Appendizitis,0.9887181033781576
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Bauchschmerzen,0.9901777083057798
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Beinschmerzen,0.970930551647394
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Cephalgie,0.9899721499702376
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Cholezystitis,0.9814297938895428
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Covid-19_01,0.9904112998370757
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Covid-19_02,0.9689399668913738
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Fahrradunfall_01,0.986767751928002
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Fahrradunfall_02,0.9706543626884274
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Fremdanamnese,0.9733501516703053
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Fremdanamnese_Saeugling,0.9796827991203244
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Gastroenteritis,0.9633171227946324
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Hyperthyreose,0.9787446235157408
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Koronarsyndrom,0.9880810544172762
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Lymphom,0.9746688328974424
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Oesophaguskarzinom,0.980142913822272
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Pankreatitis,0.9790047693902668
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Pneumonie_01,0.9170871957360152
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Pneumonie_02,0.979057397030462
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Pyelonephritis,0.9855782359858872
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Rueckenschmerzen,0.9729973582932396
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Thorakale Schmerzen,0.9929739774028996
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Traumaanamnese,0.9682260076037766
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_Venenthrombose_TVT,0.9825079735335512
+medical,Alibaba-NLP/gte-multilingual-base,MedGemma 27B Instruct,Anam_sexueller_Missbrauch,0.983890560126131
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Aengstliche-Patientin,0.9109357943310904
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Appendizitis,0.9521789168887606
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Bauchschmerzen,0.9322886149151498
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Beinschmerzen,0.9659784698469656
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Cephalgie,0.971853894338002
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Cholezystitis,0.9070888644699688
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Covid-19_01,0.9512353838072296
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Covid-19_02,0.8699188301995052
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_01,0.9579564285172824
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_02,0.8919162540777372
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese,0.920762682226981
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese_Saeugling,0.9155053310955849
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Gastroenteritis,0.9640560460533928
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Hyperthyreose,0.9138545770957608
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Koronarsyndrom,0.9542416883882434
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Lymphom,0.9616316896153168
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Oesophaguskarzinom,0.9708712594791776
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Pankreatitis,0.9481265233636118
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_01,0.9467746867977552
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_02,0.9708638494640044
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Pyelonephritis,0.969557009140968
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Rueckenschmerzen,0.8761514990839698
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Thorakale Schmerzen,0.9662577845702908
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Traumaanamnese,0.952443452414855
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_Venenthrombose_TVT,0.964973095639183
+medical,Alibaba-NLP/gte-multilingual-base,Meta Llama 3.1 8B Instruct,Anam_sexueller_Missbrauch,0.9476368808342276
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Aengstliche-Patientin,0.9405611827382544
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Appendizitis,0.9334608926385828
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Bauchschmerzen,0.9705954211150684
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Beinschmerzen,0.97707068524831
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Cephalgie,0.9608241574971924
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Cholezystitis,0.9643807855970398
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Covid-19_01,0.9691252126150236
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Covid-19_02,0.9652561328001912
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Fahrradunfall_01,0.957313384067946
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Fahrradunfall_02,0.9706532316943672
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Fremdanamnese,0.9626388190423402
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Fremdanamnese_Saeugling,0.9540779778106362
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Gastroenteritis,0.9795126087017664
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Hyperthyreose,0.9423090201513414
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Koronarsyndrom,0.9461398920736988
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Lymphom,0.933761244276768
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Oesophaguskarzinom,0.944983005711153
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Pankreatitis,0.967807334743608
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Pneumonie_01,0.9672718149564165
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Pneumonie_02,0.9646243052478262
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Pyelonephritis,0.9565020185202754
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Rueckenschmerzen,0.947478806568196
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Thorakale Schmerzen,0.9702402657118032
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Traumaanamnese,0.9461607914213588
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_Venenthrombose_TVT,0.970383605989026
+medical,Alibaba-NLP/gte-multilingual-base,OpenAI GPT OSS 120B,Anam_sexueller_Missbrauch,0.9633093507408782
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Aengstliche-Patientin,0.9726592877696124
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Appendizitis,0.966213822921301
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Bauchschmerzen,0.9872157610391836
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Beinschmerzen,0.9634320674571971
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cephalgie,0.9871969027828511
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Cholezystitis,0.9857902665660392
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_01,0.967096527498328
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Covid-19_02,0.9534735182713661
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_01,0.959339390496095
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fahrradunfall_02,0.9659121589927734
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese,0.9768421359550468
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Fremdanamnese_Saeugling,0.9385507094167034
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Gastroenteritis,0.9697282644388826
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Hyperthyreose,0.9713182983180806
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Koronarsyndrom,0.9456012011176592
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Lymphom,0.9709395264748006
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Oesophaguskarzinom,0.9726919062879434
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pankreatitis,0.9785813383690957
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_01,0.9556180111456829
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pneumonie_02,0.967957088744993
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Pyelonephritis,0.972567254070989
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Rueckenschmerzen,0.9900597912575971
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Thorakale Schmerzen,0.981756860260185
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Traumaanamnese,0.962775542509926
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_Venenthrombose_TVT,0.9861105792156825
+medical,aari1995/German_Semantic_V3b,Llama 3.1 SauerkrautLM 70B Instruct,Anam_sexueller_Missbrauch,0.9801811927358292
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Aengstliche-Patientin,0.9663631418424626
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Appendizitis,0.9825650356982077
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Bauchschmerzen,0.9909459864238587
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Beinschmerzen,0.945123933647963
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Cephalgie,0.9892596875906952
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Cholezystitis,0.9909746356054701
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Covid-19_01,0.9964486302517458
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Covid-19_02,0.9652656588934114
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Fahrradunfall_01,0.9889134722463805
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Fahrradunfall_02,0.9431391538858254
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Fremdanamnese,0.971938898391449
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Fremdanamnese_Saeugling,0.9862378169210345
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Gastroenteritis,0.9607314285970877
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Hyperthyreose,0.9917515814332897
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Koronarsyndrom,0.992770820546129
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Lymphom,0.986429005935355
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Oesophaguskarzinom,0.9842662740205143
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Pankreatitis,0.9720495520243081
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Pneumonie_01,0.9479487049369292
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Pneumonie_02,0.9823287651478112
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Pyelonephritis,0.9905195026673589
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Rueckenschmerzen,0.9923655107008927
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Thorakale Schmerzen,0.9858302789910024
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Traumaanamnese,0.9774649120311493
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_Venenthrombose_TVT,0.9865219352449808
+medical,aari1995/German_Semantic_V3b,MedGemma 27B Instruct,Anam_sexueller_Missbrauch,0.98694107588208
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Aengstliche-Patientin,0.953162397330846
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Appendizitis,0.9381345067269806
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Bauchschmerzen,0.9546592494202256
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Beinschmerzen,0.9582325694278332
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Cephalgie,0.9603827705668033
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Cholezystitis,0.9441954674157582
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Covid-19_01,0.9454427248745247
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Covid-19_02,0.8004928213122117
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_01,0.9679645233157373
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Fahrradunfall_02,0.9611425449381756
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese,0.9348487844943918
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Fremdanamnese_Saeugling,0.9367755132509755
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Gastroenteritis,0.963960904158462
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Hyperthyreose,0.9518270526502883
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Koronarsyndrom,0.9635657940986891
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Lymphom,0.9534320711622883
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Oesophaguskarzinom,0.9674766592018343
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Pankreatitis,0.8831117505010417
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_01,0.9385554907546337
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Pneumonie_02,0.9726277736396173
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Pyelonephritis,0.9780514253696865
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Rueckenschmerzen,0.8805692578810008
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Thorakale Schmerzen,0.9741053182217164
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Traumaanamnese,0.9184629826223992
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_Venenthrombose_TVT,0.9474322484514982
+medical,aari1995/German_Semantic_V3b,Meta Llama 3.1 8B Instruct,Anam_sexueller_Missbrauch,0.9465092174082192
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Aengstliche-Patientin,0.9540212312474821
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Appendizitis,0.9740412822260076
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Bauchschmerzen,0.9891211950858126
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Beinschmerzen,0.9858137298490135
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Cephalgie,0.9871601172985608
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Cholezystitis,0.9890708143294908
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Covid-19_01,0.9825245835787711
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Covid-19_02,0.9794905000486596
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Fahrradunfall_01,0.987104176667483
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Fahrradunfall_02,0.9800343304495337
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Fremdanamnese,0.9874609252153963
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Fremdanamnese_Saeugling,0.971035846827526
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Gastroenteritis,0.9914040939570633
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Hyperthyreose,0.9847359582397667
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Koronarsyndrom,0.9763012114765605
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Lymphom,0.9788693282490767
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Oesophaguskarzinom,0.9828972646167865
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Pankreatitis,0.9923280847878542
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Pneumonie_01,0.9871612609154771
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Pneumonie_02,0.9856018951336069
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Pyelonephritis,0.980506777846197
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Rueckenschmerzen,0.9747723347402523
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Thorakale Schmerzen,0.9729459438601391
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Traumaanamnese,0.9802187668776053
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_Venenthrombose_TVT,0.9863022821530144
+medical,aari1995/German_Semantic_V3b,OpenAI GPT OSS 120B,Anam_sexueller_Missbrauch,0.9764667928630367

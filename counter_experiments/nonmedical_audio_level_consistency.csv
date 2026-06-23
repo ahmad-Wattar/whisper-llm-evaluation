@@ -1,0 +1,41 @@
+domain,embedding_model,model_name,audio_id,n_generations,consistency,std_pairwise_similarity,n_pairs
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,GPT OSS,Mythologien,4,0.960409250560033,0.013784565880440398,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,GPT OSS,Orbitalsysteme,4,0.9293963556829036,0.047551406396563765,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Llama 3.1,Mythologien,4,0.9848958058231169,0.01112043941877944,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Llama 3.1,Orbitalsysteme,4,0.9796370951981183,0.012552114641436556,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Medgemma,Mythologien,4,0.9893140808581166,0.007710049311989053,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Medgemma,Orbitalsysteme,4,0.7687726284986315,0.15673886433371634,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Sauerkraut,Mythologien,4,0.843221357111691,0.11376862690123267,6
+nonmedical,embedding_meta-llama_Llama-3.1-8B-Instruct,Sauerkraut,Orbitalsysteme,4,0.8818080224947978,0.07889690959587366,6
+nonmedical,embedding_Jina_v3,GPT OSS,Mythologien,4,0.9772844136578828,0.012564250269817515,6
+nonmedical,embedding_Jina_v3,GPT OSS,Orbitalsysteme,4,0.982676435693019,0.009590317222103737,6
+nonmedical,embedding_Jina_v3,Llama 3.1,Mythologien,4,0.9878629489288121,0.009745521577621891,6
+nonmedical,embedding_Jina_v3,Llama 3.1,Orbitalsysteme,4,0.9674786541882711,0.021866833049726576,6
+nonmedical,embedding_Jina_v3,Medgemma,Mythologien,4,0.9953018508674027,0.0032043981152446942,6
+nonmedical,embedding_Jina_v3,Medgemma,Orbitalsysteme,4,0.9949530452183678,0.0033652492374810117,6
+nonmedical,embedding_Jina_v3,Sauerkraut,Mythologien,4,0.9449666708452251,0.03900876708997804,6
+nonmedical,embedding_Jina_v3,Sauerkraut,Orbitalsysteme,4,0.9444875829523355,0.008878684437259527,6
+nonmedical,embedding_AARI_German_Semantic_V3b,GPT OSS,Mythologien,4,0.9943680039525948,0.0017503997781811702,6
+nonmedical,embedding_AARI_German_Semantic_V3b,GPT OSS,Orbitalsysteme,4,0.9931693437007304,0.0026360525277483783,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Llama 3.1,Mythologien,4,0.9928362388380463,0.0037164086965305117,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Llama 3.1,Orbitalsysteme,4,0.9895153230527703,0.006450489562153901,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Medgemma,Mythologien,4,0.9958149459785356,0.0030211450278529372,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Medgemma,Orbitalsysteme,4,0.9947001232662743,0.0032289083982563116,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Sauerkraut,Mythologien,4,0.9874643906384369,0.005330217757350978,6
+nonmedical,embedding_AARI_German_Semantic_V3b,Sauerkraut,Orbitalsysteme,4,0.9790965264140326,0.005981868307236924,6
+nonmedical,embedding_BGE_m3,GPT OSS,Mythologien,4,0.9501424087101568,0.008046592173240259,6
+nonmedical,embedding_BGE_m3,GPT OSS,Orbitalsysteme,4,0.9423604202902149,0.029029726633091973,6
+nonmedical,embedding_BGE_m3,Llama 3.1,Mythologien,4,0.9708689334570907,0.018285364019888634,6
+nonmedical,embedding_BGE_m3,Llama 3.1,Orbitalsysteme,4,0.9601213403582292,0.026015854124307264,6
+nonmedical,embedding_BGE_m3,Medgemma,Mythologien,4,0.9789480415158054,0.01511074508508436,6
+nonmedical,embedding_BGE_m3,Medgemma,Orbitalsysteme,4,0.9770315984787225,0.013484520885023688,6
+nonmedical,embedding_BGE_m3,Sauerkraut,Mythologien,4,0.9419047042944504,0.027018012320218544,6
+nonmedical,embedding_BGE_m3,Sauerkraut,Orbitalsysteme,4,0.8853264656718639,0.027072492206538127,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,GPT OSS,Mythologien,4,0.9733582612288156,0.011095177037273737,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,GPT OSS,Orbitalsysteme,4,0.9760348395760413,0.015018917663613279,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Llama 3.1,Mythologien,4,0.9920497564632097,0.005864858612869512,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Llama 3.1,Orbitalsysteme,4,0.9939306572946897,0.0039881361428855495,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Medgemma,Mythologien,4,0.9943618597616716,0.0038579652112245787,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Medgemma,Orbitalsysteme,4,0.9880615579592081,0.0071504967467325336,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Sauerkraut,Mythologien,4,0.9679864780824244,0.014880002953885117,6
+nonmedical,embedding_Alibaba_gte_multilingual_base,Sauerkraut,Orbitalsysteme,4,0.9438461880610619,0.02123676973330023,6
