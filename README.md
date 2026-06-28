@@ -5,7 +5,7 @@ This repository contains the pipeline and evaluation code accompanying the paper
 > **Embedding-Based Evaluation and Benchmarking Framework for Optimizing LLM Post-Processing of Medical Transcriptions from a Local Whisper System**
 
 **Authors:**  
-Ahmad WATTARᵃ, Jan CHRISTOPHᵃ, Christoph DEMUSᵃ, Patrick LIEGELᵃ, and Christian JÄGERᵃ¹
+Ahmad WATTAR, Jan CHRISTOPH, Christoph DEMUS, Patrick LIEGEL, and Christian JÄGER
 
 ![Cover](cover.png)
 
